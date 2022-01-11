@@ -1,0 +1,3169 @@
+,Season,Club,Name,Position,Nationatility
+0,2020/21,Arsenal,Bernd Leno,Goalkeeper,Germany
+1,2020/21,Arsenal,Emiliano Martínez,Goalkeeper,Argentina
+2,2020/21,Arsenal,Matt Macey,Goalkeeper,England
+3,2020/21,Arsenal,Héctor Bellerín,Defender,Spain
+4,2020/21,Arsenal,Kieran Tierney,Defender,Scotland
+5,2020/21,Arsenal,William Saliba,Defender,France
+6,2020/21,Arsenal,Sokratis Papastathopoulos,Defender,Greece
+7,2020/21,Arsenal,Rob Holding,Defender,England
+8,2020/21,Arsenal,Shkodran Mustafi,Defender,Germany
+9,2020/21,Arsenal,Calum Chambers,Defender,England
+10,2020/21,Arsenal,David Luiz,Defender,Brazil
+11,2020/21,Arsenal,Sead Kolasinac,Defender,Bosnia & Herzegovina
+12,2020/21,Arsenal,Mesut Özil,Midfielder,Germany
+13,2020/21,Arsenal,Lucas Torreira,Midfielder,Uruguay
+14,2020/21,Arsenal,Ainsley Maitland-Niles,Midfielder,England
+15,2020/21,Arsenal,Mohamed Elneny,Midfielder,Egypt
+16,2020/21,Arsenal,Joseph Willock,Midfielder,England
+17,2020/21,Arsenal,Mattéo Guendouzi,Midfielder,France
+18,2020/21,Arsenal,Emile Smith Rowe,Midfielder,England
+19,2020/21,Arsenal,Granit Xhaka,Midfielder,Switzerland
+20,2020/21,Arsenal,Bukayo Saka,Midfielder,England
+21,2020/21,Arsenal,Alexandre Lacazette,Forward,France
+22,2020/21,Arsenal,Pierre-Emerick Aubameyang,Forward,Gabon
+23,2020/21,Arsenal,Nicolas Pépé,Forward,Cote D’Ivoire
+24,2020/21,Arsenal,Reiss Nelson,Forward,England
+25,2020/21,Arsenal,Eddie Nketiah,Forward,England
+26,2020/21,Arsenal,Gabriel Martinelli,Forward,Brazil
+27,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+28,2020/21,Arsenal,Robbie Burton,Midfielder,Wales
+29,2020/21,Arsenal,Matthew Smith,Defender,England
+30,2020/21,Arsenal,Zech Medley,Defender,England
+31,2020/21,Arsenal,Willian,Forward,Brazil
+32,2020/21,Arsenal,Danny Ballard,Defender,Northern Ireland
+33,2020/21,Arsenal,Mark McGuinness,Defender,Ireland
+34,2020/21,Arsenal,Ben Cottrell,Midfielder,England
+35,2020/21,Arsenal,Daniel Oyegoke,Defender,England
+36,2020/21,Arsenal,Miguel Azeez,Midfielder,England
+37,2020/21,Arsenal,Tolaji Bola,Defender,England
+38,2020/21,Arsenal,James Olayinka,Midfielder,England
+39,2020/21,Arsenal,George Lewis,Forward,Rwanda
+40,2020/21,Arsenal,Tyreece John-Jules,Forward,England
+41,2020/21,Arsenal,Henrikh Mkhitaryan,Midfielder,Armenia
+42,2020/21,Arsenal,Gabriel Magalhães,Defender,Brazil
+43,2020/21,Arsenal,Rúnar Alex Rúnarsson,Goalkeeper,Iceland
+44,2020/21,Arsenal,Thomas Partey,Midfielder,Ghana
+45,2020/21,Arsenal,Cédric Soares,Defender,Portugal
+46,2020/21,Arsenal,Pablo Marí,Defender,Spain
+47,2020/21,Arsenal,Karl Hein,Goalkeeper,Estonia
+48,2020/21,Arsenal,Folarin Balogun,Forward,England
+49,2020/21,Arsenal,Mat Ryan,Goalkeeper,Australia
+50,2020/21,Arsenal,Martin Ødegaard,Midfielder,Norway
+51,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+52,2020/21,Arsenal,Ben Cottrell,Midfielder,England
+53,2020/21,Arsenal,Miguel Azeez,Midfielder,England
+54,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+55,2020/21,Arsenal,Arthur Okonkwo,Goalkeeper,England
+56,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+57,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+58,2020/21,Arsenal,Joel Lopez Salguero,Defender,Spain
+59,2020/21,Arsenal,James Hillson,Goalkeeper,England
+60,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+61,2020/21,Arsenal,Dani Ceballos,Midfielder,Spain
+62,2020/21,Aston Villa,Tom Heaton,Goalkeeper,England
+63,2020/21,Aston Villa,Jed Steer,Goalkeeper,England
+64,2020/21,Aston Villa,Ørjan Nyland,Goalkeeper,Norway
+65,2020/21,Aston Villa,Lovre Kalinic,Goalkeeper,Croatia
+66,2020/21,Aston Villa,Neil Taylor,Defender,Wales
+67,2020/21,Aston Villa,Ezri Konsa,Defender,England
+68,2020/21,Aston Villa,Matt Targett,Defender,England
+69,2020/21,Aston Villa,Björn Engels,Defender,Belgium
+70,2020/21,Aston Villa,Frédéric Guilbert,Defender,France
+71,2020/21,Aston Villa,Ahmed El Mohamady,Defender,Egypt
+72,2020/21,Aston Villa,Kortney Hause,Defender,England
+73,2020/21,Aston Villa,Tyrone Mings,Defender,England
+74,2020/21,Aston Villa,Douglas Luiz,Midfielder,Brazil
+75,2020/21,Aston Villa,John McGinn,Midfielder,Scotland
+76,2020/21,Aston Villa,Henri Lansbury,Midfielder,England
+77,2020/21,Aston Villa,Jack Grealish,Midfielder,England
+78,2020/21,Aston Villa,Marvelous Nakamba,Midfielder,Zimbabwe
+79,2020/21,Aston Villa,Conor Hourihane,Midfielder,Ireland
+80,2020/21,Aston Villa,Trézéguet,Midfielder,Egypt
+81,2020/21,Aston Villa,Anwar El Ghazi,Midfielder,Netherlands
+82,2020/21,Aston Villa,Jota,Midfielder,Spain
+83,2020/21,Aston Villa,Wesley,Forward,Brazil
+84,2020/21,Aston Villa,Mbwana Samatta,Forward,Tanzania
+85,2020/21,Aston Villa,Indiana Vassilev,Forward,United States
+86,2020/21,Aston Villa,Keinan Davis,Forward,England
+87,2020/21,Aston Villa,Danny Drinkwater,Midfielder,England
+88,2020/21,Aston Villa,Pepe Reina,Goalkeeper,Spain
+89,2020/21,Aston Villa,Cameron Archer,Forward,England
+90,2020/21,Aston Villa,Matija Sarkic,Goalkeeper,Montenegro
+91,2020/21,Aston Villa,Jacob Ramsey,Midfielder,England
+92,2020/21,Aston Villa,Matthew Cash,Defender,Poland
+93,2020/21,Aston Villa,Ollie Watkins,Forward,England
+94,2020/21,Aston Villa,Emiliano Martínez,Goalkeeper,Argentina
+95,2020/21,Aston Villa,Bertrand Traoré,Forward,Burkina Faso
+96,2020/21,Aston Villa,Ross Barkley,Midfielder,England
+97,2020/21,Aston Villa,Akos Onodi,Goalkeeper,Hungary
+98,2020/21,Aston Villa,Oliwier Zych,Goalkeeper,Poland
+99,2020/21,Aston Villa,Dominic Revan,Defender,England
+100,2020/21,Aston Villa,Jake Walker,Defender,England
+101,2020/21,Aston Villa,Sil Swinkels,Defender,Netherlands
+102,2020/21,Aston Villa,Frankie Ealing,Defender,England
+103,2020/21,Aston Villa,Callum Rowe,Midfielder,England
+104,2020/21,Aston Villa,Harrison Sohna,Midfielder,England
+105,2020/21,Aston Villa,Benjamin Chrisene,Midfielder,England
+106,2020/21,Aston Villa,Kaine Hayden,Midfielder,England
+107,2020/21,Aston Villa,Arjan Raikhy,Midfielder,England
+108,2020/21,Aston Villa,Brad Young,Midfielder,England
+109,2020/21,Aston Villa,Mamadou Dialla Sylla,Midfielder,Guinea
+110,2020/21,Aston Villa,Lamare Bogarde,Midfielder,Netherlands
+111,2020/21,Aston Villa,Hayden Lindley,Midfielder,England
+112,2020/21,Aston Villa,Edward Rowe,Midfielder,England
+113,2020/21,Aston Villa,Taylor Jay-Hart,Midfielder,England
+114,2020/21,Aston Villa,Mungo Bridge,Forward,England
+115,2020/21,Aston Villa,Michael Tait,Forward,England
+116,2020/21,Aston Villa,Louie Barry,Forward,England
+117,2020/21,Aston Villa,Morgan Sanson,Midfielder,France
+118,2020/21,Aston Villa,Jacob Ramsey,Midfielder,England
+119,2020/21,Aston Villa,Carney Chukwuemeka,Midfielder,England
+120,2020/21,Aston Villa,Kaine Hayden,Midfielder,England
+121,2020/21,Aston Villa,Jaden Philogene-Bidace,Midfielder,England
+122,2020/21,Aston Villa,Kaine Hayden,Midfielder,England
+123,2020/21,Brighton and Hove Albion,Mat Ryan,Goalkeeper,Australia
+124,2020/21,Brighton and Hove Albion,Jason Steele,Goalkeeper,England
+125,2020/21,Brighton and Hove Albion,David Button,Goalkeeper,England
+126,2020/21,Brighton and Hove Albion,Benjamin White,Defender,England
+127,2020/21,Brighton and Hove Albion,Tariq Lamptey,Defender,England
+128,2020/21,Brighton and Hove Albion,Shane Duffy,Defender,Ireland
+129,2020/21,Brighton and Hove Albion,Lewis Dunk,Defender,England
+130,2020/21,Brighton and Hove Albion,Adam Webster,Defender,England
+131,2020/21,Brighton and Hove Albion,Martín Montoya,Defender,Spain
+132,2020/21,Brighton and Hove Albion,Bernardo,Defender,Brazil
+133,2020/21,Brighton and Hove Albion,Dan Burn,Defender,England
+134,2020/21,Brighton and Hove Albion,Joël Veltman,Defender,Netherlands
+135,2020/21,Brighton and Hove Albion,Dale Stephens,Midfielder,England
+136,2020/21,Brighton and Hove Albion,Yves Bissouma,Midfielder,Mali
+137,2020/21,Brighton and Hove Albion,Alexis Mac Allister,Midfielder,Argentina
+138,2020/21,Brighton and Hove Albion,Leandro Trossard,Forward,Belgium
+139,2020/21,Brighton and Hove Albion,Pascal Groß,Midfielder,Germany
+140,2020/21,Brighton and Hove Albion,Adam Lallana,Midfielder,England
+141,2020/21,Brighton and Hove Albion,Aaron Mooy,Midfielder,Australia
+142,2020/21,Brighton and Hove Albion,Solly March,Midfielder,England
+143,2020/21,Brighton and Hove Albion,Davy Pröpper,Midfielder,Netherlands
+144,2020/21,Brighton and Hove Albion,Neal Maupay,Forward,France
+145,2020/21,Brighton and Hove Albion,Alireza Jahanbakhsh,Forward,Iran
+146,2020/21,Brighton and Hove Albion,Glenn Murray,Forward,England
+147,2020/21,Brighton and Hove Albion,José Izquierdo,Forward,Colombia
+148,2020/21,Brighton and Hove Albion,Aaron Connolly,Forward,Ireland
+149,2020/21,Brighton and Hove Albion,Steven Alzate,Midfielder,Colombia
+150,2020/21,Brighton and Hove Albion,Ryan Longman,Midfielder,England
+151,2020/21,Brighton and Hove Albion,Romaric Yapi,Defender,France
+152,2020/21,Brighton and Hove Albion,Peter Gwargis,Midfielder,Sweden
+153,2020/21,Brighton and Hove Albion,Max Sanders,Midfielder,England
+154,2020/21,Brighton and Hove Albion,Jack Spong,Midfielder,England
+155,2020/21,Brighton and Hove Albion,Taylor Richards,Midfielder,England
+156,2020/21,Brighton and Hove Albion,Beram Kayal,Midfielder,Israel
+157,2020/21,Brighton and Hove Albion,Alex Cochrane,Defender,England
+158,2020/21,Brighton and Hove Albion,Teddy Jenks,Midfielder,England
+159,2020/21,Brighton and Hove Albion,Ezequiel Schelotto,Defender,Argentina
+160,2020/21,Brighton and Hove Albion,Jayson Molumby,Midfielder,Ireland
+161,2020/21,Brighton and Hove Albion,Christian Walton,Goalkeeper,England
+162,2020/21,Brighton and Hove Albion,Robert Sánchez,Goalkeeper,Spain
+163,2020/21,Brighton and Hove Albion,Viktor Gyökeres,Forward,Sweden
+164,2020/21,Brighton and Hove Albion,Jan Paul van Hecke,Defender,Netherlands
+165,2020/21,Brighton and Hove Albion,Haydon Roberts,Defender,England
+166,2020/21,Brighton and Hove Albion,Lars Dendoncker,Midfielder,Belgium
+167,2020/21,Brighton and Hove Albion,Ulrick Eneme-Ella,Forward,Gabon
+168,2020/21,Brighton and Hove Albion,Andi Zeqiri,Forward,Switzerland
+169,2020/21,Brighton and Hove Albion,Jakub Moder,Midfielder,Poland
+170,2020/21,Brighton and Hove Albion,Michal Karbownik,Defender,Poland
+171,2020/21,Brighton and Hove Albion,Danny Welbeck,Forward,England
+172,2020/21,Brighton and Hove Albion,Percy Tau,Forward,South Africa
+173,2020/21,Brighton and Hove Albion,Reda Khadra,Midfielder,Germany
+174,2020/21,Brighton and Hove Albion,Jensen Weir,Midfielder,England
+175,2020/21,Brighton and Hove Albion,Moisés Caicedo,Midfielder,Ecuador
+176,2020/21,Brighton and Hove Albion,Thomas McGill,Goalkeeper,England
+177,2020/21,Brighton and Hove Albion,Michal Karbownik,Defender,Poland
+178,2020/21,Brighton and Hove Albion,Romaric Yapi,Defender,France
+179,2020/21,Brighton and Hove Albion,Jakub Moder,Midfielder,Poland
+180,2020/21,Brighton and Hove Albion,Peter Gwargis,Midfielder,Sweden
+181,2020/21,Brighton and Hove Albion,Teddy Jenks,Midfielder,England
+182,2020/21,Brighton and Hove Albion,Florin Andone,Forward,Romania
+183,2020/21,Brighton and Hove Albion,Warren O'Hora,Defender,Ireland
+184,2020/21,Burnley,Nick Pope,Goalkeeper,England
+185,2020/21,Burnley,Bailey Peacock-Farrell,Goalkeeper,Northern Ireland
+186,2020/21,Burnley,Matthew Lowton,Defender,England
+187,2020/21,Burnley,Charlie Taylor,Defender,England
+188,2020/21,Burnley,James Tarkowski,Defender,England
+189,2020/21,Burnley,Ben Mee,Defender,England
+190,2020/21,Burnley,Ben Gibson,Defender,England
+191,2020/21,Burnley,Erik Pieters,Defender,Netherlands
+192,2020/21,Burnley,Phil Bardsley,Defender,Scotland
+193,2020/21,Burnley,Kevin Long,Defender,Ireland
+194,2020/21,Burnley,Jack Cork,Midfielder,England
+195,2020/21,Burnley,Jóhann Gudmundsson,Midfielder,Iceland
+196,2020/21,Burnley,Josh Brownhill,Midfielder,England
+197,2020/21,Burnley,Dwight McNeil,Midfielder,England
+198,2020/21,Burnley,Robbie Brady,Midfielder,Ireland
+199,2020/21,Burnley,Ashley Westwood,Midfielder,England
+200,2020/21,Burnley,Chris Wood,Forward,New Zealand
+201,2020/21,Burnley,Ashley Barnes,Forward,England
+202,2020/21,Burnley,Jay Rodriguez,Forward,England
+203,2020/21,Burnley,Matej Vydra,Forward,Czech Republic
+204,2020/21,Burnley,Josh Benson,Midfielder,England
+205,2020/21,Burnley,Bobby Thomas,Defender,England
+206,2020/21,Burnley,Joel Mumbongo,Forward,Sweden
+207,2020/21,Burnley,Ali Koiki,Defender,England
+208,2020/21,Burnley,Mace Goodridge,Midfielder,England
+209,2020/21,Burnley,Anthony Driscoll-Glennon,Defender,England
+210,2020/21,Burnley,Lukas Jensen,Goalkeeper,Denmark
+211,2020/21,Burnley,Lewis Richardson,Midfielder,England
+212,2020/21,Burnley,Max Thompson,Forward,England
+213,2020/21,Burnley,Jimmy Dunne,Defender,Ireland
+214,2020/21,Burnley,Will Norris,Goalkeeper,England
+215,2020/21,Burnley,Mace Goodridge,Midfielder,England
+216,2020/21,Burnley,Dale Stephens,Midfielder,England
+217,2020/21,Burnley,Anthony Mancini,Midfielder,France
+218,2020/21,Burnley,Richard Nartey,Defender,England
+219,2020/21,Burnley,Jimmy Dunne,Defender,Ireland
+220,2020/21,Burnley,Anthony Driscoll-Glennon,Defender,England
+221,2020/21,Burnley,Lewis Richardson,Midfielder,England
+222,2020/21,Burnley,Josh Benson,Midfielder,England
+223,2020/21,Burnley,Max Thompson,Forward,England
+224,2020/21,Burnley,Joel Mumbongo,Forward,Sweden
+225,2020/21,Chelsea,Kepa Arrizabalaga,Goalkeeper,Spain
+226,2020/21,Chelsea,Willy Caballero,Goalkeeper,Argentina
+227,2020/21,Chelsea,Jamie Cumming,Goalkeeper,England
+228,2020/21,Chelsea,Antonio Rüdiger,Defender,Germany
+229,2020/21,Chelsea,Marcos Alonso,Defender,Spain
+230,2020/21,Chelsea,Andreas Christensen,Defender,Denmark
+231,2020/21,Chelsea,Kurt Zouma,Defender,France
+232,2020/21,Chelsea,Reece James,Defender,England
+233,2020/21,Chelsea,César Azpilicueta,Defender,Spain
+234,2020/21,Chelsea,Fikayo Tomori,Defender,England
+235,2020/21,Chelsea,Emerson,Defender,Italy
+236,2020/21,Chelsea,Hakim Ziyech,Midfielder,Morocco
+237,2020/21,Chelsea,Jorginho,Midfielder,Italy
+238,2020/21,Chelsea,N'Golo Kanté,Midfielder,France
+239,2020/21,Chelsea,Ross Barkley,Midfielder,England
+240,2020/21,Chelsea,Ruben Loftus-Cheek,Midfielder,England
+241,2020/21,Chelsea,Mateo Kovacic,Midfielder,Croatia
+242,2020/21,Chelsea,Mason Mount,Midfielder,England
+243,2020/21,Chelsea,Christian Pulisic,Midfielder,United States
+244,2020/21,Chelsea,Billy Gilmour,Midfielder,Scotland
+245,2020/21,Chelsea,Timo Werner,Forward,Germany
+246,2020/21,Chelsea,Tammy Abraham,Forward,England
+247,2020/21,Chelsea,Willian,Forward,Brazil
+248,2020/21,Chelsea,Pedro,Forward,Spain
+249,2020/21,Chelsea,Olivier Giroud,Forward,France
+250,2020/21,Chelsea,Callum Hudson-Odoi,Forward,England
+251,2020/21,Chelsea,Michy Batshuayi,Forward,Belgium
+252,2020/21,Chelsea,Lewis Bate,Midfielder,England
+253,2020/21,Chelsea,Ian Maatsen,Defender,Netherlands
+254,2020/21,Chelsea,Faustino Anjorin,Midfielder,England
+255,2020/21,Chelsea,Armando Broja,Forward,Albania
+256,2020/21,Chelsea,Henry Lawrence,Defender,England
+257,2020/21,Chelsea,Dynel Simeu,Defender,England
+258,2020/21,Chelsea,Ben Chilwell,Defender,England
+259,2020/21,Chelsea,Malang Sarr,Defender,France
+260,2020/21,Chelsea,Thiago Silva,Defender,Brazil
+261,2020/21,Chelsea,Nathan Baxter,Goalkeeper,England
+262,2020/21,Chelsea,Juan Familia-Castillo,Defender,Netherlands
+263,2020/21,Chelsea,Ethan Ampadu,Defender,Wales
+264,2020/21,Chelsea,Conor Gallagher,Midfielder,England
+265,2020/21,Chelsea,Harvey Vale,Midfielder,England
+266,2020/21,Chelsea,Myles Peart-Harris,Midfielder,England
+267,2020/21,Chelsea,Luke McCormick,Midfielder,England
+268,2020/21,Chelsea,Lewis Baker,Midfielder,England
+269,2020/21,Chelsea,Mario Pasalic,Midfielder,Croatia
+270,2020/21,Chelsea,Kai Havertz,Midfielder,Germany
+271,2020/21,Chelsea,Édouard Mendy,Goalkeeper,Senegal
+272,2020/21,Chelsea,George McEachran,Midfielder,England
+273,2020/21,Chelsea,Marco van Ginkel,Midfielder,Netherlands
+274,2020/21,Chelsea,Karlo Ziger,Goalkeeper,Croatia
+275,2020/21,Chelsea,Faustino Anjorin,Midfielder,England
+276,2020/21,Chelsea,Victor Moses,Defender,Nigeria
+277,2020/21,Chelsea,Tiemoué Bakayoko,Midfielder,France
+278,2020/21,Chelsea,Davide Zappacosta,Defender,Italy
+279,2020/21,Chelsea,Lewis Bate,Midfielder,England
+280,2020/21,Chelsea,Valentino Livramento,Defender,England
+281,2020/21,Crystal Palace,Wayne Hennessey,Goalkeeper,Wales
+282,2020/21,Crystal Palace,Vicente Guaita,Goalkeeper,Spain
+283,2020/21,Crystal Palace,Nathan Ferguson,Defender,England
+284,2020/21,Crystal Palace,Joel Ward,Defender,England
+285,2020/21,Crystal Palace,Patrick van Aanholt,Defender,Netherlands
+286,2020/21,Crystal Palace,James Tomkins,Defender,England
+287,2020/21,Crystal Palace,Scott Dann,Defender,England
+288,2020/21,Crystal Palace,Mamadou Sakho,Defender,France
+289,2020/21,Crystal Palace,Gary Cahill,Defender,England
+290,2020/21,Crystal Palace,Martin Kelly,Defender,England
+291,2020/21,Crystal Palace,Luka Milivojevic,Midfielder,Serbia
+292,2020/21,Crystal Palace,Max Meyer,Midfielder,Germany
+293,2020/21,Crystal Palace,Cheikhou Kouyaté,Midfielder,Senegal
+294,2020/21,Crystal Palace,Andros Townsend,Midfielder,England
+295,2020/21,Crystal Palace,Jeffrey Schlupp,Midfielder,Ghana
+296,2020/21,Crystal Palace,James McArthur,Midfielder,Scotland
+297,2020/21,Crystal Palace,James McCarthy,Midfielder,Ireland
+298,2020/21,Crystal Palace,Jairo Riedewald,Midfielder,Netherlands
+299,2020/21,Crystal Palace,Jordan Ayew,Forward,Ghana
+300,2020/21,Crystal Palace,Wilfried Zaha,Forward,Cote D’Ivoire
+301,2020/21,Crystal Palace,Christian Benteke,Forward,Belgium
+302,2020/21,Crystal Palace,Stephen Henderson,Goalkeeper,Ireland
+303,2020/21,Crystal Palace,John-Kymani Gordon,Forward,England
+304,2020/21,Crystal Palace,Nikola Tavares,Defender,Croatia
+305,2020/21,Crystal Palace,Tyrick Mitchell,Defender,England
+306,2020/21,Crystal Palace,Nya Kirby,Midfielder,England
+307,2020/21,Crystal Palace,Brandon Pierrick,Forward,England
+308,2020/21,Crystal Palace,Sam Woods,Defender,England
+309,2020/21,Crystal Palace,Eberechi Eze,Midfielder,England
+310,2020/21,Crystal Palace,Jaroslaw Jach,Defender,Poland
+311,2020/21,Crystal Palace,Michy Batshuayi,Forward,Belgium
+312,2020/21,Crystal Palace,Ryan Inniss,Defender,England
+313,2020/21,Crystal Palace,Nathaniel Clyne,Defender,England
+314,2020/21,Crystal Palace,Jack Butland,Goalkeeper,England
+315,2020/21,Crystal Palace,Jean-Philippe Mateta,Forward,France
+316,2020/21,Crystal Palace,Stephen Henderson,Goalkeeper,Ireland
+317,2020/21,Crystal Palace,Tyrick Mitchell,Defender,England
+318,2020/21,Crystal Palace,Sam Woods,Defender,England
+319,2020/21,Crystal Palace,Connor Wickham,Forward,England
+320,2020/21,Crystal Palace,Reece Hannam,Defender,England
+321,2020/21,Crystal Palace,Jesurun Rak-Sakyi,Midfielder,England
+322,2020/21,Everton,Jordan Pickford,Goalkeeper,England
+323,2020/21,Everton,João Virgínia,Goalkeeper,Portugal
+324,2020/21,Everton,Jonas Lössl,Goalkeeper,Denmark
+325,2020/21,Everton,Mason Holgate,Defender,England
+326,2020/21,Everton,Michael Keane,Defender,England
+327,2020/21,Everton,Lucas Digne,Defender,France
+328,2020/21,Everton,Yerry Mina,Defender,Colombia
+329,2020/21,Everton,Séamus Coleman,Defender,Ireland
+330,2020/21,Everton,Jarrad Branthwaite,Defender,England
+331,2020/21,Everton,Jonjoe Kenny,Defender,England
+332,2020/21,Everton,Fabian Delph,Midfielder,England
+333,2020/21,Everton,Gylfi Sigurdsson,Midfielder,Iceland
+334,2020/21,Everton,André Gomes,Midfielder,Portugal
+335,2020/21,Everton,Jean-Philippe Gbamin,Midfielder,Cote D’Ivoire
+336,2020/21,Everton,Tom Davies,Midfielder,England
+337,2020/21,Everton,Beni Baningime,Midfielder,DR Congo
+338,2020/21,Everton,Richarlison,Forward,Brazil
+339,2020/21,Everton,Dominic Calvert-Lewin,Forward,England
+340,2020/21,Everton,Theo Walcott,Forward,England
+341,2020/21,Everton,Cenk Tosun,Forward,Turkey
+342,2020/21,Everton,Alexander Iwobi,Forward,Nigeria
+343,2020/21,Everton,Bernard,Forward,Brazil
+344,2020/21,Everton,Moise Kean,Forward,Italy
+345,2020/21,Everton,Anthony Gordon,Forward,England
+346,2020/21,Everton,Djibril Sidibé,Defender,France
+347,2020/21,Everton,Maarten Stekelenburg,Goalkeeper,Netherlands
+348,2020/21,Everton,Dennis Adeniran,Midfielder,England
+349,2020/21,Everton,Ellis Simms,Forward,England
+350,2020/21,Everton,Leighton Baines,Defender,England
+351,2020/21,Everton,Allan,Midfielder,Brazil
+352,2020/21,Everton,James Rodríguez,Midfielder,Colombia
+353,2020/21,Everton,Abdoulaye Doucouré,Midfielder,France
+354,2020/21,Everton,Niels Nkounkou,Defender,France
+355,2020/21,Everton,Ben Godfrey,Defender,England
+356,2020/21,Everton,Robin Olsen,Goalkeeper,Sweden
+357,2020/21,Everton,Thierry Small,Defender,England
+358,2020/21,Everton,Tyler Onyango,Midfielder,England
+359,2020/21,Everton,Joshua King,Forward,Norway
+360,2020/21,Everton,Harry Tyrer,Goalkeeper,England
+361,2020/21,Everton,Muhamed Besic,Midfielder,Bosnia & Herzegovina
+362,2020/21,Everton,Yannick Bolasie,Forward,DR Congo
+363,2020/21,Everton,Sandro Ramírez,Forward,Spain
+364,2020/21,Everton,Ryan Astley,Defender,Wales
+365,2020/21,Everton,Kyle John,Defender,England
+366,2020/21,Everton,Nathan Broadhead,Forward,Wales
+367,2020/21,Everton,Zan-Luk Leban,Goalkeeper,Slovenia
+368,2020/21,Everton,Reece Welch,Defender,England
+369,2020/21,Everton,Isaac Price,Forward,England
+370,2020/21,Fulham,Marcus Bettinelli,Goalkeeper,England
+371,2020/21,Fulham,Marek Rodák,Goalkeeper,Slovakia
+372,2020/21,Fulham,Jordan Archer,Goalkeeper,Scotland
+373,2020/21,Fulham,Fabri,Goalkeeper,Spain
+374,2020/21,Fulham,Michael Hector,Defender,Jamaica
+375,2020/21,Fulham,Denis Odoi,Defender,Belgium
+376,2020/21,Fulham,Alfie Mawson,Defender,England
+377,2020/21,Fulham,Tim Ream,Defender,United States
+378,2020/21,Fulham,Maxime Le Marchand,Defender,France
+379,2020/21,Fulham,Cyrus Christie,Defender,Ireland
+380,2020/21,Fulham,Joe Bryan,Defender,England
+381,2020/21,Fulham,Steven Sessegnon,Defender,England
+382,2020/21,Fulham,Jean Michaël Seri,Midfielder,Cote D’Ivoire
+383,2020/21,Fulham,Kevin McDonald,Midfielder,Scotland
+384,2020/21,Fulham,Neeskens Kebano,Midfielder,DR Congo
+385,2020/21,Fulham,Stefan Johansen,Midfielder,Norway
+386,2020/21,Fulham,Tom Cairney,Midfielder,Scotland
+387,2020/21,Fulham,Anthony Knockaert,Midfielder,France
+388,2020/21,Fulham,Josh Onomah,Midfielder,England
+389,2020/21,Fulham,André-Frank Zambo Anguissa,Midfielder,Cameroon
+390,2020/21,Fulham,Luca de la Torre,Midfielder,United States
+391,2020/21,Fulham,Aleksandar Mitrovic,Forward,Serbia
+392,2020/21,Fulham,Bobby De Cordova-Reid,Forward,Jamaica
+393,2020/21,Fulham,Ivan Cavaleiro,Forward,Portugal
+394,2020/21,Fulham,Aboubakar Kamara,Forward,Mauritania
+395,2020/21,Fulham,Harry Arter,Midfielder,Ireland
+396,2020/21,Fulham,Harrison Reed,Midfielder,England
+397,2020/21,Fulham,Jayden Harris,Midfielder,England
+398,2020/21,Fulham,Jay Stansfield,Forward,England
+399,2020/21,Fulham,Matt O'Riley,Midfielder,England
+400,2020/21,Fulham,Tyrese Francois,Midfielder,Australia
+401,2020/21,Fulham,Benjamin Davis,Midfielder,Thailand
+402,2020/21,Fulham,Sylvester Jasper,Forward,Bulgaria
+403,2020/21,Fulham,Luca Ashby-Hammond,Goalkeeper,England
+404,2020/21,Fulham,Jerome Opoku,Defender,England
+405,2020/21,Fulham,Martell Taylor-Crossdale,Forward,England
+406,2020/21,Fulham,Magnus Norman,Goalkeeper,England
+407,2020/21,Fulham,Antonee Robinson,Defender,United States
+408,2020/21,Fulham,Mario Lemina,Midfielder,Gabon
+409,2020/21,Fulham,Harrison Reed,Midfielder,England
+410,2020/21,Fulham,Alphonse Areola,Goalkeeper,France
+411,2020/21,Fulham,Kenny Tete,Defender,Netherlands
+412,2020/21,Fulham,Ola Aina,Defender,Nigeria
+413,2020/21,Fulham,Fabio Carvalho,Midfielder,England
+414,2020/21,Fulham,Ademola Lookman,Forward,England
+415,2020/21,Fulham,Joachim Andersen,Defender,Denmark
+416,2020/21,Fulham,Tosin Adarabioyo,Defender,England
+417,2020/21,Fulham,Ruben Loftus-Cheek,Midfielder,England
+418,2020/21,Fulham,Terence Kongolo,Defender,Netherlands
+419,2020/21,Fulham,Josh Maja,Forward,Nigeria
+420,2020/21,Fulham,Tyrese Francois,Midfielder,Australia
+421,2020/21,Fulham,Sylvester Jasper,Forward,Bulgaria
+422,2020/21,Leeds United,Illan Meslier,Goalkeeper,France
+423,2020/21,Leeds United,Kiko Casilla,Goalkeeper,Spain
+424,2020/21,Leeds United,Kamil Miazek,Goalkeeper,Poland
+425,2020/21,Leeds United,Luke Ayling,Defender,England
+426,2020/21,Leeds United,Barry Douglas,Defender,Scotland
+427,2020/21,Leeds United,Liam Cooper,Defender,Scotland
+428,2020/21,Leeds United,Gaetano Berardi,Defender,Switzerland
+429,2020/21,Leeds United,Pascal Struijk,Defender,Netherlands
+430,2020/21,Leeds United,Robbie Gotts,Defender,England
+431,2020/21,Leeds United,Adam Forshaw,Midfielder,England
+432,2020/21,Leeds United,Ezgjan Alioski,Midfielder,North Macedonia
+433,2020/21,Leeds United,Stuart Dallas,Midfielder,Northern Ireland
+434,2020/21,Leeds United,Pablo Hernández,Midfielder,Spain
+435,2020/21,Leeds United,Kalvin Phillips,Midfielder,England
+436,2020/21,Leeds United,Mateusz Klich,Midfielder,Poland
+437,2020/21,Leeds United,Jamie Shackleton,Midfielder,England
+438,2020/21,Leeds United,Jay-Roy Grot,Forward,Netherlands
+439,2020/21,Leeds United,Ian Poveda-Ocampo,Forward,England
+440,2020/21,Leeds United,Patrick Bamford,Forward,England
+441,2020/21,Leeds United,Tyler Roberts,Forward,Wales
+442,2020/21,Leeds United,Hélder Costa,Forward,Angola
+443,2020/21,Leeds United,Ryan Edmondson,Forward,England
+444,2020/21,Leeds United,Benjamin White,Defender,England
+445,2020/21,Leeds United,Liam McCarron,Midfielder,Scotland
+446,2020/21,Leeds United,Jordan Stevens,Midfielder,England
+447,2020/21,Leeds United,Alfie McCalmont,Midfielder,Northern Ireland
+448,2020/21,Leeds United,Conor Shaughnessy,Midfielder,Ireland
+449,2020/21,Leeds United,Oliver Casey,Defender,England
+450,2020/21,Leeds United,Bryce Hosannah,Defender,England
+451,2020/21,Leeds United,Mateusz Bogusz,Midfielder,Poland
+452,2020/21,Leeds United,Elia Caprile,Goalkeeper,Italy
+453,2020/21,Leeds United,Leif Davis,Defender,England
+454,2020/21,Leeds United,Laurens De Bock,Defender,Belgium
+455,2020/21,Leeds United,Joe Gelhardt,Forward,England
+456,2020/21,Leeds United,Jack Harrison,Midfielder,England
+457,2020/21,Leeds United,Rodrigo,Forward,Spain
+458,2020/21,Leeds United,Robin Koch,Defender,Germany
+459,2020/21,Leeds United,Charlie Cresswell,Defender,England
+460,2020/21,Leeds United,Diego Llorente,Defender,Spain
+461,2020/21,Leeds United,Raphinha,Forward,Brazil
+462,2020/21,Leeds United,Hélder Costa,Forward,Angola
+463,2020/21,Leeds United,Jack Jenkins,Midfielder,England
+464,2020/21,Leeds United,Niall Huggins,Forward,Wales
+465,2020/21,Leeds United,Sam Greenwood,Forward,England
+466,2020/21,Leeds United,Illan Meslier,Goalkeeper,France
+467,2020/21,Leeds United,Elia Caprile,Goalkeeper,Italy
+468,2020/21,Leeds United,Leif Davis,Defender,England
+469,2020/21,Leeds United,Oliver Casey,Defender,England
+470,2020/21,Leeds United,Gaetano Berardi,Defender,Switzerland
+471,2020/21,Leeds United,Crysencio Summerville,Midfielder,Netherlands
+472,2020/21,Leeds United,Cody Drameh,Defender,England
+473,2020/21,Leicester City,Kasper Schmeichel,Goalkeeper,Denmark
+474,2020/21,Leicester City,Danny Ward,Goalkeeper,Wales
+475,2020/21,Leicester City,Eldin Jakupovic,Goalkeeper,Switzerland
+476,2020/21,Leicester City,James Justin,Defender,England
+477,2020/21,Leicester City,Ben Chilwell,Defender,England
+478,2020/21,Leicester City,Çaglar Söyüncü,Defender,Turkey
+479,2020/21,Leicester City,Wes Morgan,Defender,Jamaica
+480,2020/21,Leicester City,Jonny Evans,Defender,Northern Ireland
+481,2020/21,Leicester City,Filip Benkovic,Defender,Croatia
+482,2020/21,Leicester City,Daniel Amartey,Defender,Ghana
+483,2020/21,Leicester City,Ricardo Pereira,Defender,Portugal
+484,2020/21,Leicester City,Christian Fuchs,Defender,Austria
+485,2020/21,Leicester City,Demarai Gray,Midfielder,England
+486,2020/21,Leicester City,Youri Tielemans,Midfielder,Belgium
+487,2020/21,Leicester City,James Maddison,Midfielder,England
+488,2020/21,Leicester City,Marc Albrighton,Midfielder,England
+489,2020/21,Leicester City,Harvey Barnes,Midfielder,England
+490,2020/21,Leicester City,Hamza Choudhury,Midfielder,England
+491,2020/21,Leicester City,Matty James,Midfielder,England
+492,2020/21,Leicester City,Wilfred Ndidi,Midfielder,Nigeria
+493,2020/21,Leicester City,Dennis Praet,Midfielder,Belgium
+494,2020/21,Leicester City,Jamie Vardy,Forward,England
+495,2020/21,Leicester City,Islam Slimani,Forward,Algeria
+496,2020/21,Leicester City,Kelechi Iheanacho,Forward,Nigeria
+497,2020/21,Leicester City,Ayoze Pérez,Forward,Spain
+498,2020/21,Leicester City,Ryan Bennett,Defender,England
+499,2020/21,Leicester City,George Hirst,Forward,England
+500,2020/21,Leicester City,Nampalys Mendy,Midfielder,Senegal
+501,2020/21,Leicester City,Darnell Johnson,Defender,England
+502,2020/21,Leicester City,George Thomas,Forward,Wales
+503,2020/21,Leicester City,Luke Thomas,Defender,England
+504,2020/21,Leicester City,Vontae Daley-Campbell,Defender,England
+505,2020/21,Leicester City,Josh Knight,Defender,England
+506,2020/21,Leicester City,Sidnei Tavares,Midfielder,Portugal
+507,2020/21,Leicester City,Kiernan Dewsbury-Hall,Midfielder,England
+508,2020/21,Leicester City,Thakgalo Leshabela,Midfielder,South Africa
+509,2020/21,Leicester City,Admiral Muskwe,Forward,Zimbabwe
+510,2020/21,Leicester City,Josh Felix-Eppiah,Forward,Belgium
+511,2020/21,Leicester City,Timothy Castagne,Defender,Belgium
+512,2020/21,Leicester City,Jakub Stolarczyk,Goalkeeper,Poland
+513,2020/21,Leicester City,Ethan Fitzhugh,Midfielder,England
+514,2020/21,Leicester City,Wanya Madavidua,Midfielder,England
+515,2020/21,Leicester City,Cengiz Ünder,Midfielder,Turkey
+516,2020/21,Leicester City,Wesley Fofana,Defender,France
+517,2020/21,Leicester City,Ben Nelson,Defender,England
+518,2020/21,Leicester City,Shane Flynn,Midfielder,Ireland
+519,2020/21,Leicester City,Jakub Stolarczyk,Goalkeeper,Poland
+520,2020/21,Leicester City,Luke Thomas,Defender,England
+521,2020/21,Leicester City,Vontae Daley-Campbell,Defender,England
+522,2020/21,Leicester City,Sidnei Tavares,Midfielder,Portugal
+523,2020/21,Leicester City,Nampalys Mendy,Midfielder,Senegal
+524,2020/21,Leicester City,Ethan Fitzhugh,Midfielder,England
+525,2020/21,Leicester City,Thakgalo Leshabela,Midfielder,South Africa
+526,2020/21,Leicester City,Rachid Ghezzal,Midfielder,Algeria
+527,2020/21,Leicester City,Adrien Silva,Midfielder,Portugal
+528,2020/21,Leicester City,Fousseni Diabaté,Forward,Mali
+529,2020/21,Leicester City,Thanawat Suengchitthawon,Midfielder,Thailand
+530,2020/21,Leicester City,Tawanda Maswanhise,Midfielder,England
+531,2020/21,Liverpool,Loris Karius,Goalkeeper,Germany
+532,2020/21,Liverpool,Alisson,Goalkeeper,Brazil
+533,2020/21,Liverpool,Adrián,Goalkeeper,Spain
+534,2020/21,Liverpool,Caoimhin Kelleher,Goalkeeper,Ireland
+535,2020/21,Liverpool,Virgil van Dijk,Defender,Netherlands
+536,2020/21,Liverpool,Joseph Gomez,Defender,England
+537,2020/21,Liverpool,Andrew Robertson,Defender,Scotland
+538,2020/21,Liverpool,Joel Matip,Defender,Cameroon
+539,2020/21,Liverpool,Trent Alexander-Arnold,Defender,England
+540,2020/21,Liverpool,Neco Williams,Defender,Wales
+541,2020/21,Liverpool,Fabinho,Midfielder,Brazil
+542,2020/21,Liverpool,Georginio Wijnaldum,Midfielder,Netherlands
+543,2020/21,Liverpool,James Milner,Midfielder,England
+544,2020/21,Liverpool,Naby Keïta,Midfielder,Guinea
+545,2020/21,Liverpool,Jordan Henderson,Midfielder,England
+546,2020/21,Liverpool,Alex Oxlade-Chamberlain,Midfielder,England
+547,2020/21,Liverpool,Marko Grujic,Midfielder,Serbia
+548,2020/21,Liverpool,Curtis Jones,Midfielder,England
+549,2020/21,Liverpool,Harry Wilson,Midfielder,Wales
+550,2020/21,Liverpool,Harvey Elliott,Midfielder,England
+551,2020/21,Liverpool,Roberto Firmino,Forward,Brazil
+552,2020/21,Liverpool,Sadio Mané,Forward,Senegal
+553,2020/21,Liverpool,Mohamed Salah,Forward,Egypt
+554,2020/21,Liverpool,Takumi Minamino,Forward,Japan
+555,2020/21,Liverpool,Xherdan Shaqiri,Midfielder,Switzerland
+556,2020/21,Liverpool,Rhian Brewster,Forward,England
+557,2020/21,Liverpool,Divock Origi,Forward,Belgium
+558,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+559,2020/21,Liverpool,Ben Winterbottom,Goalkeeper,England
+560,2020/21,Liverpool,Vítezslav Jaros,Goalkeeper,Czech Republic
+561,2020/21,Liverpool,Thomas Hill,Forward,England
+562,2020/21,Liverpool,Dejan Lovren,Defender,Croatia
+563,2020/21,Liverpool,Luis Longstaff,Midfielder,England
+564,2020/21,Liverpool,Leighton Clarkson,Midfielder,England
+565,2020/21,Liverpool,Adam Lallana,Midfielder,England
+566,2020/21,Liverpool,Elijah Dixon-Bonner,Midfielder,England
+567,2020/21,Liverpool,Morgan Boyes,Defender,Wales
+568,2020/21,Liverpool,Thomas Clayton,Defender,Scotland
+569,2020/21,Liverpool,Jake Cain,Midfielder,England
+570,2020/21,Liverpool,Sepp van den Berg,Defender,Netherlands
+571,2020/21,Liverpool,Layton Stewart,Forward,England
+572,2020/21,Liverpool,Jack Bearne,Midfielder,England
+573,2020/21,Liverpool,Andy Lonergan,Goalkeeper,England
+574,2020/21,Liverpool,Joseph Hardy,Forward,England
+575,2020/21,Liverpool,Yasser Larouci,Defender,France
+576,2020/21,Liverpool,Tony Gallacher,Defender,Scotland
+577,2020/21,Liverpool,James Norris,Defender,England
+578,2020/21,Liverpool,Adam Lewis,Midfielder,England
+579,2020/21,Liverpool,Liam Millar,Forward,Canada
+580,2020/21,Liverpool,Billy Koumetio,Defender,France
+581,2020/21,Liverpool,Konstantinos Tsimikas,Defender,Greece
+582,2020/21,Liverpool,Nathaniel Phillips,Defender,England
+583,2020/21,Liverpool,Ki-Jana Hoever,Defender,Netherlands
+584,2020/21,Liverpool,Sheyi Ojo,Midfielder,England
+585,2020/21,Liverpool,Taiwo Awoniyi,Forward,Nigeria
+586,2020/21,Liverpool,Thiago,Midfielder,Spain
+587,2020/21,Liverpool,Diogo Jota,Forward,Portugal
+588,2020/21,Liverpool,Rhys Williams,Defender,England
+589,2020/21,Liverpool,Ben Davies,Defender,England
+590,2020/21,Liverpool,Ozan Kabak,Defender,Turkey
+591,2020/21,Liverpool,Billy Koumetio,Defender,France
+592,2020/21,Liverpool,Jake Cain,Midfielder,England
+593,2020/21,Liverpool,Leighton Clarkson,Midfielder,England
+594,2020/21,Liverpool,Kamil Grabara,Goalkeeper,Poland
+595,2020/21,Liverpool,Liam Hughes,Goalkeeper,Northern Ireland
+596,2020/21,Liverpool,Jakub Ojrzynski,Goalkeeper,Poland
+597,2020/21,Liverpool,Harvey Davies,Goalkeeper,England
+598,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+599,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+600,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+601,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+602,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+603,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+604,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+605,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+606,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+607,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+608,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+609,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+610,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+611,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+612,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+613,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+614,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+615,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+616,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+617,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+618,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+619,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+620,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+621,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+622,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+623,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+624,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+625,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+626,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+627,2020/21,Liverpool,Ben Woodburn,Forward,Wales
+628,2020/21,Manchester City,Claudio Bravo,Goalkeeper,Chile
+629,2020/21,Manchester City,Ederson,Goalkeeper,Brazil
+630,2020/21,Manchester City,Nathan Aké,Defender,Netherlands
+631,2020/21,Manchester City,Pedro Porro,Defender,Spain
+632,2020/21,Manchester City,Kyle Walker,Defender,England
+633,2020/21,Manchester City,John Stones,Defender,England
+634,2020/21,Manchester City,Oleksandr Zinchenko,Defender,Ukraine
+635,2020/21,Manchester City,Aymeric Laporte,Defender,Spain
+636,2020/21,Manchester City,Benjamin Mendy,Defender,France
+637,2020/21,Manchester City,João Cancelo,Defender,Portugal
+638,2020/21,Manchester City,Nicolás Otamendi,Defender,Argentina
+639,2020/21,Manchester City,Eric García,Defender,Spain
+640,2020/21,Manchester City,Ilkay Gündogan,Midfielder,Germany
+641,2020/21,Manchester City,Rodri,Midfielder,Spain
+642,2020/21,Manchester City,Kevin De Bruyne,Midfielder,Belgium
+643,2020/21,Manchester City,Bernardo Silva,Midfielder,Portugal
+644,2020/21,Manchester City,David Silva,Midfielder,Spain
+645,2020/21,Manchester City,Fernandinho,Midfielder,Brazil
+646,2020/21,Manchester City,Phil Foden,Midfielder,England
+647,2020/21,Manchester City,Tommy Doyle,Midfielder,England
+648,2020/21,Manchester City,Ferran Torres,Forward,Spain
+649,2020/21,Manchester City,Raheem Sterling,Forward,England
+650,2020/21,Manchester City,Gabriel Jesus,Forward,Brazil
+651,2020/21,Manchester City,Sergio Agüero,Forward,Argentina
+652,2020/21,Manchester City,Riyad Mahrez,Forward,Algeria
+653,2020/21,Manchester City,Erik Palmer-Brown,Defender,United States
+654,2020/21,Manchester City,Alpha Richard Dionkou,Defender,Senegal
+655,2020/21,Manchester City,Cole Palmer,Midfielder,England
+656,2020/21,Manchester City,Taylor Harwood-Bellis,Defender,England
+657,2020/21,Manchester City,Adrián Bernabé,Midfielder,Spain
+658,2020/21,Manchester City,Leroy Sané,Forward,Germany
+659,2020/21,Manchester City,Zack Steffen,Goalkeeper,United States
+660,2020/21,Manchester City,Pablo Moreno,Forward,Spain
+661,2020/21,Manchester City,Liam Delap,Forward,England
+662,2020/21,Manchester City,Felix Nmecha,Midfielder,England
+663,2020/21,Manchester City,Rúben Dias,Defender,Portugal
+664,2020/21,Manchester City,Scott Carson,Goalkeeper,England
+665,2020/21,Manchester City,James Trafford,Goalkeeper,England
+666,2020/21,Manchester City,Mix Diskerud,Midfielder,United States
+667,2020/21,Manchester City,Luke Mbete,Defender,England
+668,2020/21,Manchester City,Claudio Gomes,Midfielder,France
+669,2020/21,Manchester City,Tommy Doyle,Midfielder,England
+670,2020/21,Manchester City,Cole Palmer,Midfielder,England
+671,2020/21,Manchester City,Adrián Bernabé,Midfielder,Spain
+672,2020/21,Manchester City,Arijanet Muric,Goalkeeper,Kosovo
+673,2020/21,Manchester United,David de Gea,Goalkeeper,Spain
+674,2020/21,Manchester United,Lee Grant,Goalkeeper,England
+675,2020/21,Manchester United,Sergio Romero,Goalkeeper,Argentina
+676,2020/21,Manchester United,Victor Lindelöf,Defender,Sweden
+677,2020/21,Manchester United,Eric Bailly,Defender,Cote D’Ivoire
+678,2020/21,Manchester United,Phil Jones,Defender,England
+679,2020/21,Manchester United,Harry Maguire,Defender,England
+680,2020/21,Manchester United,Marcos Rojo,Defender,Argentina
+681,2020/21,Manchester United,Diogo Dalot,Defender,Portugal
+682,2020/21,Manchester United,Luke Shaw,Defender,England
+683,2020/21,Manchester United,Timothy Fosu-Mensah,Defender,Netherlands
+684,2020/21,Manchester United,Aaron Wan-Bissaka,Defender,England
+685,2020/21,Manchester United,Axel Tuanzebe,Defender,England
+686,2020/21,Manchester United,Ethan Laird,Defender,England
+687,2020/21,Manchester United,Brandon Williams,Defender,England
+688,2020/21,Manchester United,Teden Mengi,Defender,England
+689,2020/21,Manchester United,Paul Pogba,Midfielder,France
+690,2020/21,Manchester United,Juan Mata,Midfielder,Spain
+691,2020/21,Manchester United,Jesse Lingard,Midfielder,England
+692,2020/21,Manchester United,Andreas Pereira,Midfielder,Brazil
+693,2020/21,Manchester United,Fred,Midfielder,Brazil
+694,2020/21,Manchester United,Bruno Fernandes,Midfielder,Portugal
+695,2020/21,Manchester United,Daniel James,Midfielder,Wales
+696,2020/21,Manchester United,Nemanja Matic,Midfielder,Serbia
+697,2020/21,Manchester United,James Garner,Midfielder,England
+698,2020/21,Manchester United,Scott McTominay,Midfielder,Scotland
+699,2020/21,Manchester United,Tahith Chong,Midfielder,Netherlands
+700,2020/21,Manchester United,Ethan Galbraith,Midfielder,Northern Ireland
+701,2020/21,Manchester United,Anthony Martial,Forward,France
+702,2020/21,Manchester United,Marcus Rashford,Forward,England
+703,2020/21,Manchester United,Odion Ighalo,Forward,Nigeria
+704,2020/21,Manchester United,Mason Greenwood,Forward,England
+705,2020/21,Manchester United,Max Taylor,Defender,England
+706,2020/21,Manchester United,Matej Kovar,Goalkeeper,Czech Republic
+707,2020/21,Manchester United,Dylan Levitt,Midfielder,Wales
+708,2020/21,Manchester United,Arnau Puigmal,Midfielder,Spain
+709,2020/21,Manchester United,Di'Shon Bernard,Defender,England
+710,2020/21,Manchester United,D'Mani Mellor,Forward,England
+711,2020/21,Manchester United,Alexis Sánchez,Forward,Chile
+712,2020/21,Manchester United,Dean Henderson,Goalkeeper,England
+713,2020/21,Manchester United,Donny van de Beek,Midfielder,Netherlands
+714,2020/21,Manchester United,Anthony Elanga,Forward,Sweden
+715,2020/21,Manchester United,Alex Telles,Defender,Brazil
+716,2020/21,Manchester United,Edinson Cavani,Forward,Uruguay
+717,2020/21,Manchester United,Facundo Pellistri,Midfielder,Uruguay
+718,2020/21,Manchester United,Amad Diallo,Forward,Cote D’Ivoire
+719,2020/21,Manchester United,Amad Diallo,Forward,Cote D’Ivoire
+720,2020/21,Manchester United,Chris Smalling,Defender,England
+721,2020/21,Manchester United,Shola Shoretire,Forward,England
+722,2020/21,Manchester United,Nathan Bishop,Goalkeeper,England
+723,2020/21,Manchester United,Ethan Galbraith,Midfielder,Northern Ireland
+724,2020/21,Manchester United,Anthony Elanga,Forward,Sweden
+725,2020/21,Manchester United,William Fish,Defender,England
+726,2020/21,Manchester United,Mason Greenwood,Forward,England
+727,2020/21,Manchester United,Hannibal Mejbri,Midfielder,Tunisia
+728,2020/21,Newcastle United,Mark Gillespie,Goalkeeper,England
+729,2020/21,Newcastle United,Martin Dúbravka,Goalkeeper,Slovakia
+730,2020/21,Newcastle United,Karl Darlow,Goalkeeper,England
+731,2020/21,Newcastle United,Ciaran Clark,Defender,Ireland
+732,2020/21,Newcastle United,Paul Dummett,Defender,Wales
+733,2020/21,Newcastle United,Fabian Schär,Defender,Switzerland
+734,2020/21,Newcastle United,Jamaal Lascelles,Defender,England
+735,2020/21,Newcastle United,Emil Krafth,Defender,Sweden
+736,2020/21,Newcastle United,Federico Fernández,Defender,Argentina
+737,2020/21,Newcastle United,Javier Manquillo,Defender,Spain
+738,2020/21,Newcastle United,Florian Lejeune,Defender,France
+739,2020/21,Newcastle United,DeAndre Yedlin,Defender,United States
+740,2020/21,Newcastle United,Jacob Murphy,Midfielder,England
+741,2020/21,Newcastle United,Jonjo Shelvey,Midfielder,England
+742,2020/21,Newcastle United,Matt Ritchie,Midfielder,Scotland
+743,2020/21,Newcastle United,Isaac Hayden,Midfielder,England
+744,2020/21,Newcastle United,Miguel Almirón,Midfielder,Paraguay
+745,2020/21,Newcastle United,Christian Atsu,Midfielder,Ghana
+746,2020/21,Newcastle United,Sean Longstaff,Midfielder,England
+747,2020/21,Newcastle United,Andy Carroll,Forward,England
+748,2020/21,Newcastle United,Joelinton,Forward,Brazil
+749,2020/21,Newcastle United,Allan Saint-Maximin,Forward,France
+750,2020/21,Newcastle United,Dwight Gayle,Forward,England
+751,2020/21,Newcastle United,Yoshinori Muto,Forward,Japan
+752,2020/21,Newcastle United,Danny Rose,Defender,England
+753,2020/21,Newcastle United,Valentino Lazaro,Midfielder,Austria
+754,2020/21,Newcastle United,Nabil Bentaleb,Midfielder,Algeria
+755,2020/21,Newcastle United,Matthew Longstaff,Midfielder,England
+756,2020/21,Newcastle United,Thomas Allan,Forward,England
+757,2020/21,Newcastle United,Elias Sorensen,Forward,Denmark
+758,2020/21,Newcastle United,Lewis Cass,Defender,England
+759,2020/21,Newcastle United,Jack Young,Midfielder,England
+760,2020/21,Newcastle United,Jeff Hendrick,Midfielder,Ireland
+761,2020/21,Newcastle United,Callum Wilson,Forward,England
+762,2020/21,Newcastle United,Ryan Fraser,Midfielder,Scotland
+763,2020/21,Newcastle United,Jamal Lewis,Defender,Northern Ireland
+764,2020/21,Newcastle United,Daniel Langley,Goalkeeper,England
+765,2020/21,Newcastle United,Henri Saivet,Midfielder,Senegal
+766,2020/21,Newcastle United,Daniel Barlaser,Midfielder,England
+767,2020/21,Newcastle United,Elliot Anderson,Midfielder,Scotland
+768,2020/21,Newcastle United,Joseph Willock,Midfielder,England
+769,2020/21,Newcastle United,Matthew Longstaff,Midfielder,England
+770,2020/21,Sheffield United,Wes Foderingham,Goalkeeper,England
+771,2020/21,Sheffield United,Michael Verrips,Goalkeeper,Netherlands
+772,2020/21,Sheffield United,Simon Moore,Goalkeeper,England
+773,2020/21,Sheffield United,George Baldock,Defender,England
+774,2020/21,Sheffield United,Enda Stevens,Defender,Ireland
+775,2020/21,Sheffield United,Jack O'Connell,Defender,England
+776,2020/21,Sheffield United,Chris Basham,Defender,England
+777,2020/21,Sheffield United,John Egan,Defender,Ireland
+778,2020/21,Sheffield United,Jack Robinson,Defender,England
+779,2020/21,Sheffield United,Kean Bryan,Defender,England
+780,2020/21,Sheffield United,John Fleck,Midfielder,Scotland
+781,2020/21,Sheffield United,John Lundstram,Midfielder,England
+782,2020/21,Sheffield United,Luke Freeman,Midfielder,England
+783,2020/21,Sheffield United,Oliver Norwood,Midfielder,Northern Ireland
+784,2020/21,Sheffield United,Ben Osborn,Midfielder,England
+785,2020/21,Sheffield United,Sander Berge,Midfielder,Norway
+786,2020/21,Sheffield United,Oliver McBurnie,Forward,Scotland
+787,2020/21,Sheffield United,Billy Sharp,Forward,England
+788,2020/21,Sheffield United,David McGoldrick,Forward,Ireland
+789,2020/21,Sheffield United,Lys Mousset,Forward,France
+790,2020/21,Sheffield United,Richairo Zivkovic,Forward,Netherlands
+791,2020/21,Sheffield United,Phil Jagielka,Defender,England
+792,2020/21,Sheffield United,Kieron Freeman,Defender,Wales
+793,2020/21,Sheffield United,Leon Clarke,Forward,England
+794,2020/21,Sheffield United,Aaron Ramsdale,Goalkeeper,England
+795,2020/21,Sheffield United,Jack Rodwell,Midfielder,England
+796,2020/21,Sheffield United,Sam Graham,Defender,England
+797,2020/21,Sheffield United,Kyron Gordon,Defender,England
+798,2020/21,Sheffield United,Rhys Norrington-Davies,Defender,Wales
+799,2020/21,Sheffield United,George Broadbent,Midfielder,England
+800,2020/21,Sheffield United,Regan Slater,Midfielder,England
+801,2020/21,Sheffield United,Zak Brunt,Midfielder,England
+802,2020/21,Sheffield United,Antwoine Hackford,Forward,England
+803,2020/21,Sheffield United,Max Lowe,Defender,England
+804,2020/21,Sheffield United,Ethan Ampadu,Defender,Wales
+805,2020/21,Sheffield United,Jayden Bogle,Defender,England
+806,2020/21,Sheffield United,Oliver Burke,Midfielder,Scotland
+807,2020/21,Sheffield United,Ismaila Coulibaly,Midfielder,Mali
+808,2020/21,Sheffield United,Rhian Brewster,Forward,England
+809,2020/21,Sheffield United,Iliman Ndiaye,Midfielder,France
+810,2020/21,Sheffield United,Phil Jagielka,Defender,England
+811,2020/21,Sheffield United,Kyron Gordon,Defender,England
+812,2020/21,Sheffield United,Zak Brunt,Midfielder,England
+813,2020/21,Sheffield United,Frankie Maguire,Midfielder,England
+814,2020/21,Sheffield United,Antwoine Hackford,Forward,England
+815,2020/21,Sheffield United,Jake Eastwood,Goalkeeper,England
+816,2020/21,Sheffield United,Daniel Jebbison,Forward,England
+817,2020/21,Sheffield United,Harry Boyes,Defender,England
+818,2020/21,Sheffield United,Femi Seriki,Defender,England
+819,2020/21,Sheffield United,Harry Boyes,Defender,England
+820,2020/21,Sheffield United,Femi Seriki,Midfielder,England
+821,2020/21,Sheffield United,William Osula,Forward,Denmark
+822,2020/21,Southampton,Alex McCarthy,Goalkeeper,England
+823,2020/21,Southampton,Angus Gunn,Goalkeeper,England
+824,2020/21,Southampton,Fraser Forster,Goalkeeper,England
+825,2020/21,Southampton,Jannik Vestergaard,Defender,Denmark
+826,2020/21,Southampton,Jack Stephens,Defender,England
+827,2020/21,Southampton,Ryan Bertrand,Defender,England
+828,2020/21,Southampton,Jake Vokins,Defender,England
+829,2020/21,Southampton,Jan Bednarek,Defender,Poland
+830,2020/21,Southampton,Yan Valery,Defender,France
+831,2020/21,Southampton,Moussa Djenepo,Midfielder,Mali
+832,2020/21,Southampton,Oriol Romeu,Midfielder,Spain
+833,2020/21,Southampton,James Ward-Prowse,Midfielder,England
+834,2020/21,Southampton,Stuart Armstrong,Midfielder,Scotland
+835,2020/21,Southampton,Sofiane Boufal,Midfielder,Morocco
+836,2020/21,Southampton,Nathan Redmond,Midfielder,England
+837,2020/21,Southampton,Pierre-Emile Højbjerg,Midfielder,Denmark
+838,2020/21,Southampton,William Smallbone,Midfielder,Ireland
+839,2020/21,Southampton,Shane Long,Forward,Ireland
+840,2020/21,Southampton,Danny Ings,Forward,England
+841,2020/21,Southampton,Che Adams,Forward,Scotland
+842,2020/21,Southampton,Michael Obafemi,Forward,Ireland
+843,2020/21,Southampton,Guido Carrillo,Forward,Argentina
+844,2020/21,Southampton,Kevin Danso,Defender,Austria
+845,2020/21,Southampton,Kyle Walker-Peters,Defender,England
+846,2020/21,Southampton,Harry Lewis,Goalkeeper,England
+847,2020/21,Southampton,Nathan Tella,Midfielder,England
+848,2020/21,Southampton,Kayne Ramsay,Defender,England
+849,2020/21,Southampton,Will Ferry,Midfielder,Ireland
+850,2020/21,Southampton,Jacob Maddox,Midfielder,England
+851,2020/21,Southampton,Daniel N'Lundulu,Forward,England
+852,2020/21,Southampton,Maya Yoshida,Defender,Japan
+853,2020/21,Southampton,Kyle Walker-Peters,Defender,England
+854,2020/21,Southampton,Mohammed Salisu,Defender,Ghana
+855,2020/21,Southampton,Ibrahima Diallo,Midfielder,France
+856,2020/21,Southampton,Theo Walcott,Forward,England
+857,2020/21,Southampton,Kgaogelo Chauke,Midfielder,England
+858,2020/21,Southampton,Caleb Watts,Midfielder,Australia
+859,2020/21,Southampton,Allan Tchaptchet,Defender,France
+860,2020/21,Southampton,Ryan Finnigan,Midfielder,England
+861,2020/21,Southampton,Alexandre Jankewitz,Midfielder,Switzerland
+862,2020/21,Southampton,Takumi Minamino,Forward,Japan
+863,2020/21,Southampton,Harry Lewis,Goalkeeper,England
+864,2020/21,Southampton,Kayne Ramsay,Defender,England
+865,2020/21,Southampton,Nathan Tella,Midfielder,England
+866,2020/21,Southampton,Will Ferry,Midfielder,Ireland
+867,2020/21,Southampton,Daniel N'Lundulu,Forward,England
+868,2020/21,Southampton,Wesley Hoedt,Defender,Netherlands
+869,2020/21,Tottenham Hotspur,Hugo Lloris,Goalkeeper,France
+870,2020/21,Tottenham Hotspur,Paulo Gazzaniga,Goalkeeper,Argentina
+871,2020/21,Tottenham Hotspur,Toby Alderweireld,Defender,Belgium
+872,2020/21,Tottenham Hotspur,Davinson Sánchez,Defender,Colombia
+873,2020/21,Tottenham Hotspur,Juan Foyth,Defender,Argentina
+874,2020/21,Tottenham Hotspur,Serge Aurier,Defender,Cote D’Ivoire
+875,2020/21,Tottenham Hotspur,Ben Davies,Defender,Wales
+876,2020/21,Tottenham Hotspur,Cameron Carter-Vickers,Defender,United States
+877,2020/21,Tottenham Hotspur,Japhet Tanganga,Defender,England
+878,2020/21,Tottenham Hotspur,Harry Winks,Midfielder,England
+879,2020/21,Tottenham Hotspur,Erik Lamela,Midfielder,Argentina
+880,2020/21,Tottenham Hotspur,Eric Dier,Defender,England
+881,2020/21,Tottenham Hotspur,Moussa Sissoko,Midfielder,France
+882,2020/21,Tottenham Hotspur,Ryan Sessegnon,Midfielder,England
+883,2020/21,Tottenham Hotspur,Dele Alli,Midfielder,England
+884,2020/21,Tottenham Hotspur,Lucas Moura,Forward,Brazil
+885,2020/21,Tottenham Hotspur,Tanguy Ndombele,Midfielder,France
+886,2020/21,Tottenham Hotspur,Oliver Skipp,Midfielder,England
+887,2020/21,Tottenham Hotspur,Gedson Fernandes,Midfielder,Portugal
+888,2020/21,Tottenham Hotspur,Jack Clarke,Forward,England
+889,2020/21,Tottenham Hotspur,Son Heung-Min,Forward,South Korea
+890,2020/21,Tottenham Hotspur,Harry Kane,Forward,England
+891,2020/21,Tottenham Hotspur,Steven Bergwijn,Forward,Netherlands
+892,2020/21,Tottenham Hotspur,Troy Parrott,Forward,Ireland
+893,2020/21,Tottenham Hotspur,Malachi Fagan-Walcott,Defender,England
+894,2020/21,Tottenham Hotspur,Jan Vertonghen,Defender,Belgium
+895,2020/21,Tottenham Hotspur,Michel Vorm,Goalkeeper,Netherlands
+896,2020/21,Tottenham Hotspur,Dennis Cirkin,Defender,England
+897,2020/21,Tottenham Hotspur,Pierre-Emile Højbjerg,Midfielder,Denmark
+898,2020/21,Tottenham Hotspur,Joe Hart,Goalkeeper,England
+899,2020/21,Tottenham Hotspur,Dane Scarlett,Forward,England
+900,2020/21,Tottenham Hotspur,Jamie Bowden,Midfielder,Ireland
+901,2020/21,Tottenham Hotspur,Harvey White,Midfielder,England
+902,2020/21,Tottenham Hotspur,Alfie Devine,Midfielder,England
+903,2020/21,Tottenham Hotspur,Matt Doherty,Defender,Ireland
+904,2020/21,Tottenham Hotspur,Jubril Okedina,Defender,England
+905,2020/21,Tottenham Hotspur,George Marsh,Midfielder,England
+906,2020/21,Tottenham Hotspur,Alfie Whiteman,Goalkeeper,England
+907,2020/21,Tottenham Hotspur,Brandon Austin,Goalkeeper,England
+908,2020/21,Tottenham Hotspur,Sergio Reguilón,Defender,Spain
+909,2020/21,Tottenham Hotspur,Gareth Bale,Forward,Wales
+910,2020/21,Tottenham Hotspur,Carlos Vinícius,Forward,Brazil
+911,2020/21,Tottenham Hotspur,Joe Rodon,Defender,Wales
+912,2020/21,Tottenham Hotspur,Alfie Devine,Midfielder,England
+913,2020/21,Tottenham Hotspur,Dennis Cirkin,Defender,England
+914,2020/21,Tottenham Hotspur,Giovani Lo Celso,Midfielder,Argentina
+915,2020/21,Tottenham Hotspur,Dane Scarlett,Forward,England
+916,2020/21,Tottenham Hotspur,Marcel Lavinier,Defender,Portugal
+917,2020/21,Tottenham Hotspur,Jamie Bowden,Midfielder,Ireland
+918,2020/21,Tottenham Hotspur,Nile John,Midfielder,England
+919,2020/21,Tottenham Hotspur,Dilan Markanday,Forward,England
+920,2020/21,West Bromwich Albion,Sam Johnstone,Goalkeeper,England
+921,2020/21,West Bromwich Albion,Darnell Furlong,Defender,England
+922,2020/21,West Bromwich Albion,Kieran Gibbs,Defender,England
+923,2020/21,West Bromwich Albion,Kyle Bartley,Defender,England
+924,2020/21,West Bromwich Albion,Semi Ajayi,Defender,Nigeria
+925,2020/21,West Bromwich Albion,Conor Townsend,Defender,England
+926,2020/21,West Bromwich Albion,Ahmed Hegazi,Defender,Egypt
+927,2020/21,West Bromwich Albion,Dara O'Shea,Defender,Ireland
+928,2020/21,West Bromwich Albion,Jake Livermore,Midfielder,England
+929,2020/21,West Bromwich Albion,Matt Phillips,Midfielder,Scotland
+930,2020/21,West Bromwich Albion,Kamil Grosicki,Midfielder,Poland
+931,2020/21,West Bromwich Albion,Rekeem Harper,Midfielder,England
+932,2020/21,West Bromwich Albion,Oliver Burke,Midfielder,Scotland
+933,2020/21,West Bromwich Albion,Romaine Sawyers,Midfielder,St. Kitts & Nevis
+934,2020/21,West Bromwich Albion,Jonathan Leko,Midfielder,England
+935,2020/21,West Bromwich Albion,Sam Field,Midfielder,England
+936,2020/21,West Bromwich Albion,Hal Robson-Kanu,Forward,Wales
+937,2020/21,West Bromwich Albion,Kenneth Zohore,Forward,Denmark
+938,2020/21,West Bromwich Albion,Matheus Pereira,Forward,Brazil
+939,2020/21,West Bromwich Albion,Charlie Austin,Forward,England
+940,2020/21,West Bromwich Albion,Kyle Edwards,Midfielder,England
+941,2020/21,West Bromwich Albion,Rayhaan Tulloch,Midfielder,England
+942,2020/21,West Bromwich Albion,Finn Azaz,Midfielder,England
+943,2020/21,West Bromwich Albion,Grady Diangana,Midfielder,England
+944,2020/21,West Bromwich Albion,Callum Robinson,Forward,Ireland
+945,2020/21,West Bromwich Albion,Jonathan Bond,Goalkeeper,England
+946,2020/21,West Bromwich Albion,Chris Brunt,Midfielder,Northern Ireland
+947,2020/21,West Bromwich Albion,Saul Shotton,Defender,England
+948,2020/21,West Bromwich Albion,Nathan Ferguson,Defender,England
+949,2020/21,West Bromwich Albion,Lee Peltier,Defender,England
+950,2020/21,West Bromwich Albion,Gareth Barry,Midfielder,England
+951,2020/21,West Bromwich Albion,Rico Richards,Midfielder,England
+952,2020/21,West Bromwich Albion,Cédric Kipré,Defender,Cote D’Ivoire
+953,2020/21,West Bromwich Albion,Grady Diangana,Midfielder,England
+954,2020/21,West Bromwich Albion,David Button,Goalkeeper,England
+955,2020/21,West Bromwich Albion,Callum Robinson,Forward,Ireland
+956,2020/21,West Bromwich Albion,Lee Peltier,Defender,England
+957,2020/21,West Bromwich Albion,Branislav Ivanovic,Defender,Serbia
+958,2020/21,West Bromwich Albion,Jamie Soule,Forward,England
+959,2020/21,West Bromwich Albion,Conor Gallagher,Midfielder,England
+960,2020/21,West Bromwich Albion,Filip Krovinovic,Midfielder,Croatia
+961,2020/21,West Bromwich Albion,Karlan Grant,Forward,England
+962,2020/21,West Bromwich Albion,Cheikh Diaby,Forward,France
+963,2020/21,West Bromwich Albion,Andy Lonergan,Goalkeeper,England
+964,2020/21,West Bromwich Albion,Robert Snodgrass,Midfielder,Scotland
+965,2020/21,West Bromwich Albion,George Harmon,Defender,England
+966,2020/21,West Bromwich Albion,Mbaye Diagne,Forward,Senegal
+967,2020/21,West Bromwich Albion,Okay Yokuslu,Midfielder,Turkey
+968,2020/21,West Bromwich Albion,Ainsley Maitland-Niles,Midfielder,England
+969,2020/21,West Bromwich Albion,Rico Richards,Midfielder,England
+970,2020/21,West Bromwich Albion,Caleb Taylor,Defender,England
+971,2020/21,West Bromwich Albion,Taylor Gardner-Hickman,Defender,England
+972,2020/21,West Bromwich Albion,Caleb Taylor,Midfielder,England
+973,2020/21,West Bromwich Albion,Taylor Gardner-Hickman,Defender,England
+974,2020/21,West Bromwich Albion,Toby King,Midfielder,England
+975,2020/21,West Bromwich Albion,Tim Iroegbunam,Midfielder,England
+976,2020/21,West Ham United,Lukasz Fabianski,Goalkeeper,Poland
+977,2020/21,West Ham United,Roberto Jiménez,Goalkeeper,Spain
+978,2020/21,West Ham United,David Martin,Goalkeeper,England
+979,2020/21,West Ham United,Darren Randolph,Goalkeeper,Ireland
+980,2020/21,West Ham United,Aaron Cresswell,Defender,England
+981,2020/21,West Ham United,Fabián Balbuena,Defender,Paraguay
+982,2020/21,West Ham United,Gonçalo Cardoso,Defender,Portugal
+983,2020/21,West Ham United,Angelo Ogbonna,Defender,Italy
+984,2020/21,West Ham United,Issa Diop,Defender,France
+985,2020/21,West Ham United,Ryan Fredericks,Defender,England
+986,2020/21,West Ham United,Arthur Masuaku,Defender,DR Congo
+987,2020/21,West Ham United,Ben Johnson,Defender,England
+988,2020/21,West Ham United,Felipe Anderson,Midfielder,Brazil
+989,2020/21,West Ham United,Manuel Lanzini,Midfielder,Argentina
+990,2020/21,West Ham United,Robert Snodgrass,Midfielder,Scotland
+991,2020/21,West Ham United,Mark Noble,Midfielder,England
+992,2020/21,West Ham United,Pablo Fornals,Midfielder,Spain
+993,2020/21,West Ham United,Jack Wilshere,Midfielder,England
+994,2020/21,West Ham United,Michail Antonio,Forward,Jamaica
+995,2020/21,West Ham United,Declan Rice,Midfielder,England
+996,2020/21,West Ham United,Andriy Yarmolenko,Forward,Ukraine
+997,2020/21,West Ham United,Jarrod Bowen,Forward,England
+998,2020/21,West Ham United,Sébastien Haller,Forward,Cote D’Ivoire
+999,2020/21,West Ham United,Albian Ajeti,Forward,Switzerland
+1000,2020/21,West Ham United,Joseph Anang,Goalkeeper,England
+1001,2020/21,West Ham United,Bernardo Rosa,Midfielder,Brazil
+1002,2020/21,West Ham United,Alfie Lewis,Midfielder,England
+1003,2020/21,West Ham United,Nathan Trott,Goalkeeper,England
+1004,2020/21,West Ham United,Josh Cullen,Midfielder,Ireland
+1005,2020/21,West Ham United,Xande Silva,Forward,Portugal
+1006,2020/21,West Ham United,Ajibola Alese,Defender,England
+1007,2020/21,West Ham United,Harrison Ashby,Defender,Scotland
+1008,2020/21,West Ham United,Conor Coventry,Midfielder,Ireland
+1009,2020/21,West Ham United,Emmanuel Longelo,Forward,England
+1010,2020/21,West Ham United,Vladimir Coufal,Defender,Czech Republic
+1011,2020/21,West Ham United,Tomas Soucek,Midfielder,Czech Republic
+1012,2020/21,West Ham United,Craig Dawson,Defender,England
+1013,2020/21,West Ham United,Saïd Benrahma,Forward,Algeria
+1014,2020/21,West Ham United,Frederik Alves,Defender,Denmark
+1015,2020/21,West Ham United,Jamal Baptiste,Defender,England
+1016,2020/21,West Ham United,Nathan Holland,Midfielder,England
+1017,2020/21,West Ham United,Ademipo Odubeko,Forward,Ireland
+1018,2020/21,West Ham United,Oladapo Afolayan,Forward,England
+1019,2020/21,West Ham United,Jesse Lingard,Midfielder,England
+1020,2020/21,West Ham United,Ademipo Odubeko,Forward,Ireland
+1021,2020/21,West Ham United,Saïd Benrahma,Forward,Algeria
+1022,2020/21,Wolverhampton Wanderers,Matija Sarkic,Goalkeeper,Montenegro
+1023,2020/21,Wolverhampton Wanderers,Rui Patrício,Goalkeeper,Portugal
+1024,2020/21,Wolverhampton Wanderers,John Ruddy,Goalkeeper,England
+1025,2020/21,Wolverhampton Wanderers,Matt Doherty,Defender,Ireland
+1026,2020/21,Wolverhampton Wanderers,Willy Boly,Defender,Cote D’Ivoire
+1027,2020/21,Wolverhampton Wanderers,Conor Coady,Defender,England
+1028,2020/21,Wolverhampton Wanderers,Jonny,Defender,Spain
+1029,2020/21,Wolverhampton Wanderers,Rúben Vinagre,Defender,Portugal
+1030,2020/21,Wolverhampton Wanderers,Maximilian Kilman,Defender,England
+1031,2020/21,Wolverhampton Wanderers,Oskar Buur,Defender,Denmark
+1032,2020/21,Wolverhampton Wanderers,Bruno Jordão,Midfielder,Portugal
+1033,2020/21,Wolverhampton Wanderers,Rúben Neves,Midfielder,Portugal
+1034,2020/21,Wolverhampton Wanderers,Daniel Podence,Midfielder,Portugal
+1035,2020/21,Wolverhampton Wanderers,Morgan Gibbs-White,Midfielder,England
+1036,2020/21,Wolverhampton Wanderers,Romain Saïss,Midfielder,Morocco
+1037,2020/21,Wolverhampton Wanderers,João Moutinho,Midfielder,Portugal
+1038,2020/21,Wolverhampton Wanderers,Leander Dendoncker,Midfielder,Belgium
+1039,2020/21,Wolverhampton Wanderers,Pedro Neto,Forward,Portugal
+1040,2020/21,Wolverhampton Wanderers,Raúl Jiménez,Forward,Mexico
+1041,2020/21,Wolverhampton Wanderers,Diogo Jota,Forward,Portugal
+1042,2020/21,Wolverhampton Wanderers,Leonardo Campana,Forward,Ecuador
+1043,2020/21,Wolverhampton Wanderers,Adama Traoré,Forward,Spain
+1044,2020/21,Wolverhampton Wanderers,Austin Samuels,Forward,England
+1045,2020/21,Wolverhampton Wanderers,Chem Campbell,Forward,Wales
+1046,2020/21,Wolverhampton Wanderers,Luke Cundle,Midfielder,England
+1047,2020/21,Wolverhampton Wanderers,Owen Otasowie,Midfielder,United States
+1048,2020/21,Wolverhampton Wanderers,Taylor Perry,Midfielder,England
+1049,2020/21,Wolverhampton Wanderers,Meritan Shabani,Midfielder,Germany
+1050,2020/21,Wolverhampton Wanderers,Andreas Söndergaard,Goalkeeper,Denmark
+1051,2020/21,Wolverhampton Wanderers,Lewis Richards,Defender,Ireland
+1052,2020/21,Wolverhampton Wanderers,Terry Taylor,Midfielder,Wales
+1053,2020/21,Wolverhampton Wanderers,Ryan Giles,Midfielder,England
+1054,2020/21,Wolverhampton Wanderers,Christian Marques,Defender,Portugal
+1055,2020/21,Wolverhampton Wanderers,Marçal,Defender,Brazil
+1056,2020/21,Wolverhampton Wanderers,Fábio Silva,Forward,Portugal
+1057,2020/21,Wolverhampton Wanderers,Vitinha,Midfielder,Portugal
+1058,2020/21,Wolverhampton Wanderers,Meritan Shabani,Midfielder,Germany
+1059,2020/21,Wolverhampton Wanderers,Ki-Jana Hoever,Defender,Netherlands
+1060,2020/21,Wolverhampton Wanderers,Nélson Semedo,Defender,Portugal
+1061,2020/21,Wolverhampton Wanderers,Rayan Aït-Nouri,Defender,France
+1062,2020/21,Wolverhampton Wanderers,Theo Corbeanu,Forward,Canada
+1063,2020/21,Wolverhampton Wanderers,Patrick Cutrone,Forward,Italy
+1064,2020/21,Wolverhampton Wanderers,Nigel Lonwijk,Defender,Netherlands
+1065,2020/21,Wolverhampton Wanderers,Willian José,Forward,Brazil
+1066,2020/21,Wolverhampton Wanderers,Hugo Bueno,Defender,Spain
+1067,2020/21,Wolverhampton Wanderers,Hugo Bueno,Defender,Spain
+1068,2020/21,Wolverhampton Wanderers,Andreas Söndergaard,Goalkeeper,Denmark
+1069,2020/21,Wolverhampton Wanderers,Lewis Richards,Defender,Ireland
+1070,2020/21,Wolverhampton Wanderers,Christian Marques,Defender,Portugal
+1071,2020/21,Wolverhampton Wanderers,Morgan Gibbs-White,Midfielder,England
+1072,2020/21,Wolverhampton Wanderers,Taylor Perry,Midfielder,England
+1073,2020/21,Wolverhampton Wanderers,Owen Otasowie,Midfielder,United States
+1074,2020/21,Wolverhampton Wanderers,Luke Cundle,Midfielder,England
+1075,2020/21,Wolverhampton Wanderers,Leonardo Campana,Forward,Ecuador
+1076,2019/20,Arsenal,Petr Cech,Goalkeeper,Czech Republic
+1077,2019/20,Arsenal,Bernd Leno,Goalkeeper,Germany
+1078,2019/20,Arsenal,Héctor Bellerín,Defender,Spain
+1079,2019/20,Arsenal,Sokratis Papastathopoulos,Defender,Greece
+1080,2019/20,Arsenal,Laurent Koscielny,Defender,France
+1081,2019/20,Arsenal,Stephan Lichtsteiner,Defender,Switzerland
+1082,2019/20,Arsenal,Rob Holding,Defender,England
+1083,2019/20,Arsenal,Nacho Monreal,Defender,Spain
+1084,2019/20,Arsenal,Shkodran Mustafi,Defender,Germany
+1085,2019/20,Arsenal,Carl Jenkinson,Defender,England
+1086,2019/20,Arsenal,Konstantinos Mavropanos,Defender,Greece
+1087,2019/20,Arsenal,Sead Kolasinac,Defender,Bosnia & Herzegovina
+1088,2019/20,Arsenal,Zech Medley,Defender,England
+1089,2019/20,Arsenal,Julio Pleguezuelo,Defender,Spain
+1090,2019/20,Arsenal,Mohamed Elneny,Midfielder,Egypt
+1091,2019/20,Arsenal,Henrikh Mkhitaryan,Midfielder,Armenia
+1092,2019/20,Arsenal,Aaron Ramsey,Midfielder,Wales
+1093,2019/20,Arsenal,Mesut Özil,Midfielder,Germany
+1094,2019/20,Arsenal,Lucas Torreira,Midfielder,Uruguay
+1095,2019/20,Arsenal,Ainsley Maitland-Niles,Midfielder,England
+1096,2019/20,Arsenal,Alexander Iwobi,Midfielder,Nigeria
+1097,2019/20,Arsenal,Denis Suárez,Midfielder,Spain
+1098,2019/20,Arsenal,Mattéo Guendouzi,Midfielder,France
+1099,2019/20,Arsenal,Granit Xhaka,Midfielder,Switzerland
+1100,2019/20,Arsenal,Joseph Willock,Midfielder,England
+1101,2019/20,Arsenal,Alexandre Lacazette,Forward,France
+1102,2019/20,Arsenal,Pierre-Emerick Aubameyang,Forward,Gabon
+1103,2019/20,Arsenal,Danny Welbeck,Forward,England
+1104,2019/20,Arsenal,Eddie Nketiah,Forward,England
+1105,2019/20,Arsenal,Tyreece John-Jules,Forward,England
+1106,2019/20,Arsenal,Bukayo Saka,Forward,England
+1107,2019/20,Arsenal,Emile Smith Rowe,Midfielder,England
+1108,2019/20,Arsenal,Emiliano Martínez,Goalkeeper,Argentina
+1109,2019/20,Arsenal,David Ospina,Goalkeeper,Colombia
+1110,2019/20,Arsenal,Calum Chambers,Defender,England
+1111,2019/20,Arsenal,Matt Macey,Goalkeeper,England
+1112,2019/20,Arsenal,Dominic Thompson,Defender,England
+1113,2019/20,Arsenal,Gabriel Martinelli,Forward,Brazil
+1114,2019/20,Arsenal,James Olayinka,Midfielder,England
+1115,2019/20,Arsenal,Reiss Nelson,Forward,England
+1116,2019/20,Arsenal,Dani Ceballos,Midfielder,Spain
+1117,2019/20,Arsenal,Nicolas Pépé,Forward,Cote D’Ivoire
+1118,2019/20,Arsenal,Kieran Tierney,Defender,Scotland
+1119,2019/20,Arsenal,David Luiz,Defender,Brazil
+1120,2019/20,Arsenal,Tolaji Bola,Defender,England
+1121,2019/20,Arsenal,Robbie Burton,Midfielder,Wales
+1122,2019/20,Arsenal,Folarin Balogun,Forward,England
+1123,2019/20,Arsenal,Pablo Marí,Defender,Spain
+1124,2019/20,Arsenal,Cédric Soares,Defender,Portugal
+1125,2019/20,Arsenal,Matthew Smith,Defender,England
+1126,2019/20,Arsenal,William Saliba,Defender,France
+1127,2019/20,Aston Villa,Ørjan Nyland,Goalkeeper,Norway
+1128,2019/20,Aston Villa,Jed Steer,Goalkeeper,England
+1129,2019/20,Aston Villa,Lovre Kalinic,Goalkeeper,Croatia
+1130,2019/20,Aston Villa,Mark Bunn,Goalkeeper,England
+1131,2019/20,Aston Villa,Neil Taylor,Defender,Wales
+1132,2019/20,Aston Villa,Axel Tuanzebe,Defender,England
+1133,2019/20,Aston Villa,James Chester,Defender,Wales
+1134,2019/20,Aston Villa,Alan Hutton,Defender,Scotland
+1135,2019/20,Aston Villa,Tommy Elphick,Defender,England
+1136,2019/20,Aston Villa,Ahmed El Mohamady,Defender,Egypt
+1137,2019/20,Aston Villa,Kortney Hause,Defender,England
+1138,2019/20,Aston Villa,Dominic Revan,Defender,England
+1139,2019/20,Aston Villa,Tyrone Mings,Defender,England
+1140,2019/20,Aston Villa,Glenn Whelan,Midfielder,Ireland
+1141,2019/20,Aston Villa,John McGinn,Midfielder,Scotland
+1142,2019/20,Aston Villa,Henri Lansbury,Midfielder,England
+1143,2019/20,Aston Villa,Jack Grealish,Midfielder,England
+1144,2019/20,Aston Villa,Tom Carroll,Midfielder,England
+1145,2019/20,Aston Villa,Conor Hourihane,Midfielder,Ireland
+1146,2019/20,Aston Villa,Mile Jedinak,Midfielder,Australia
+1147,2019/20,Aston Villa,Keinan Davis,Forward,England
+1148,2019/20,Aston Villa,Andre Green,Midfielder,England
+1149,2019/20,Aston Villa,Birkir Bjarnason,Midfielder,Iceland
+1150,2019/20,Aston Villa,Albert Adomah,Midfielder,Ghana
+1151,2019/20,Aston Villa,Tammy Abraham,Forward,England
+1152,2019/20,Aston Villa,Jonathan Kodjia,Forward,Cote D’Ivoire
+1153,2019/20,Aston Villa,Jota,Midfielder,Spain
+1154,2019/20,Aston Villa,Wesley,Forward,Brazil
+1155,2019/20,Aston Villa,Frédéric Guilbert,Defender,France
+1156,2019/20,Aston Villa,James Bree,Defender,England
+1157,2019/20,Aston Villa,Mitchell Clark,Defender,Wales
+1158,2019/20,Aston Villa,Jake Doyle-Hayes,Midfielder,Ireland
+1159,2019/20,Aston Villa,Callum O'Hare,Midfielder,England
+1160,2019/20,Aston Villa,Scott Hogan,Forward,Ireland
+1161,2019/20,Aston Villa,Rushian Marcus Amari Hepburn-Murphy,Forward,England
+1162,2019/20,Aston Villa,Harry McKirdy,Forward,England
+1163,2019/20,Aston Villa,Ross McCormack,Forward,Scotland
+1164,2019/20,Aston Villa,Matt Targett,Defender,England
+1165,2019/20,Aston Villa,Kortney Hause,Defender,England
+1166,2019/20,Aston Villa,Anwar El Ghazi,Midfielder,Netherlands
+1167,2019/20,Aston Villa,Tyrone Mings,Defender,England
+1168,2019/20,Aston Villa,Ezri Konsa,Defender,England
+1169,2019/20,Aston Villa,Björn Engels,Defender,Belgium
+1170,2019/20,Aston Villa,Trézéguet,Midfielder,Egypt
+1171,2019/20,Aston Villa,Douglas Luiz,Midfielder,Brazil
+1172,2019/20,Aston Villa,Tom Heaton,Goalkeeper,England
+1173,2019/20,Aston Villa,Marvelous Nakamba,Midfielder,Zimbabwe
+1174,2019/20,Aston Villa,Aaron Tshibola,Midfielder,DR Congo
+1175,2019/20,Aston Villa,Jacob Ramsey,Midfielder,England
+1176,2019/20,Aston Villa,Cameron Archer,Forward,England
+1177,2019/20,Aston Villa,Indiana Vassilev,Forward,United States
+1178,2019/20,Aston Villa,Danny Drinkwater,Midfielder,England
+1179,2019/20,Aston Villa,Pepe Reina,Goalkeeper,Spain
+1180,2019/20,Aston Villa,Mbwana Samatta,Forward,Tanzania
+1181,2019/20,Aston Villa,Matija Sarkic,Goalkeeper,Montenegro
+1182,2019/20,Aston Villa,Borja Bastón,Forward,Spain
+1183,2019/20,Aston Villa,Kaine Hayden,Midfielder,England
+1184,2019/20,AFC Bournemouth,Artur Boruc,Goalkeeper,Poland
+1185,2019/20,AFC Bournemouth,Asmir Begovic,Goalkeeper,Bosnia & Herzegovina
+1186,2019/20,AFC Bournemouth,Mark Travers,Goalkeeper,Ireland
+1187,2019/20,AFC Bournemouth,Simon Francis,Defender,England
+1188,2019/20,AFC Bournemouth,Steve Cook,Defender,England
+1189,2019/20,AFC Bournemouth,Nathan Aké,Defender,Netherlands
+1190,2019/20,AFC Bournemouth,Charlie Daniels,Defender,England
+1191,2019/20,AFC Bournemouth,Adam Smith,Defender,England
+1192,2019/20,AFC Bournemouth,Diego Rico,Defender,Spain
+1193,2019/20,AFC Bournemouth,Nathaniel Clyne,Defender,England
+1194,2019/20,AFC Bournemouth,Jack Simpson,Defender,England
+1195,2019/20,AFC Bournemouth,Chris Mepham,Defender,Wales
+1196,2019/20,AFC Bournemouth,Dan Gosling,Midfielder,England
+1197,2019/20,AFC Bournemouth,Andrew Surman,Midfielder,England
+1198,2019/20,AFC Bournemouth,Jefferson Lerma,Midfielder,Colombia
+1199,2019/20,AFC Bournemouth,Jordon Ibe,Midfielder,England
+1200,2019/20,AFC Bournemouth,Lewis Cook,Midfielder,England
+1201,2019/20,AFC Bournemouth,Junior Stanislas,Midfielder,England
+1202,2019/20,AFC Bournemouth,David Brooks,Midfielder,Wales
+1203,2019/20,AFC Bournemouth,Ryan Fraser,Midfielder,Scotland
+1204,2019/20,AFC Bournemouth,Kyle Taylor,Midfielder,England
+1205,2019/20,AFC Bournemouth,Matt Butcher,Midfielder,England
+1206,2019/20,AFC Bournemouth,Nnamdi Ofoborh,Midfielder,Nigeria
+1207,2019/20,AFC Bournemouth,Lys Mousset,Forward,France
+1208,2019/20,AFC Bournemouth,Callum Wilson,Forward,England
+1209,2019/20,AFC Bournemouth,Joshua King,Forward,Norway
+1210,2019/20,AFC Bournemouth,Dominic Solanke,Forward,England
+1211,2019/20,AFC Bournemouth,Sam Surridge,Forward,England
+1212,2019/20,AFC Bournemouth,Tyrone Mings,Defender,England
+1213,2019/20,AFC Bournemouth,Marc Pugh,Midfielder,England
+1214,2019/20,AFC Bournemouth,Mihai-Alexandru Dobre,Midfielder,Romania
+1215,2019/20,AFC Bournemouth,Jermain Defoe,Forward,England
+1216,2019/20,AFC Bournemouth,Aaron Ramsdale,Goalkeeper,England
+1217,2019/20,AFC Bournemouth,Lloyd Kelly,Defender,England
+1218,2019/20,AFC Bournemouth,Connor Mahoney,Midfielder,England
+1219,2019/20,AFC Bournemouth,Jack Stacey,Defender,England
+1220,2019/20,AFC Bournemouth,Philip Billing,Midfielder,Denmark
+1221,2019/20,AFC Bournemouth,Arnaut Danjuma,Forward,Netherlands
+1222,2019/20,AFC Bournemouth,William Dennis,Goalkeeper,England
+1223,2019/20,AFC Bournemouth,Jordan Zemura,Defender,Zimbabwe
+1224,2019/20,AFC Bournemouth,Sam Sherring,Defender,England
+1225,2019/20,AFC Bournemouth,Harry Wilson,Midfielder,Wales
+1226,2019/20,AFC Bournemouth,Gavin Kilkenny,Midfielder,Ireland
+1227,2019/20,AFC Bournemouth,Brennan Camp,Defender,Scotland
+1228,2019/20,AFC Bournemouth,Corey Jordan,Defender,England
+1229,2019/20,AFC Bournemouth,Christian Saydee,Midfielder,England
+1230,2019/20,AFC Bournemouth,Brooklyn Genesini,Defender,England
+1231,2019/20,AFC Bournemouth,Harry Arter,Midfielder,Ireland
+1232,2019/20,Brighton and Hove Albion,Mat Ryan,Goalkeeper,Australia
+1233,2019/20,Brighton and Hove Albion,Jason Steele,Goalkeeper,England
+1234,2019/20,Brighton and Hove Albion,David Button,Goalkeeper,England
+1235,2019/20,Brighton and Hove Albion,Robert Sánchez,Goalkeeper,Spain
+1236,2019/20,Brighton and Hove Albion,Bruno,Defender,Spain
+1237,2019/20,Brighton and Hove Albion,Gaëtan Bong,Defender,Cameroon
+1238,2019/20,Brighton and Hove Albion,Shane Duffy,Defender,Ireland
+1239,2019/20,Brighton and Hove Albion,Lewis Dunk,Defender,England
+1240,2019/20,Brighton and Hove Albion,Leon Balogun,Defender,Nigeria
+1241,2019/20,Brighton and Hove Albion,Martín Montoya,Defender,Spain
+1242,2019/20,Brighton and Hove Albion,Bernardo,Defender,Brazil
+1243,2019/20,Brighton and Hove Albion,Dan Burn,Defender,England
+1244,2019/20,Brighton and Hove Albion,Leo Østigard,Defender,Norway
+1245,2019/20,Brighton and Hove Albion,Dale Stephens,Midfielder,England
+1246,2019/20,Brighton and Hove Albion,Beram Kayal,Midfielder,Israel
+1247,2019/20,Brighton and Hove Albion,Yves Bissouma,Midfielder,Mali
+1248,2019/20,Brighton and Hove Albion,Anthony Knockaert,Midfielder,France
+1249,2019/20,Brighton and Hove Albion,Pascal Groß,Midfielder,Germany
+1250,2019/20,Brighton and Hove Albion,Solly March,Midfielder,England
+1251,2019/20,Brighton and Hove Albion,Davy Pröpper,Midfielder,Netherlands
+1252,2019/20,Brighton and Hove Albion,Jayson Molumby,Midfielder,Ireland
+1253,2019/20,Brighton and Hove Albion,Will Collar,Midfielder,England
+1254,2019/20,Brighton and Hove Albion,Jürgen Locadia,Forward,Netherlands
+1255,2019/20,Brighton and Hove Albion,Florin Andone,Forward,Romania
+1256,2019/20,Brighton and Hove Albion,Alireza Jahanbakhsh,Forward,Iran
+1257,2019/20,Brighton and Hove Albion,Glenn Murray,Forward,England
+1258,2019/20,Brighton and Hove Albion,José Izquierdo,Forward,Colombia
+1259,2019/20,Brighton and Hove Albion,Viktor Gyökeres,Forward,Sweden
+1260,2019/20,Brighton and Hove Albion,Aaron Connolly,Forward,Ireland
+1261,2019/20,Brighton and Hove Albion,Tudor Baluta,Defender,Romania
+1262,2019/20,Brighton and Hove Albion,Jan Mlakar,Forward,Slovenia
+1263,2019/20,Brighton and Hove Albion,Ezequiel Schelotto,Defender,Argentina
+1264,2019/20,Brighton and Hove Albion,Alexis Mac Allister,Midfielder,Argentina
+1265,2019/20,Brighton and Hove Albion,Markus Suttner,Defender,Austria
+1266,2019/20,Brighton and Hove Albion,Oliver Norwood,Midfielder,Northern Ireland
+1267,2019/20,Brighton and Hove Albion,Ben Barclay,Defender,England
+1268,2019/20,Brighton and Hove Albion,Tomer Hemed,Forward,Israel
+1269,2019/20,Brighton and Hove Albion,Matthew Clarke,Defender,England
+1270,2019/20,Brighton and Hove Albion,Leandro Trossard,Forward,Belgium
+1271,2019/20,Brighton and Hove Albion,Tudor Baluta,Defender,Romania
+1272,2019/20,Brighton and Hove Albion,Billy Arce,Midfielder,Ecuador
+1273,2019/20,Brighton and Hove Albion,Percy Tau,Forward,South Africa
+1274,2019/20,Brighton and Hove Albion,Adam Webster,Defender,England
+1275,2019/20,Brighton and Hove Albion,Neal Maupay,Forward,France
+1276,2019/20,Brighton and Hove Albion,Aaron Mooy,Midfielder,Australia
+1277,2019/20,Brighton and Hove Albion,Soufyan Ahannach,Midfielder,Netherlands
+1278,2019/20,Brighton and Hove Albion,Max Sanders,Midfielder,England
+1279,2019/20,Brighton and Hove Albion,Steven Alzate,Forward,Colombia
+1280,2019/20,Brighton and Hove Albion,Warren O'Hora,Defender,Ireland
+1281,2019/20,Brighton and Hove Albion,Bojan Radulovic Samoukovic,Forward,Serbia
+1282,2019/20,Brighton and Hove Albion,Archie Davies,Defender,England
+1283,2019/20,Brighton and Hove Albion,Romaric Yapi,Defender,France
+1284,2019/20,Brighton and Hove Albion,Alex Cochrane,Defender,England
+1285,2019/20,Brighton and Hove Albion,Peter Gwargis,Midfielder,Sweden
+1286,2019/20,Brighton and Hove Albion,Taylor Richards,Midfielder,England
+1287,2019/20,Brighton and Hove Albion,Jack Spong,Midfielder,England
+1288,2019/20,Brighton and Hove Albion,Teddy Jenks,Midfielder,England
+1289,2019/20,Brighton and Hove Albion,Andrew Crofts,Midfielder,Wales
+1290,2019/20,Brighton and Hove Albion,Jordan Davies,Midfielder,Wales
+1291,2019/20,Brighton and Hove Albion,Ryan Longman,Midfielder,England
+1292,2019/20,Brighton and Hove Albion,Aaron Mooy,Midfielder,Australia
+1293,2019/20,Brighton and Hove Albion,Tariq Lamptey,Defender,England
+1294,2019/20,Brighton and Hove Albion,Benjamin White,Defender,England
+1295,2019/20,Brighton and Hove Albion,Christian Walton,Goalkeeper,England
+1296,2019/20,Brighton and Hove Albion,Haydon Roberts,Defender,England
+1297,2019/20,Burnley,Tom Heaton,Goalkeeper,England
+1298,2019/20,Burnley,Joe Hart,Goalkeeper,England
+1299,2019/20,Burnley,Anders Lindegaard,Goalkeeper,Denmark
+1300,2019/20,Burnley,Nick Pope,Goalkeeper,England
+1301,2019/20,Burnley,Adam Legzdins,Goalkeeper,England
+1302,2019/20,Burnley,Matthew Lowton,Defender,England
+1303,2019/20,Burnley,Charlie Taylor,Defender,England
+1304,2019/20,Burnley,James Tarkowski,Defender,England
+1305,2019/20,Burnley,Ben Mee,Defender,England
+1306,2019/20,Burnley,Ben Gibson,Defender,England
+1307,2019/20,Burnley,Stephen Ward,Defender,Ireland
+1308,2019/20,Burnley,Phil Bardsley,Defender,Scotland
+1309,2019/20,Burnley,Kevin Long,Defender,Ireland
+1310,2019/20,Burnley,Anthony Driscoll-Glennon,Defender,England
+1311,2019/20,Burnley,Jack Cork,Midfielder,England
+1312,2019/20,Burnley,Jóhann Gudmundsson,Midfielder,Iceland
+1313,2019/20,Burnley,Robbie Brady,Midfielder,Ireland
+1314,2019/20,Burnley,Jeff Hendrick,Midfielder,Ireland
+1315,2019/20,Burnley,Steven Defour,Midfielder,Belgium
+1316,2019/20,Burnley,Ashley Westwood,Midfielder,England
+1317,2019/20,Burnley,Aaron Lennon,Midfielder,England
+1318,2019/20,Burnley,Josh Benson,Midfielder,England
+1319,2019/20,Burnley,Ashley Barnes,Forward,England
+1320,2019/20,Burnley,Chris Wood,Forward,New Zealand
+1321,2019/20,Burnley,Peter Crouch,Forward,England
+1322,2019/20,Burnley,Matej Vydra,Forward,Czech Republic
+1323,2019/20,Burnley,Dwight McNeil,Midfielder,England
+1324,2019/20,Burnley,Daniel Agyei,Forward,England
+1325,2019/20,Burnley,Jonathan Walters,Forward,Ireland
+1326,2019/20,Burnley,Sam Vokes,Forward,Wales
+1327,2019/20,Burnley,Ali Koiki,Defender,England
+1328,2019/20,Burnley,Ntumba Massanka,Midfielder,England
+1329,2019/20,Burnley,Nahki Wells,Forward,Bermuda
+1330,2019/20,Burnley,Aiden O'Neill,Midfielder,Australia
+1331,2019/20,Burnley,Joel Senior,Defender,England
+1332,2019/20,Burnley,Erik Pieters,Defender,Netherlands
+1333,2019/20,Burnley,Jay Rodriguez,Forward,England
+1334,2019/20,Burnley,Bailey Peacock-Farrell,Goalkeeper,Northern Ireland
+1335,2019/20,Burnley,Jimmy Dunne,Defender,Ireland
+1336,2019/20,Burnley,Danny Drinkwater,Midfielder,England
+1337,2019/20,Burnley,Lewis Richardson,Midfielder,England
+1338,2019/20,Burnley,Mace Goodridge,Midfielder,England
+1339,2019/20,Burnley,Josh Brownhill,Midfielder,England
+1340,2019/20,Burnley,Lukas Jensen,Goalkeeper,Denmark
+1341,2019/20,Burnley,Bobby Thomas,Defender,England
+1342,2019/20,Burnley,Max Thompson,Forward,England
+1343,2019/20,Burnley,Joel Mumbongo,Forward,Sweden
+1344,2019/20,Chelsea,Kepa Arrizabalaga,Goalkeeper,Spain
+1345,2019/20,Chelsea,Willy Caballero,Goalkeeper,Argentina
+1346,2019/20,Chelsea,Robert Green,Goalkeeper,England
+1347,2019/20,Chelsea,Jamie Cumming,Goalkeeper,England
+1348,2019/20,Chelsea,Marcin Bulka,Goalkeeper,Poland
+1349,2019/20,Chelsea,Antonio Rüdiger,Defender,Germany
+1350,2019/20,Chelsea,Marcos Alonso,Defender,Spain
+1351,2019/20,Chelsea,Davide Zappacosta,Defender,Italy
+1352,2019/20,Chelsea,Gary Cahill,Defender,England
+1353,2019/20,Chelsea,Andreas Christensen,Defender,Denmark
+1354,2019/20,Chelsea,César Azpilicueta,Defender,Spain
+1355,2019/20,Chelsea,David Luiz,Defender,Brazil
+1356,2019/20,Chelsea,Emerson,Defender,Italy
+1357,2019/20,Chelsea,Ethan Ampadu,Defender,Wales
+1358,2019/20,Chelsea,Marc Guéhi,Defender,England
+1359,2019/20,Chelsea,Jorginho,Midfielder,Italy
+1360,2019/20,Chelsea,Danny Drinkwater,Midfielder,England
+1361,2019/20,Chelsea,N'Golo Kanté,Midfielder,France
+1362,2019/20,Chelsea,Ross Barkley,Midfielder,England
+1363,2019/20,Chelsea,Ruben Loftus-Cheek,Midfielder,England
+1364,2019/20,Chelsea,Mateo Kovacic,Midfielder,Croatia
+1365,2019/20,Chelsea,George McEachran,Midfielder,England
+1366,2019/20,Chelsea,Gonzalo Higuaín,Forward,Argentina
+1367,2019/20,Chelsea,Pedro,Forward,Spain
+1368,2019/20,Chelsea,Olivier Giroud,Forward,France
+1369,2019/20,Chelsea,Callum Hudson-Odoi,Forward,England
+1370,2019/20,Chelsea,Willian,Forward,Brazil
+1371,2019/20,Chelsea,Abdul Rahman Baba,Defender,Ghana
+1372,2019/20,Chelsea,Álvaro Morata,Forward,Spain
+1373,2019/20,Chelsea,Victor Moses,Defender,Nigeria
+1374,2019/20,Chelsea,Matt Miazga,Defender,United States
+1375,2019/20,Chelsea,Cesc Fàbregas,Midfielder,Spain
+1376,2019/20,Chelsea,Christian Pulisic,Midfielder,United States
+1377,2019/20,Chelsea,Michael Hector,Defender,Jamaica
+1378,2019/20,Chelsea,Tammy Abraham,Forward,England
+1379,2019/20,Chelsea,Tomas Kalas,Defender,Czech Republic
+1380,2019/20,Chelsea,Ola Aina,Defender,Nigeria
+1381,2019/20,Chelsea,Reece James,Defender,England
+1382,2019/20,Chelsea,Trevoh Chalobah,Defender,England
+1383,2019/20,Chelsea,Conor Gallagher,Midfielder,England
+1384,2019/20,Chelsea,Iké Ugbo,Forward,Canada
+1385,2019/20,Chelsea,Kenedy,Midfielder,Brazil
+1386,2019/20,Chelsea,Lucas Piazon,Midfielder,Brazil
+1387,2019/20,Chelsea,Kasey Palmer,Midfielder,Jamaica
+1388,2019/20,Chelsea,Mario Pasalic,Midfielder,Croatia
+1389,2019/20,Chelsea,Dujon Sterling,Midfielder,England
+1390,2019/20,Chelsea,Isaiah Brown,Forward,England
+1391,2019/20,Chelsea,Mateo Kovacic,Midfielder,Croatia
+1392,2019/20,Chelsea,Tiemoué Bakayoko,Midfielder,France
+1393,2019/20,Chelsea,Michy Batshuayi,Forward,Belgium
+1394,2019/20,Chelsea,Ian Maatsen,Defender,Netherlands
+1395,2019/20,Chelsea,Kurt Zouma,Defender,France
+1396,2019/20,Chelsea,Fikayo Tomori,Defender,England
+1397,2019/20,Chelsea,Billy Gilmour,Midfielder,Scotland
+1398,2019/20,Chelsea,Mason Mount,Midfielder,England
+1399,2019/20,Chelsea,Karlo Ziger,Goalkeeper,Croatia
+1400,2019/20,Chelsea,Marco van Ginkel,Midfielder,Netherlands
+1401,2019/20,Chelsea,Faustino Anjorin,Midfielder,England
+1402,2019/20,Chelsea,Tariq Lamptey,Defender,England
+1403,2019/20,Chelsea,Armando Broja,Forward,Albania
+1404,2019/20,Chelsea,Lewis Bate,Midfielder,England
+1405,2019/20,Chelsea,Nathan Baxter,Goalkeeper,England
+1406,2019/20,Chelsea,Lewis Baker,Midfielder,England
+1407,2019/20,Crystal Palace,Julian Speroni,Goalkeeper,Argentina
+1408,2019/20,Crystal Palace,Wayne Hennessey,Goalkeeper,Wales
+1409,2019/20,Crystal Palace,Lucas Perri,Goalkeeper,Brazil
+1410,2019/20,Crystal Palace,Vicente Guaita,Goalkeeper,Spain
+1411,2019/20,Crystal Palace,Joe Tupper,Goalkeeper,England
+1412,2019/20,Crystal Palace,Joel Ward,Defender,England
+1413,2019/20,Crystal Palace,Patrick van Aanholt,Defender,Netherlands
+1414,2019/20,Crystal Palace,James Tomkins,Defender,England
+1415,2019/20,Crystal Palace,Scott Dann,Defender,England
+1416,2019/20,Crystal Palace,Mamadou Sakho,Defender,France
+1417,2019/20,Crystal Palace,Jeffrey Schlupp,Midfielder,Ghana
+1418,2019/20,Crystal Palace,Pape Souaré,Defender,Senegal
+1419,2019/20,Crystal Palace,Aaron Wan-Bissaka,Defender,England
+1420,2019/20,Crystal Palace,Martin Kelly,Defender,England
+1421,2019/20,Crystal Palace,Sam Woods,Defender,England
+1422,2019/20,Crystal Palace,Luka Milivojevic,Midfielder,Serbia
+1423,2019/20,Crystal Palace,Max Meyer,Midfielder,Germany
+1424,2019/20,Crystal Palace,Cheikhou Kouyaté,Midfielder,Senegal
+1425,2019/20,Crystal Palace,Andros Townsend,Midfielder,England
+1426,2019/20,Crystal Palace,James McArthur,Midfielder,Scotland
+1427,2019/20,Crystal Palace,Bakary Sako,Midfielder,Mali
+1428,2019/20,Crystal Palace,Luke Dreher,Midfielder,England
+1429,2019/20,Crystal Palace,Giovanni McGregor,Midfielder,England
+1430,2019/20,Crystal Palace,Jairo Riedewald,Midfielder,Netherlands
+1431,2019/20,Crystal Palace,Wilfried Zaha,Forward,Cote D’Ivoire
+1432,2019/20,Crystal Palace,Jordan Ayew,Forward,Ghana
+1433,2019/20,Crystal Palace,Christian Benteke,Forward,Belgium
+1434,2019/20,Crystal Palace,Connor Wickham,Forward,England
+1435,2019/20,Crystal Palace,Michy Batshuayi,Forward,Belgium
+1436,2019/20,Crystal Palace,Sulaiman Kaikai,Midfielder,Sierra Leone
+1437,2019/20,Crystal Palace,Nya Kirby,Midfielder,England
+1438,2019/20,Crystal Palace,Alexander Sørloth,Forward,Norway
+1439,2019/20,Crystal Palace,Jonathan Williams,Midfielder,Wales
+1440,2019/20,Crystal Palace,Jordon Mutch,Midfielder,England
+1441,2019/20,Crystal Palace,Jason David Ian Puncheon,Midfielder,England
+1442,2019/20,Crystal Palace,Nikola Tavares,Defender,Croatia
+1443,2019/20,Crystal Palace,Stephen Henderson,Goalkeeper,Ireland
+1444,2019/20,Crystal Palace,Jordan Ayew,Forward,Ghana
+1445,2019/20,Crystal Palace,Gary Cahill,Defender,England
+1446,2019/20,Crystal Palace,Víctor Camarasa,Midfielder,Spain
+1447,2019/20,Crystal Palace,James McCarthy,Midfielder,Ireland
+1448,2019/20,Crystal Palace,Sam Woods,Defender,England
+1449,2019/20,Crystal Palace,Gary Cahill,Defender,England
+1450,2019/20,Crystal Palace,Tyrick Mitchell,Defender,England
+1451,2019/20,Crystal Palace,James Daly,Forward,England
+1452,2019/20,Crystal Palace,Brandon Pierrick,Forward,England
+1453,2019/20,Crystal Palace,Giovanni McGregor,Midfielder,England
+1454,2019/20,Crystal Palace,Cenk Tosun,Forward,Turkey
+1455,2019/20,Crystal Palace,Scott Banks,Midfielder,Scotland
+1456,2019/20,Crystal Palace,John-Kymani Gordon,Forward,England
+1457,2019/20,Crystal Palace,Stephen Henderson,Goalkeeper,Ireland
+1458,2019/20,Crystal Palace,Jaroslaw Jach,Defender,Poland
+1459,2019/20,Crystal Palace,Ryan Inniss,Defender,England
+1460,2019/20,Everton,Jordan Pickford,Goalkeeper,England
+1461,2019/20,Everton,Maarten Stekelenburg,Goalkeeper,Netherlands
+1462,2019/20,Everton,João Virgínia,Goalkeeper,Portugal
+1463,2019/20,Everton,Mateusz Hewelt,Goalkeeper,Poland
+1464,2019/20,Everton,Leighton Baines,Defender,England
+1465,2019/20,Everton,Michael Keane,Defender,England
+1466,2019/20,Everton,Kurt Zouma,Defender,France
+1467,2019/20,Everton,Phil Jagielka,Defender,England
+1468,2019/20,Everton,Lucas Digne,Defender,France
+1469,2019/20,Everton,Yerry Mina,Defender,Colombia
+1470,2019/20,Everton,Séamus Coleman,Defender,Ireland
+1471,2019/20,Everton,Jonjoe Kenny,Defender,England
+1472,2019/20,Everton,André Gomes,Midfielder,Portugal
+1473,2019/20,Everton,Gylfi Sigurdsson,Midfielder,Iceland
+1474,2019/20,Everton,James McCarthy,Midfielder,Ireland
+1475,2019/20,Everton,Idrissa Gueye,Midfielder,Senegal
+1476,2019/20,Everton,Morgan Schneiderlin,Midfielder,France
+1477,2019/20,Everton,Bernard,Forward,Brazil
+1478,2019/20,Everton,Tom Davies,Midfielder,England
+1479,2019/20,Everton,Theo Walcott,Forward,England
+1480,2019/20,Everton,Cenk Tosun,Forward,Turkey
+1481,2019/20,Everton,Dominic Calvert-Lewin,Forward,England
+1482,2019/20,Everton,Richarlison,Forward,Brazil
+1483,2019/20,Everton,Ademola Lookman,Forward,England
+1484,2019/20,Everton,Jiang Guangtai,Defender,China
+1485,2019/20,Everton,Cuco Martina,Defender,Curacao
+1486,2019/20,Everton,Callum Connolly,Defender,England
+1487,2019/20,Everton,Yannick Bolasie,Forward,DR Congo
+1488,2019/20,Everton,Beni Baningime,Midfielder,DR Congo
+1489,2019/20,Everton,Kieran Dowell,Midfielder,England
+1490,2019/20,Everton,Mason Holgate,Defender,England
+1491,2019/20,Everton,Matthew Pennington,Defender,England
+1492,2019/20,Everton,Sandro Ramírez,Forward,Spain
+1493,2019/20,Everton,Muhamed Besic,Midfielder,Bosnia & Herzegovina
+1494,2019/20,Everton,Joe Williams,Midfielder,England
+1495,2019/20,Everton,Nikola Vlasic,Forward,Croatia
+1496,2019/20,Everton,Mason Holgate,Defender,England
+1497,2019/20,Everton,André Gomes,Midfielder,Portugal
+1498,2019/20,Everton,Jonas Lössl,Goalkeeper,Denmark
+1499,2019/20,Everton,Luke Garbutt,Defender,England
+1500,2019/20,Everton,Kevin Mirallas,Midfielder,Belgium
+1501,2019/20,Everton,Henry Onyekuru,Forward,Nigeria
+1502,2019/20,Everton,Shani Tarashaj,Forward,Switzerland
+1503,2019/20,Everton,Oumar Niasse,Forward,Senegal
+1504,2019/20,Everton,Fabian Delph,Midfielder,England
+1505,2019/20,Everton,Jean-Philippe Gbamin,Midfielder,Cote D’Ivoire
+1506,2019/20,Everton,Moise Kean,Forward,Italy
+1507,2019/20,Everton,Djibril Sidibé,Defender,France
+1508,2019/20,Everton,Alexander Iwobi,Forward,Nigeria
+1509,2019/20,Everton,Anthony Gordon,Forward,England
+1510,2019/20,Everton,Dennis Adeniran,Midfielder,England
+1511,2019/20,Everton,Lewis Gibson,Defender,England
+1512,2019/20,Everton,João Virgínia,Goalkeeper,Portugal
+1513,2019/20,Everton,Jarrad Branthwaite,Defender,England
+1514,2019/20,Everton,Cenk Tosun,Forward,Turkey
+1515,2019/20,Everton,Ellis Simms,Forward,England
+1516,2019/20,Everton,Jonas Lössl,Goalkeeper,Denmark
+1517,2019/20,Leicester City,Kasper Schmeichel,Goalkeeper,Denmark
+1518,2019/20,Leicester City,Danny Ward,Goalkeeper,Wales
+1519,2019/20,Leicester City,Eldin Jakupovic,Goalkeeper,Switzerland
+1520,2019/20,Leicester City,Danny Simpson,Defender,England
+1521,2019/20,Leicester City,Ben Chilwell,Defender,England
+1522,2019/20,Leicester City,Çaglar Söyüncü,Defender,Turkey
+1523,2019/20,Leicester City,Wes Morgan,Defender,Jamaica
+1524,2019/20,Leicester City,Jonny Evans,Defender,Northern Ireland
+1525,2019/20,Leicester City,Ricardo Pereira,Defender,Portugal
+1526,2019/20,Leicester City,Harry Maguire,Defender,England
+1527,2019/20,Leicester City,Christian Fuchs,Defender,Austria
+1528,2019/20,Leicester City,Demarai Gray,Midfielder,England
+1529,2019/20,Leicester City,James Maddison,Midfielder,England
+1530,2019/20,Leicester City,Marc Albrighton,Midfielder,England
+1531,2019/20,Leicester City,Daniel Amartey,Defender,Ghana
+1532,2019/20,Leicester City,Harvey Barnes,Midfielder,England
+1533,2019/20,Leicester City,Youri Tielemans,Midfielder,Belgium
+1534,2019/20,Leicester City,Matty James,Midfielder,England
+1535,2019/20,Leicester City,Nampalys Mendy,Midfielder,Senegal
+1536,2019/20,Leicester City,Wilfred Ndidi,Midfielder,Nigeria
+1537,2019/20,Leicester City,Rachid Ghezzal,Midfielder,Algeria
+1538,2019/20,Leicester City,Hamza Choudhury,Midfielder,England
+1539,2019/20,Leicester City,Thakgalo Leshabela,Midfielder,South Africa
+1540,2019/20,Leicester City,Kelechi Iheanacho,Forward,Nigeria
+1541,2019/20,Leicester City,Jamie Vardy,Forward,England
+1542,2019/20,Leicester City,Shinji Okazaki,Forward,Japan
+1543,2019/20,Leicester City,Yohan Benalouane,Defender,Tunisia
+1544,2019/20,Leicester City,Vicente Iborra,Midfielder,Spain
+1545,2019/20,Leicester City,Filip Benkovic,Defender,Croatia
+1546,2019/20,Leicester City,Bartosz Kapustka,Midfielder,Poland
+1547,2019/20,Leicester City,Leonardo Ulloa,Forward,Argentina
+1548,2019/20,Leicester City,James Justin,Defender,England
+1549,2019/20,Leicester City,Josh Knight,Defender,England
+1550,2019/20,Leicester City,Adrien Silva,Midfielder,Portugal
+1551,2019/20,Leicester City,Andy King,Midfielder,Wales
+1552,2019/20,Leicester City,Fousseni Diabaté,Forward,Mali
+1553,2019/20,Leicester City,George Thomas,Forward,Wales
+1554,2019/20,Leicester City,Ayoze Pérez,Forward,Spain
+1555,2019/20,Leicester City,Youri Tielemans,Midfielder,Belgium
+1556,2019/20,Leicester City,Daniel Iversen,Goalkeeper,Denmark
+1557,2019/20,Leicester City,Callum Elder,Defender,Australia
+1558,2019/20,Leicester City,Adam Leathers,Midfielder,England
+1559,2019/20,Leicester City,Ethan Fitzhugh,Midfielder,England
+1560,2019/20,Leicester City,Admiral Muskwe,Forward,Zimbabwe
+1561,2019/20,Leicester City,Will Russ,Forward,Wales
+1562,2019/20,Leicester City,Viktor Johansson,Goalkeeper,Sweden
+1563,2019/20,Leicester City,Vontae Daley-Campbell,Defender,England
+1564,2019/20,Leicester City,Callum Wright,Midfielder,England
+1565,2019/20,Leicester City,Terell Pennant,Forward,England
+1566,2019/20,Leicester City,Layton Ndukwu,Forward,England
+1567,2019/20,Leicester City,Calvin Bassey,Defender,England
+1568,2019/20,Leicester City,Sidnei Tavares,Midfielder,Portugal
+1569,2019/20,Leicester City,Elliott Moore,Defender,England
+1570,2019/20,Leicester City,Dennis Praet,Midfielder,Belgium
+1571,2019/20,Leicester City,Kiernan Dewsbury-Hall,Midfielder,England
+1572,2019/20,Leicester City,Ryan Bennett,Defender,England
+1573,2019/20,Leicester City,Islam Slimani,Forward,Algeria
+1574,2019/20,Leicester City,Darnell Johnson,Defender,England
+1575,2019/20,Leicester City,Luke Thomas,Defender,England
+1576,2019/20,Leicester City,George Hirst,Forward,England
+1577,2019/20,Liverpool,Alisson,Goalkeeper,Brazil
+1578,2019/20,Liverpool,Simon Mignolet,Goalkeeper,Belgium
+1579,2019/20,Liverpool,Caoimhin Kelleher,Goalkeeper,Ireland
+1580,2019/20,Liverpool,Virgil van Dijk,Defender,Netherlands
+1581,2019/20,Liverpool,Dejan Lovren,Defender,Croatia
+1582,2019/20,Liverpool,Joseph Gomez,Defender,England
+1583,2019/20,Liverpool,Alberto Moreno,Defender,Spain
+1584,2019/20,Liverpool,Andrew Robertson,Defender,Scotland
+1585,2019/20,Liverpool,Joel Matip,Defender,Cameroon
+1586,2019/20,Liverpool,Ki-Jana Hoever,Defender,Netherlands
+1587,2019/20,Liverpool,Trent Alexander-Arnold,Defender,England
+1588,2019/20,Liverpool,Fabinho,Midfielder,Brazil
+1589,2019/20,Liverpool,Georginio Wijnaldum,Midfielder,Netherlands
+1590,2019/20,Liverpool,James Milner,Midfielder,England
+1591,2019/20,Liverpool,Naby Keïta,Midfielder,Guinea
+1592,2019/20,Liverpool,Jordan Henderson,Midfielder,England
+1593,2019/20,Liverpool,Adam Lallana,Midfielder,England
+1594,2019/20,Liverpool,Alex Oxlade-Chamberlain,Midfielder,England
+1595,2019/20,Liverpool,Curtis Jones,Midfielder,England
+1596,2019/20,Liverpool,Isaac Christie-Davies,Midfielder,Wales
+1597,2019/20,Liverpool,Rafael Camacho,Midfielder,Portugal
+1598,2019/20,Liverpool,Roberto Firmino,Forward,Brazil
+1599,2019/20,Liverpool,Sadio Mané,Forward,Senegal
+1600,2019/20,Liverpool,Mohamed Salah,Forward,Egypt
+1601,2019/20,Liverpool,Daniel Sturridge,Forward,England
+1602,2019/20,Liverpool,Xherdan Shaqiri,Midfielder,Switzerland
+1603,2019/20,Liverpool,Rhian Brewster,Forward,England
+1604,2019/20,Liverpool,Divock Origi,Forward,Belgium
+1605,2019/20,Liverpool,Ben Woodburn,Forward,Wales
+1606,2019/20,Liverpool,Allan,Midfielder,Brazil
+1607,2019/20,Liverpool,Lazar Markovic,Midfielder,Serbia
+1608,2019/20,Liverpool,Kamil Grabara,Goalkeeper,Poland
+1609,2019/20,Liverpool,Dominic Solanke,Forward,England
+1610,2019/20,Liverpool,Sheyi Ojo,Midfielder,England
+1611,2019/20,Liverpool,Ragnar Klavan,Defender,Estonia
+1612,2019/20,Liverpool,Sepp van den Berg,Defender,Netherlands
+1613,2019/20,Liverpool,Nathaniel Clyne,Defender,England
+1614,2019/20,Liverpool,Harry Wilson,Midfielder,Wales
+1615,2019/20,Liverpool,Vítezslav Jaros,Goalkeeper,Czech Republic
+1616,2019/20,Liverpool,Daniel Atherton,Goalkeeper,England
+1617,2019/20,Liverpool,George Johnston,Defender,Scotland
+1618,2019/20,Liverpool,Yasser Larouci,Defender,France
+1619,2019/20,Liverpool,Nathaniel Phillips,Defender,England
+1620,2019/20,Liverpool,Paul Glatzel,Midfielder,England
+1621,2019/20,Liverpool,Adam Lewis,Midfielder,England
+1622,2019/20,Liverpool,Ryan Kent,Midfielder,England
+1623,2019/20,Liverpool,Bobby Duncan,Forward,England
+1624,2019/20,Liverpool,Andy Lonergan,Goalkeeper,England
+1625,2019/20,Liverpool,Harvey Elliott,Midfielder,England
+1626,2019/20,Liverpool,Adrián,Goalkeeper,Spain
+1627,2019/20,Liverpool,Ovie Ejaria,Midfielder,England
+1628,2019/20,Liverpool,Pedro Chirivella,Midfielder,Spain
+1629,2019/20,Liverpool,Herbie Kane,Midfielder,England
+1630,2019/20,Liverpool,Luis Longstaff,Midfielder,England
+1631,2019/20,Liverpool,Leighton Clarkson,Midfielder,England
+1632,2019/20,Liverpool,Neco Williams,Defender,Wales
+1633,2019/20,Liverpool,Billy Koumetio,Defender,France
+1634,2019/20,Liverpool,Ben Winterbottom,Goalkeeper,England
+1635,2019/20,Liverpool,Tony Gallacher,Defender,Scotland
+1636,2019/20,Liverpool,Thomas Clayton,Defender,Scotland
+1637,2019/20,Liverpool,Morgan Boyes,Defender,Wales
+1638,2019/20,Liverpool,James Norris,Defender,England
+1639,2019/20,Liverpool,Elijah Dixon-Bonner,Midfielder,England
+1640,2019/20,Liverpool,Jack Bearne,Midfielder,England
+1641,2019/20,Liverpool,Layton Stewart,Forward,England
+1642,2019/20,Liverpool,Thomas Hill,Forward,England
+1643,2019/20,Liverpool,Takumi Minamino,Forward,Japan
+1644,2019/20,Liverpool,Jake Cain,Midfielder,England
+1645,2019/20,Liverpool,Liam Millar,Forward,Canada
+1646,2019/20,Liverpool,Joseph Hardy,Forward,England
+1647,2019/20,Liverpool,Marko Grujic,Midfielder,Serbia
+1648,2019/20,Liverpool,Loris Karius,Goalkeeper,Germany
+1649,2019/20,Liverpool,Taiwo Awoniyi,Forward,Nigeria
+1650,2019/20,Manchester City,Claudio Bravo,Goalkeeper,Chile
+1651,2019/20,Manchester City,Ederson,Goalkeeper,Brazil
+1652,2019/20,Manchester City,Daniel Grimshaw,Goalkeeper,England
+1653,2019/20,Manchester City,Arijanet Muric,Goalkeeper,Kosovo
+1654,2019/20,Manchester City,Kyle Walker,Defender,England
+1655,2019/20,Manchester City,Danilo,Defender,Brazil
+1656,2019/20,Manchester City,Vincent Kompany,Defender,Belgium
+1657,2019/20,Manchester City,John Stones,Defender,England
+1658,2019/20,Manchester City,Aymeric Laporte,Defender,Spain
+1659,2019/20,Manchester City,Eliaquim Mangala,Defender,France
+1660,2019/20,Manchester City,Benjamin Mendy,Defender,France
+1661,2019/20,Manchester City,Nicolás Otamendi,Defender,Argentina
+1662,2019/20,Manchester City,Philippe Sandler,Defender,Netherlands
+1663,2019/20,Manchester City,Eric García,Defender,Spain
+1664,2019/20,Manchester City,Cameron Humphreys-Grant,Defender,England
+1665,2019/20,Manchester City,Ilkay Gündogan,Midfielder,Germany
+1666,2019/20,Manchester City,Kevin De Bruyne,Midfielder,Belgium
+1667,2019/20,Manchester City,Fabian Delph,Midfielder,England
+1668,2019/20,Manchester City,Bernardo Silva,Midfielder,Portugal
+1669,2019/20,Manchester City,David Silva,Midfielder,Spain
+1670,2019/20,Manchester City,Fernandinho,Midfielder,Brazil
+1671,2019/20,Manchester City,Riyad Mahrez,Forward,Algeria
+1672,2019/20,Manchester City,Oleksandr Zinchenko,Defender,Ukraine
+1673,2019/20,Manchester City,Phil Foden,Midfielder,England
+1674,2019/20,Manchester City,Felix Nmecha,Midfielder,England
+1675,2019/20,Manchester City,Claudio Gomes,Midfielder,France
+1676,2019/20,Manchester City,Adrián Bernabé,Midfielder,Spain
+1677,2019/20,Manchester City,Raheem Sterling,Forward,England
+1678,2019/20,Manchester City,Sergio Agüero,Forward,Argentina
+1679,2019/20,Manchester City,Leroy Sané,Forward,Germany
+1680,2019/20,Manchester City,Gabriel Jesus,Forward,Brazil
+1681,2019/20,Manchester City,Taylor Richards,Forward,England
+1682,2019/20,Manchester City,Marlos Moreno,Forward,Colombia
+1683,2019/20,Manchester City,Brahim Díaz,Forward,Spain
+1684,2019/20,Manchester City,Jason Denayer,Defender,Belgium
+1685,2019/20,Manchester City,Daniel Arzani,Midfielder,Australia
+1686,2019/20,Manchester City,Patrick Roberts,Midfielder,England
+1687,2019/20,Manchester City,Erik Palmer-Brown,Defender,United States
+1688,2019/20,Manchester City,Tosin Adarabioyo,Defender,England
+1689,2019/20,Manchester City,Luke Bolton,Midfielder,England
+1690,2019/20,Manchester City,Lukas Nmecha,Forward,Germany
+1691,2019/20,Manchester City,Angeliño,Defender,Spain
+1692,2019/20,Manchester City,Rodri,Midfielder,Spain
+1693,2019/20,Manchester City,Taylor Harwood-Bellis,Defender,England
+1694,2019/20,Manchester City,Alpha Richard Dionkou,Defender,Senegal
+1695,2019/20,Manchester City,Tommy Doyle,Midfielder,England
+1696,2019/20,Manchester City,Ben Knight,Midfielder,England
+1697,2019/20,Manchester City,Iker Pozo,Midfielder,Spain
+1698,2019/20,Manchester City,Aleix García,Midfielder,Spain
+1699,2019/20,Manchester City,Nabili Zoubdi Touaizi,Forward,Morocco
+1700,2019/20,Manchester City,Gavin Bazunu,Goalkeeper,Ireland
+1701,2019/20,Manchester City,João Cancelo,Defender,Portugal
+1702,2019/20,Manchester City,Scott Carson,Goalkeeper,England
+1703,2019/20,Manchester City,Pedro Porro,Defender,Spain
+1704,2019/20,Manchester City,Tommy Doyle,Midfielder,England
+1705,2019/20,Manchester City,Ian Poveda-Ocampo,Forward,England
+1706,2019/20,Manchester City,Mix Diskerud,Midfielder,United States
+1707,2019/20,Manchester City,Cole Palmer,Midfielder,England
+1708,2019/20,Manchester City,Zack Steffen,Goalkeeper,United States
+1709,2019/20,Manchester City,Slobodan Tedic,Forward,Serbia
+1710,2019/20,Manchester United,David de Gea,Goalkeeper,Spain
+1711,2019/20,Manchester United,Lee Grant,Goalkeeper,England
+1712,2019/20,Manchester United,Sergio Romero,Goalkeeper,Argentina
+1713,2019/20,Manchester United,Victor Lindelöf,Defender,Sweden
+1714,2019/20,Manchester United,Eric Bailly,Defender,Cote D’Ivoire
+1715,2019/20,Manchester United,Phil Jones,Defender,England
+1716,2019/20,Manchester United,Chris Smalling,Defender,England
+1717,2019/20,Manchester United,Marcos Rojo,Defender,Argentina
+1718,2019/20,Manchester United,Ashley Young,Defender,England
+1719,2019/20,Manchester United,Diogo Dalot,Defender,Portugal
+1720,2019/20,Manchester United,Luke Shaw,Defender,England
+1721,2019/20,Manchester United,Antonio Valencia,Defender,Ecuador
+1722,2019/20,Manchester United,Matteo Darmian,Defender,Italy
+1723,2019/20,Manchester United,Paul Pogba,Midfielder,France
+1724,2019/20,Manchester United,Juan Mata,Midfielder,Spain
+1725,2019/20,Manchester United,Jesse Lingard,Midfielder,England
+1726,2019/20,Manchester United,Andreas Pereira,Midfielder,Brazil
+1727,2019/20,Manchester United,Fred,Midfielder,Brazil
+1728,2019/20,Manchester United,Ander Herrera,Midfielder,Spain
+1729,2019/20,Manchester United,Nemanja Matic,Midfielder,Serbia
+1730,2019/20,Manchester United,James Garner,Midfielder,England
+1731,2019/20,Manchester United,Scott McTominay,Midfielder,Scotland
+1732,2019/20,Manchester United,Tahith Chong,Midfielder,Netherlands
+1733,2019/20,Manchester United,Angel Gomes,Midfielder,England
+1734,2019/20,Manchester United,Alexis Sánchez,Forward,Chile
+1735,2019/20,Manchester United,Romelu Lukaku,Forward,Belgium
+1736,2019/20,Manchester United,Marcus Rashford,Forward,England
+1737,2019/20,Manchester United,Anthony Martial,Forward,France
+1738,2019/20,Manchester United,Joshua Bohui,Forward,England
+1739,2019/20,Manchester United,Mason Greenwood,Forward,England
+1740,2019/20,Manchester United,Marouane Fellaini,Midfielder,Belgium
+1741,2019/20,Manchester United,Ethan Hamilton,Midfielder,Scotland
+1742,2019/20,Manchester United,Daniel James,Midfielder,Wales
+1743,2019/20,Manchester United,Kieran O'Hara,Goalkeeper,Ireland
+1744,2019/20,Manchester United,Aaron Wan-Bissaka,Defender,England
+1745,2019/20,Manchester United,Timothy Fosu-Mensah,Defender,Netherlands
+1746,2019/20,Manchester United,Axel Tuanzebe,Defender,England
+1747,2019/20,Manchester United,Joel Pereira,Goalkeeper,Portugal
+1748,2019/20,Manchester United,Harry Maguire,Defender,England
+1749,2019/20,Manchester United,Brandon Williams,Defender,England
+1750,2019/20,Manchester United,Matej Kovar,Goalkeeper,Czech Republic
+1751,2019/20,Manchester United,Ethan Laird,Defender,England
+1752,2019/20,Manchester United,Max Taylor,Defender,England
+1753,2019/20,Manchester United,Di'Shon Bernard,Defender,England
+1754,2019/20,Manchester United,Teden Mengi,Defender,England
+1755,2019/20,Manchester United,Arnau Puigmal,Midfielder,Spain
+1756,2019/20,Manchester United,Ethan Galbraith,Midfielder,Northern Ireland
+1757,2019/20,Manchester United,Dylan Levitt,Midfielder,Wales
+1758,2019/20,Manchester United,D'Mani Mellor,Forward,England
+1759,2019/20,Manchester United,Largie Ramazani,Forward,Belgium
+1760,2019/20,Manchester United,Bruno Fernandes,Midfielder,Portugal
+1761,2019/20,Manchester United,Nathan Bishop,Goalkeeper,England
+1762,2019/20,Manchester United,Odion Ighalo,Forward,Nigeria
+1763,2019/20,Manchester United,Marcos Rojo,Defender,Argentina
+1764,2019/20,Manchester United,Dean Henderson,Goalkeeper,England
+1765,2019/20,Newcastle United,Robert Elliot,Goalkeeper,Ireland
+1766,2019/20,Newcastle United,Martin Dúbravka,Goalkeeper,Slovakia
+1767,2019/20,Newcastle United,Karl Darlow,Goalkeeper,England
+1768,2019/20,Newcastle United,Nathan Harker,Goalkeeper,England
+1769,2019/20,Newcastle United,Freddie Woodman,Goalkeeper,England
+1770,2019/20,Newcastle United,Ciaran Clark,Defender,Ireland
+1771,2019/20,Newcastle United,Paul Dummett,Defender,Wales
+1772,2019/20,Newcastle United,Fabian Schär,Defender,Switzerland
+1773,2019/20,Newcastle United,Jamaal Lascelles,Defender,England
+1774,2019/20,Newcastle United,Federico Fernández,Defender,Argentina
+1775,2019/20,Newcastle United,Javier Manquillo,Defender,Spain
+1776,2019/20,Newcastle United,Florian Lejeune,Defender,France
+1777,2019/20,Newcastle United,DeAndre Yedlin,Defender,United States
+1778,2019/20,Newcastle United,Antonio Barreca,Defender,Italy
+1779,2019/20,Newcastle United,Lewis Cass,Defender,England
+1780,2019/20,Newcastle United,Ki Sung-Yueng,Midfielder,South Korea
+1781,2019/20,Newcastle United,Jonjo Shelvey,Midfielder,England
+1782,2019/20,Newcastle United,Mohamed Diamé,Midfielder,Senegal
+1783,2019/20,Newcastle United,Matt Ritchie,Midfielder,Scotland
+1784,2019/20,Newcastle United,Isaac Hayden,Midfielder,England
+1785,2019/20,Newcastle United,Kenedy,Midfielder,Brazil
+1786,2019/20,Newcastle United,Miguel Almirón,Midfielder,Paraguay
+1787,2019/20,Newcastle United,Christian Atsu,Midfielder,Ghana
+1788,2019/20,Newcastle United,Sean Longstaff,Midfielder,England
+1789,2019/20,Newcastle United,Kelland Watts,Midfielder,England
+1790,2019/20,Newcastle United,Salomón Rondón,Forward,Venezuela
+1791,2019/20,Newcastle United,Yoshinori Muto,Forward,Japan
+1792,2019/20,Newcastle United,Ayoze Pérez,Forward,Spain
+1793,2019/20,Newcastle United,Joselu,Forward,Spain
+1794,2019/20,Newcastle United,Callum Roberts,Midfielder,England
+1795,2019/20,Newcastle United,Jack Colback,Midfielder,England
+1796,2019/20,Newcastle United,Jacob Murphy,Midfielder,England
+1797,2019/20,Newcastle United,Rolando Aarons,Midfielder,England
+1798,2019/20,Newcastle United,Achraf Lazaar,Defender,Morocco
+1799,2019/20,Newcastle United,Jamie Sterry,Defender,England
+1800,2019/20,Newcastle United,Owen Bailey,Midfielder,England
+1801,2019/20,Newcastle United,Matthew Longstaff,Midfielder,England
+1802,2019/20,Newcastle United,Thomas Allan,Forward,England
+1803,2019/20,Newcastle United,Elias Sorensen,Forward,Denmark
+1804,2019/20,Newcastle United,Joelinton,Forward,Brazil
+1805,2019/20,Newcastle United,Jetro Willems,Defender,Netherlands
+1806,2019/20,Newcastle United,Allan Saint-Maximin,Forward,France
+1807,2019/20,Newcastle United,Emil Krafth,Defender,Sweden
+1808,2019/20,Newcastle United,Dwight Gayle,Forward,England
+1809,2019/20,Newcastle United,Andy Carroll,Forward,England
+1810,2019/20,Newcastle United,Kelland Watts,Midfielder,England
+1811,2019/20,Newcastle United,Liam Gibson,Defender,England
+1812,2019/20,Newcastle United,Nabil Bentaleb,Midfielder,Algeria
+1813,2019/20,Newcastle United,Valentino Lazaro,Midfielder,Austria
+1814,2019/20,Newcastle United,Danny Rose,Defender,England
+1815,2019/20,Newcastle United,Peter Keen,Goalkeeper,England
+1816,2019/20,Newcastle United,Jack Young,Midfielder,England
+1817,2019/20,Newcastle United,Henri Saivet,Midfielder,Senegal
+1818,2019/20,Newcastle United,Daniel Barlaser,Midfielder,England
+1819,2019/20,Norwich City,Tim Krul,Goalkeeper,Netherlands
+1820,2019/20,Norwich City,Michael McGovern,Goalkeeper,Northern Ireland
+1821,2019/20,Norwich City,Aston Oxborough,Goalkeeper,England
+1822,2019/20,Norwich City,Ivo Pinto,Defender,Portugal
+1823,2019/20,Norwich City,Christoph Zimmermann,Defender,Germany
+1824,2019/20,Norwich City,Jamal Lewis,Defender,Northern Ireland
+1825,2019/20,Norwich City,Timm Klose,Defender,Switzerland
+1826,2019/20,Norwich City,Felix Passlack,Defender,Germany
+1827,2019/20,Norwich City,Philip Heise,Defender,Germany
+1828,2019/20,Norwich City,Grant Hanley,Defender,Scotland
+1829,2019/20,Norwich City,Max Aarons,Defender,England
+1830,2019/20,Norwich City,Timi Odusina,Defender,England
+1831,2019/20,Norwich City,Ben Godfrey,Defender,England
+1832,2019/20,Norwich City,Mario Vrancic,Midfielder,Bosnia & Herzegovina
+1833,2019/20,Norwich City,Moritz Leitner,Midfielder,Germany
+1834,2019/20,Norwich City,Emiliano Buendía,Midfielder,Argentina
+1835,2019/20,Norwich City,Marco Stiepermann,Midfielder,Germany
+1836,2019/20,Norwich City,Tom Trybull,Midfielder,Germany
+1837,2019/20,Norwich City,Kenny McLean,Midfielder,Scotland
+1838,2019/20,Norwich City,Onel Hernández,Midfielder,Cuba
+1839,2019/20,Norwich City,Alexander Tettey,Midfielder,Norway
+1840,2019/20,Norwich City,Louis Thompson,Midfielder,Wales
+1841,2019/20,Norwich City,Todd Cantwell,Midfielder,England
+1842,2019/20,Norwich City,Alfie Payne,Midfielder,England
+1843,2019/20,Norwich City,Jordan Rhodes,Forward,Scotland
+1844,2019/20,Norwich City,Teemu Pukki,Forward,Finland
+1845,2019/20,Norwich City,Dennis Srbeny,Forward,Germany
+1846,2019/20,Norwich City,Marcel Franke,Defender,Germany
+1847,2019/20,Norwich City,Sean Raggett,Defender,England
+1848,2019/20,Norwich City,Josip Drmic,Forward,Switzerland
+1849,2019/20,Norwich City,James Husband,Defender,England
+1850,2019/20,Norwich City,Ben Marshall,Midfielder,England
+1851,2019/20,Norwich City,Nélson Oliveira,Forward,Portugal
+1852,2019/20,Norwich City,Yanic Wildschut,Forward,Netherlands
+1853,2019/20,Norwich City,Patrick Roberts,Midfielder,England
+1854,2019/20,Norwich City,Ralf Fährmann,Goalkeeper,Germany
+1855,2019/20,Norwich City,Sam Byram,Defender,England
+1856,2019/20,Norwich City,Adam Idah,Forward,Ireland
+1857,2019/20,Norwich City,Ibrahim Amadou,Midfielder,France
+1858,2019/20,Norwich City,Louis Thompson,Midfielder,Wales
+1859,2019/20,Norwich City,Archie Mair,Goalkeeper,Scotland
+1860,2019/20,Norwich City,Akin Famewo,Defender,England
+1861,2019/20,Norwich City,Rocky Bushiri,Defender,Belgium
+1862,2019/20,Norwich City,Ondrej Duda,Midfielder,Slovakia
+1863,2019/20,Norwich City,Lukas Rupp,Midfielder,Germany
+1864,2019/20,Norwich City,Josh Martin,Midfielder,England
+1865,2019/20,Norwich City,Sam McCallum,Defender,England
+1866,2019/20,Norwich City,Melvin Sitti,Midfielder,France
+1867,2019/20,Norwich City,Mason Bloomfield,Forward,England
+1868,2019/20,Norwich City,Jordan Thomas,Defender,England
+1869,2019/20,Norwich City,Daniel Adshead,Midfielder,England
+1870,2019/20,Sheffield United,Simon Moore,Goalkeeper,England
+1871,2019/20,Sheffield United,Jake Eastwood,Goalkeeper,England
+1872,2019/20,Sheffield United,George Baldock,Defender,England
+1873,2019/20,Sheffield United,Enda Stevens,Defender,Ireland
+1874,2019/20,Sheffield United,Jack O'Connell,Defender,England
+1875,2019/20,Sheffield United,Chris Basham,Defender,England
+1876,2019/20,Sheffield United,John Lundstram,Midfielder,England
+1877,2019/20,Sheffield United,John Egan,Defender,Ireland
+1878,2019/20,Sheffield United,Jake Wright,Defender,England
+1879,2019/20,Sheffield United,Kieron Freeman,Defender,Wales
+1880,2019/20,Sheffield United,Richard Stearman,Defender,England
+1881,2019/20,Sheffield United,Kean Bryan,Defender,England
+1882,2019/20,Sheffield United,Martin Cranie,Defender,England
+1883,2019/20,Sheffield United,Rhys Norrington-Davies,Defender,Wales
+1884,2019/20,Sheffield United,John Fleck,Midfielder,Scotland
+1885,2019/20,Sheffield United,Kieran Dowell,Midfielder,England
+1886,2019/20,Sheffield United,Paul Coutts,Midfielder,Scotland
+1887,2019/20,Sheffield United,Oliver Norwood,Midfielder,Northern Ireland
+1888,2019/20,Sheffield United,Mark Duffy,Midfielder,England
+1889,2019/20,Sheffield United,Marvin Johnson,Midfielder,England
+1890,2019/20,Sheffield United,Billy Sharp,Forward,England
+1891,2019/20,Sheffield United,Scott Hogan,Forward,Ireland
+1892,2019/20,Sheffield United,Gary Madine,Forward,England
+1893,2019/20,Sheffield United,David McGoldrick,Forward,Ireland
+1894,2019/20,Sheffield United,Conor Washington,Forward,Northern Ireland
+1895,2019/20,Sheffield United,Ben Heneghan,Defender,England
+1896,2019/20,Sheffield United,Daniel Lafferty,Defender,Northern Ireland
+1897,2019/20,Sheffield United,Nathan Thomas,Midfielder,England
+1898,2019/20,Sheffield United,Ricky Holmes,Midfielder,England
+1899,2019/20,Sheffield United,Samir Carruthers,Midfielder,Ireland
+1900,2019/20,Sheffield United,Leon Clarke,Forward,England
+1901,2019/20,Sheffield United,Tyler Smith,Forward,England
+1902,2019/20,Sheffield United,Caolan Lavery,Forward,Northern Ireland
+1903,2019/20,Sheffield United,Ched Evans,Forward,Wales
+1904,2019/20,Sheffield United,Luke Freeman,Midfielder,England
+1905,2019/20,Sheffield United,Phil Jagielka,Defender,England
+1906,2019/20,Sheffield United,Callum Robinson,Forward,Ireland
+1907,2019/20,Sheffield United,Ravel Morrison,Midfielder,Jamaica
+1908,2019/20,Sheffield United,Lys Mousset,Forward,France
+1909,2019/20,Sheffield United,Ben Osborn,Midfielder,England
+1910,2019/20,Sheffield United,Dean Henderson,Goalkeeper,England
+1911,2019/20,Sheffield United,Oliver McBurnie,Forward,Scotland
+1912,2019/20,Sheffield United,Michael Verrips,Goalkeeper,Netherlands
+1913,2019/20,Sheffield United,Muhamed Besic,Midfielder,Bosnia & Herzegovina
+1914,2019/20,Sheffield United,Jack Rodwell,Midfielder,England
+1915,2019/20,Sheffield United,Jack Robinson,Defender,England
+1916,2019/20,Sheffield United,David Parkhouse,Forward,Northern Ireland
+1917,2019/20,Sheffield United,Sander Berge,Midfielder,Norway
+1918,2019/20,Sheffield United,Richairo Zivkovic,Forward,Netherlands
+1919,2019/20,Sheffield United,Panagiotis Retsos,Defender,Greece
+1920,2019/20,Sheffield United,Regan Slater,Midfielder,England
+1921,2019/20,Southampton,Alex McCarthy,Goalkeeper,England
+1922,2019/20,Southampton,Angus Gunn,Goalkeeper,England
+1923,2019/20,Southampton,Harry Lewis,Goalkeeper,England
+1924,2019/20,Southampton,Fraser Forster,Goalkeeper,England
+1925,2019/20,Southampton,Maya Yoshida,Defender,Japan
+1926,2019/20,Southampton,Jannik Vestergaard,Defender,Denmark
+1927,2019/20,Southampton,Jack Stephens,Defender,England
+1928,2019/20,Southampton,Ryan Bertrand,Defender,England
+1929,2019/20,Southampton,Matt Targett,Defender,England
+1930,2019/20,Southampton,Jan Bednarek,Defender,Poland
+1931,2019/20,Southampton,Yan Valery,Defender,France
+1932,2019/20,Southampton,Kayne Ramsay,Defender,England
+1933,2019/20,Southampton,Mohamed Elyounoussi,Midfielder,Norway
+1934,2019/20,Southampton,Oriol Romeu,Midfielder,Spain
+1935,2019/20,Southampton,James Ward-Prowse,Midfielder,England
+1936,2019/20,Southampton,Stuart Armstrong,Midfielder,Scotland
+1937,2019/20,Southampton,Mario Lemina,Midfielder,Gabon
+1938,2019/20,Southampton,Nathan Redmond,Midfielder,England
+1939,2019/20,Southampton,Pierre-Emile Højbjerg,Midfielder,Denmark
+1940,2019/20,Southampton,Josh Sims,Midfielder,England
+1941,2019/20,Southampton,Tyreke Johnson,Midfielder,England
+1942,2019/20,Southampton,Callum Slattery,Midfielder,England
+1943,2019/20,Southampton,Shane Long,Forward,Ireland
+1944,2019/20,Southampton,Danny Ings,Forward,England
+1945,2019/20,Southampton,Charlie Austin,Forward,England
+1946,2019/20,Southampton,Sam Gallagher,Forward,England
+1947,2019/20,Southampton,Michael Obafemi,Forward,Ireland
+1948,2019/20,Southampton,Marcus Barnes,Forward,England
+1949,2019/20,Southampton,Cédric Soares,Defender,Portugal
+1950,2019/20,Southampton,Manolo Gabbiadini,Forward,Italy
+1951,2019/20,Southampton,Steven Davis,Midfielder,Northern Ireland
+1952,2019/20,Southampton,Sam McQueen,Defender,England
+1953,2019/20,Southampton,Jake Flannigan,Midfielder,England
+1954,2019/20,Southampton,Jake Hesketh,Midfielder,England
+1955,2019/20,Southampton,Moussa Djenepo,Midfielder,Mali
+1956,2019/20,Southampton,Wesley Hoedt,Defender,Netherlands
+1957,2019/20,Southampton,Jordy Clasie,Midfielder,Netherlands
+1958,2019/20,Southampton,Sofiane Boufal,Midfielder,Morocco
+1959,2019/20,Southampton,Harrison Reed,Midfielder,England
+1960,2019/20,Southampton,Guido Carrillo,Forward,Argentina
+1961,2019/20,Southampton,Che Adams,Forward,Scotland
+1962,2019/20,Southampton,Danny Ings,Forward,England
+1963,2019/20,Southampton,Jack Bycroft,Goalkeeper,England
+1964,2019/20,Southampton,Oludare Olufunwa,Defender,England
+1965,2019/20,Southampton,Thomas O'Connor,Defender,Ireland
+1966,2019/20,Southampton,Aaron O'Driscoll,Defender,Ireland
+1967,2019/20,Southampton,Alexandre Jankewitz,Midfielder,Switzerland
+1968,2019/20,Southampton,Christoph Klarer,Midfielder,Austria
+1969,2019/20,Southampton,Kornelius Normann Hansen,Midfielder,Norway
+1970,2019/20,Southampton,Caleb Watts,Midfielder,Australia
+1971,2019/20,Southampton,Daniel N'Lundulu,Forward,England
+1972,2019/20,Southampton,William Smallbone,Forward,Ireland
+1973,2019/20,Southampton,Jake Vokins,Defender,England
+1974,2019/20,Southampton,William Smallbone,Forward,Ireland
+1975,2019/20,Southampton,Kevin Danso,Defender,Austria
+1976,2019/20,Southampton,Kyle Walker-Peters,Defender,England
+1977,2019/20,Southampton,Michael Stensgaard,Goalkeeper,Denmark
+1978,2019/20,Southampton,Nathan Tella,Midfielder,England
+1979,2019/20,Southampton,Will Ferry,Midfielder,Ireland
+1980,2019/20,Southampton,Jacob Maddox,Midfielder,England
+1981,2019/20,Southampton,Kyle Walker-Peters,Defender,England
+1982,2019/20,Tottenham Hotspur,Hugo Lloris,Goalkeeper,France
+1983,2019/20,Tottenham Hotspur,Paulo Gazzaniga,Goalkeeper,Argentina
+1984,2019/20,Tottenham Hotspur,Alfie Whiteman,Goalkeeper,England
+1985,2019/20,Tottenham Hotspur,Kieran Trippier,Defender,England
+1986,2019/20,Tottenham Hotspur,Danny Rose,Defender,England
+1987,2019/20,Tottenham Hotspur,Toby Alderweireld,Defender,Belgium
+1988,2019/20,Tottenham Hotspur,Jan Vertonghen,Defender,Belgium
+1989,2019/20,Tottenham Hotspur,Davinson Sánchez,Defender,Colombia
+1990,2019/20,Tottenham Hotspur,Kyle Walker-Peters,Defender,England
+1991,2019/20,Tottenham Hotspur,Juan Foyth,Defender,Argentina
+1992,2019/20,Tottenham Hotspur,Serge Aurier,Defender,Cote D’Ivoire
+1993,2019/20,Tottenham Hotspur,Ben Davies,Defender,Wales
+1994,2019/20,Tottenham Hotspur,Timothy Eyoma,Defender,England
+1995,2019/20,Tottenham Hotspur,Harry Winks,Midfielder,England
+1996,2019/20,Tottenham Hotspur,Erik Lamela,Midfielder,Argentina
+1997,2019/20,Tottenham Hotspur,Victor Wanyama,Midfielder,Kenya
+1998,2019/20,Tottenham Hotspur,Eric Dier,Defender,England
+1999,2019/20,Tottenham Hotspur,Moussa Sissoko,Midfielder,France
+2000,2019/20,Tottenham Hotspur,Dele Alli,Midfielder,England
+2001,2019/20,Tottenham Hotspur,Christian Eriksen,Midfielder,Denmark
+2002,2019/20,Tottenham Hotspur,Lucas Moura,Forward,Brazil
+2003,2019/20,Tottenham Hotspur,Luke Amos,Midfielder,England
+2004,2019/20,Tottenham Hotspur,George Marsh,Midfielder,England
+2005,2019/20,Tottenham Hotspur,Oliver Skipp,Midfielder,England
+2006,2019/20,Tottenham Hotspur,Son Heung-Min,Forward,South Korea
+2007,2019/20,Tottenham Hotspur,Vincent Janssen,Forward,Netherlands
+2008,2019/20,Tottenham Hotspur,Harry Kane,Forward,England
+2009,2019/20,Tottenham Hotspur,Fernando Llorente,Forward,Spain
+2010,2019/20,Tottenham Hotspur,Kazaiah Sterling,Forward,England
+2011,2019/20,Tottenham Hotspur,Georges-Kévin Nkoudou,Midfielder,France
+2012,2019/20,Tottenham Hotspur,Mousa Dembélé,Midfielder,Belgium
+2013,2019/20,Tottenham Hotspur,Josh Onomah,Midfielder,England
+2014,2019/20,Tottenham Hotspur,Tanguy Ndombele,Midfielder,France
+2015,2019/20,Tottenham Hotspur,Jonathan De Bie,Goalkeeper,Belgium
+2016,2019/20,Tottenham Hotspur,Brooklyn Lyons-Foster,Defender,England
+2017,2019/20,Tottenham Hotspur,Anthony Georgiou,Midfielder,Cyprus
+2018,2019/20,Tottenham Hotspur,Jack Roles,Midfielder,Cyprus
+2019,2019/20,Tottenham Hotspur,Harvey White,Midfielder,England
+2020,2019/20,Tottenham Hotspur,Brandon Austin,Goalkeeper,England
+2021,2019/20,Tottenham Hotspur,Giovani Lo Celso,Midfielder,Argentina
+2022,2019/20,Tottenham Hotspur,Ryan Sessegnon,Midfielder,England
+2023,2019/20,Tottenham Hotspur,Japhet Tanganga,Defender,England
+2024,2019/20,Tottenham Hotspur,Troy Parrott,Forward,Ireland
+2025,2019/20,Tottenham Hotspur,Michel Vorm,Goalkeeper,Netherlands
+2026,2019/20,Tottenham Hotspur,Dennis Cirkin,Defender,England
+2027,2019/20,Tottenham Hotspur,Gedson Fernandes,Midfielder,Portugal
+2028,2019/20,Tottenham Hotspur,Steven Bergwijn,Forward,Netherlands
+2029,2019/20,Tottenham Hotspur,Malachi Fagan-Walcott,Defender,England
+2030,2019/20,Tottenham Hotspur,Cameron Carter-Vickers,Defender,United States
+2031,2019/20,Tottenham Hotspur,Jack Clarke,Forward,England
+2032,2019/20,Tottenham Hotspur,Jamie Bowden,Midfielder,Ireland
+2033,2019/20,Watford,Heurelho Gomes,Goalkeeper,Brazil
+2034,2019/20,Watford,Ben Foster,Goalkeeper,England
+2035,2019/20,Watford,Pontus Dahlberg,Goalkeeper,Sweden
+2036,2019/20,Watford,Daryl Janmaat,Defender,Netherlands
+2037,2019/20,Watford,Miguel Britos,Defender,Uruguay
+2038,2019/20,Watford,Sebastian Prödl,Defender,Austria
+2039,2019/20,Watford,Adrian Mariappa,Defender,Jamaica
+2040,2019/20,Watford,Adam Masina,Defender,Morocco
+2041,2019/20,Watford,Craig Cathcart,Defender,Northern Ireland
+2042,2019/20,Watford,Kiko Femenía,Defender,Spain
+2043,2019/20,Watford,Marc Navarro,Defender,Spain
+2044,2019/20,Watford,José Holebas,Defender,Greece
+2045,2019/20,Watford,Christian Kabasele,Defender,Belgium
+2046,2019/20,Watford,Tom Cleverley,Midfielder,England
+2047,2019/20,Watford,Ken Sema,Midfielder,Sweden
+2048,2019/20,Watford,Nathaniel Chalobah,Midfielder,England
+2049,2019/20,Watford,Abdoulaye Doucouré,Midfielder,France
+2050,2019/20,Watford,Will Hughes,Midfielder,England
+2051,2019/20,Watford,Domingos Quina,Midfielder,Portugal
+2052,2019/20,Watford,Etienne Capoue,Midfielder,France
+2053,2019/20,Watford,Roberto Pereyra,Midfielder,Argentina
+2054,2019/20,Watford,Gerard Deulofeu,Forward,Spain
+2055,2019/20,Watford,Troy Deeney,Forward,England
+2056,2019/20,Watford,Isaac Success,Forward,Nigeria
+2057,2019/20,Watford,Adalberto Peñaranda,Forward,Venezuela
+2058,2019/20,Watford,Andre Gray,Forward,Jamaica
+2059,2019/20,Watford,Marvin Zeegelaar,Defender,Netherlands
+2060,2019/20,Watford,Younes Kaboul,Defender,France
+2061,2019/20,Watford,Dimitri Foulquier,Defender,Guadeloupe
+2062,2019/20,Watford,Daniel Bachmann,Goalkeeper,Austria
+2063,2019/20,Watford,Ben Wilmot,Defender,England
+2064,2019/20,Watford,Dodi Lukébakio,Midfielder,Belgium
+2065,2019/20,Watford,Stefano Okaka,Forward,Italy
+2066,2019/20,Watford,Craig Dawson,Defender,England
+2067,2019/20,Watford,Kane Crichlow,Midfielder,Bermuda
+2068,2019/20,Watford,Harry Forster,Midfielder,England
+2069,2019/20,Watford,Tom Dele-Bashiru,Midfielder,Nigeria
+2070,2019/20,Watford,Danny Welbeck,Forward,England
+2071,2019/20,Watford,Ismaïla Sarr,Forward,Senegal
+2072,2019/20,Watford,Sam Dalby,Forward,England
+2073,2019/20,Watford,João Pedro,Forward,Brazil
+2074,2019/20,Watford,Adam Parkes,Goalkeeper,England
+2075,2019/20,Watford,Mason Barrett,Defender,England
+2076,2019/20,Watford,Bayli Spencer-Adams,Defender,England
+2077,2019/20,Watford,Callum Whelan,Midfielder,England
+2078,2019/20,Watford,Joseph Hungbo,Midfielder,England
+2079,2019/20,Watford,Ignacio Pussetto,Midfielder,Argentina
+2080,2019/20,Watford,Kaylen Hinds,Forward,England
+2081,2019/20,Watford,Henry Wise,Midfielder,England
+2082,2019/20,Watford,Jayden Bennetts,Midfielder,England
+2083,2019/20,Watford,Jamal Balogun,Defender,England
+2084,2019/20,Watford,Andi Janjeva,Defender,
+2085,2019/20,Watford,Jerome Sinclair,Forward,England
+2086,2019/20,West Ham United,Lukasz Fabianski,Goalkeeper,Poland
+2087,2019/20,West Ham United,Adrián,Goalkeeper,Spain
+2088,2019/20,West Ham United,Winston Reid,Defender,New Zealand
+2089,2019/20,West Ham United,Aaron Cresswell,Defender,England
+2090,2019/20,West Ham United,Fabián Balbuena,Defender,Paraguay
+2091,2019/20,West Ham United,Pablo Zabaleta,Defender,Argentina
+2092,2019/20,West Ham United,Angelo Ogbonna,Defender,Italy
+2093,2019/20,West Ham United,Issa Diop,Defender,France
+2094,2019/20,West Ham United,Ryan Fredericks,Defender,England
+2095,2019/20,West Ham United,Arthur Masuaku,Defender,DR Congo
+2096,2019/20,West Ham United,Felipe Anderson,Midfielder,Brazil
+2097,2019/20,West Ham United,Manuel Lanzini,Midfielder,Argentina
+2098,2019/20,West Ham United,Robert Snodgrass,Midfielder,Scotland
+2099,2019/20,West Ham United,Pedro Obiang,Midfielder,Equatorial Guinea
+2100,2019/20,West Ham United,Carlos Sánchez,Midfielder,Colombia
+2101,2019/20,West Ham United,Mark Noble,Midfielder,England
+2102,2019/20,West Ham United,Samir Nasri,Midfielder,France
+2103,2019/20,West Ham United,Jack Wilshere,Midfielder,England
+2104,2019/20,West Ham United,Michail Antonio,Forward,Jamaica
+2105,2019/20,West Ham United,Declan Rice,Midfielder,England
+2106,2019/20,West Ham United,Grady Diangana,Midfielder,England
+2107,2019/20,West Ham United,Conor Coventry,Midfielder,Ireland
+2108,2019/20,West Ham United,Marko Arnautovic,Forward,Austria
+2109,2019/20,West Ham United,Andy Carroll,Forward,England
+2110,2019/20,West Ham United,Chicharito,Forward,Mexico
+2111,2019/20,West Ham United,Andriy Yarmolenko,Forward,Ukraine
+2112,2019/20,West Ham United,Lucas Pérez,Forward,Spain
+2113,2019/20,West Ham United,Xande Silva,Forward,Portugal
+2114,2019/20,West Ham United,Reece Oxford,Defender,England
+2115,2019/20,West Ham United,Joe Powell,Midfielder,England
+2116,2019/20,West Ham United,Sead Haksabanovic,Midfielder,Montenegro
+2117,2019/20,West Ham United,Edimilson Fernandes,Midfielder,Switzerland
+2118,2019/20,West Ham United,Toni Martínez,Forward,Spain
+2119,2019/20,West Ham United,Sam Byram,Defender,England
+2120,2019/20,West Ham United,Pablo Fornals,Midfielder,Spain
+2121,2019/20,West Ham United,Josh Cullen,Midfielder,Ireland
+2122,2019/20,West Ham United,Jordan Hugill,Forward,England
+2123,2019/20,West Ham United,Roberto Jiménez,Goalkeeper,Spain
+2124,2019/20,West Ham United,David Martin,Goalkeeper,England
+2125,2019/20,West Ham United,Sébastien Haller,Forward,Cote D’Ivoire
+2126,2019/20,West Ham United,Gonçalo Cardoso,Defender,Portugal
+2127,2019/20,West Ham United,Albian Ajeti,Forward,Switzerland
+2128,2019/20,West Ham United,Ben Johnson,Defender,England
+2129,2019/20,West Ham United,Nathan Holland,Midfielder,England
+2130,2019/20,West Ham United,Joseph Anang,Goalkeeper,England
+2131,2019/20,West Ham United,Jeremy Ngakia,Defender,England
+2132,2019/20,West Ham United,Bernardo Rosa,Midfielder,Brazil
+2133,2019/20,West Ham United,Darren Randolph,Goalkeeper,Ireland
+2134,2019/20,West Ham United,Daniel Kemp,Midfielder,England
+2135,2019/20,West Ham United,Tomas Soucek,Midfielder,Czech Republic
+2136,2019/20,West Ham United,Jarrod Bowen,Forward,England
+2137,2019/20,West Ham United,Alfie Lewis,Midfielder,England
+2138,2019/20,West Ham United,Nathan Trott,Goalkeeper,England
+2139,2019/20,Wolverhampton Wanderers,Rui Patrício,Goalkeeper,Portugal
+2140,2019/20,Wolverhampton Wanderers,John Ruddy,Goalkeeper,England
+2141,2019/20,Wolverhampton Wanderers,Will Norris,Goalkeeper,England
+2142,2019/20,Wolverhampton Wanderers,Matt Doherty,Defender,Ireland
+2143,2019/20,Wolverhampton Wanderers,Ryan Bennett,Defender,England
+2144,2019/20,Wolverhampton Wanderers,Willy Boly,Defender,Cote D’Ivoire
+2145,2019/20,Wolverhampton Wanderers,Conor Coady,Defender,England
+2146,2019/20,Wolverhampton Wanderers,Jonny,Defender,Spain
+2147,2019/20,Wolverhampton Wanderers,Rúben Vinagre,Defender,Portugal
+2148,2019/20,Wolverhampton Wanderers,Maximilian Kilman,Defender,England
+2149,2019/20,Wolverhampton Wanderers,Rúben Neves,Midfielder,Portugal
+2150,2019/20,Wolverhampton Wanderers,Morgan Gibbs-White,Midfielder,England
+2151,2019/20,Wolverhampton Wanderers,Diogo Jota,Forward,Portugal
+2152,2019/20,Wolverhampton Wanderers,Ryan Giles,Midfielder,England
+2153,2019/20,Wolverhampton Wanderers,Elliot Watt,Midfielder,Scotland
+2154,2019/20,Wolverhampton Wanderers,Pote,Midfielder,Portugal
+2155,2019/20,Wolverhampton Wanderers,Romain Saïss,Midfielder,Morocco
+2156,2019/20,Wolverhampton Wanderers,João Moutinho,Midfielder,Portugal
+2157,2019/20,Wolverhampton Wanderers,Leander Dendoncker,Midfielder,Belgium
+2158,2019/20,Wolverhampton Wanderers,Ivan Cavaleiro,Forward,Portugal
+2159,2019/20,Wolverhampton Wanderers,Raúl Jiménez,Forward,Mexico
+2160,2019/20,Wolverhampton Wanderers,Hélder Costa,Forward,Angola
+2161,2019/20,Wolverhampton Wanderers,Adama Traoré,Forward,Spain
+2162,2019/20,Wolverhampton Wanderers,Niall Ennis,Forward,England
+2163,2019/20,Wolverhampton Wanderers,Joe Mason,Forward,England
+2164,2019/20,Wolverhampton Wanderers,Léo Bonatini,Forward,Brazil
+2165,2019/20,Wolverhampton Wanderers,Jonny,Defender,Spain
+2166,2019/20,Wolverhampton Wanderers,Danny Batth,Defender,England
+2167,2019/20,Wolverhampton Wanderers,Benny Ashley-Seal,Forward,England
+2168,2019/20,Wolverhampton Wanderers,Paul Gladon,Forward,Netherlands
+2169,2019/20,Wolverhampton Wanderers,Bright Enobakhare,Forward,Nigeria
+2170,2019/20,Wolverhampton Wanderers,Kortney Hause,Defender,England
+2171,2019/20,Wolverhampton Wanderers,Benik Afobe,Forward,DR Congo
+2172,2019/20,Wolverhampton Wanderers,Roderick Miranda,Defender,Portugal
+2173,2019/20,Wolverhampton Wanderers,Leander Dendoncker,Midfielder,Belgium
+2174,2019/20,Wolverhampton Wanderers,Rafa Mir,Forward,Spain
+2175,2019/20,Wolverhampton Wanderers,Raúl Jiménez,Forward,Mexico
+2176,2019/20,Wolverhampton Wanderers,Dion Sanderson,Defender,England
+2177,2019/20,Wolverhampton Wanderers,Christian Marques,Defender,Portugal
+2178,2019/20,Wolverhampton Wanderers,Ed Francis,Defender,England
+2179,2019/20,Wolverhampton Wanderers,Terry Taylor,Midfielder,Wales
+2180,2019/20,Wolverhampton Wanderers,Luke Cundle,Midfielder,England
+2181,2019/20,Wolverhampton Wanderers,Taylor Perry,Midfielder,England
+2182,2019/20,Wolverhampton Wanderers,Nathaniel Shio Hong Wan,Midfielder,England
+2183,2019/20,Wolverhampton Wanderers,Theo Corbeanu,Forward,Canada
+2184,2019/20,Wolverhampton Wanderers,Austin Samuels,Forward,England
+2185,2019/20,Wolverhampton Wanderers,Jesús Vallejo,Defender,Spain
+2186,2019/20,Wolverhampton Wanderers,Patrick Cutrone,Forward,Italy
+2187,2019/20,Wolverhampton Wanderers,Bruno Jordão,Midfielder,Portugal
+2188,2019/20,Wolverhampton Wanderers,Pedro Neto,Forward,Portugal
+2189,2019/20,Wolverhampton Wanderers,Renat Dadashov,Forward,Azerbaijan
+2190,2019/20,Wolverhampton Wanderers,Andreas Söndergaard,Goalkeeper,Denmark
+2191,2019/20,Wolverhampton Wanderers,Meritan Shabani,Midfielder,Germany
+2192,2019/20,Wolverhampton Wanderers,Oskar Buur,Defender,Denmark
+2193,2019/20,Wolverhampton Wanderers,Flávio Cristóvão,Defender,Portugal
+2194,2019/20,Wolverhampton Wanderers,Lewis Richards,Defender,Ireland
+2195,2019/20,Wolverhampton Wanderers,Chem Campbell,Forward,Wales
+2196,2019/20,Wolverhampton Wanderers,Owen Otasowie,Midfielder,United States
+2197,2019/20,Wolverhampton Wanderers,Leonardo Campana,Forward,Ecuador
+2198,2019/20,Wolverhampton Wanderers,Daniel Podence,Midfielder,Portugal
+2199,2019/20,Wolverhampton Wanderers,Luke Matheson,Defender,England
+2200,2018/19,Arsenal,Petr Cech,Goalkeeper,Czech Republic
+2201,2018/19,Arsenal,David Ospina,Goalkeeper,Colombia
+2202,2018/19,Arsenal,Dejan Iliev,Goalkeeper,North Macedonia
+2203,2018/19,Arsenal,Héctor Bellerín,Defender,Spain
+2204,2018/19,Arsenal,Per Mertesacker,Defender,Germany
+2205,2018/19,Arsenal,Laurent Koscielny,Defender,France
+2206,2018/19,Arsenal,Rob Holding,Defender,England
+2207,2018/19,Arsenal,Nacho Monreal,Defender,Spain
+2208,2018/19,Arsenal,Shkodran Mustafi,Defender,Germany
+2209,2018/19,Arsenal,Calum Chambers,Defender,England
+2210,2018/19,Arsenal,Konstantinos Mavropanos,Defender,Greece
+2211,2018/19,Arsenal,Sead Kolasinac,Defender,Bosnia & Herzegovina
+2212,2018/19,Arsenal,Jordi Osei-Tutu,Defender,England
+2213,2018/19,Arsenal,Mohamed Elneny,Midfielder,Egypt
+2214,2018/19,Arsenal,Henrikh Mkhitaryan,Midfielder,Armenia
+2215,2018/19,Arsenal,Aaron Ramsey,Midfielder,Wales
+2216,2018/19,Arsenal,Mesut Özil,Midfielder,Germany
+2217,2018/19,Arsenal,Alexander Iwobi,Midfielder,Nigeria
+2218,2018/19,Arsenal,Santi Cazorla,Midfielder,Spain
+2219,2018/19,Arsenal,Ainsley Maitland-Niles,Midfielder,England
+2220,2018/19,Arsenal,Granit Xhaka,Midfielder,Switzerland
+2221,2018/19,Arsenal,Vlad Dragomir,Midfielder,Romania
+2222,2018/19,Arsenal,Charlie Gilmour,Midfielder,Scotland
+2223,2018/19,Arsenal,Joseph Willock,Midfielder,England
+2224,2018/19,Arsenal,Alexandre Lacazette,Forward,France
+2225,2018/19,Arsenal,Pierre-Emerick Aubameyang,Forward,Gabon
+2226,2018/19,Arsenal,Danny Welbeck,Forward,England
+2227,2018/19,Arsenal,Josh Dasilva,Forward,England
+2228,2018/19,Arsenal,Eddie Nketiah,Forward,England
+2229,2018/19,Arsenal,Stephan Lichtsteiner,Defender,Switzerland
+2230,2018/19,Arsenal,Bernd Leno,Goalkeeper,Germany
+2231,2018/19,Arsenal,Emiliano Martínez,Goalkeeper,Argentina
+2232,2018/19,Arsenal,Carl Jenkinson,Defender,England
+2233,2018/19,Arsenal,Jeff Reine-Adélaïde,Midfielder,France
+2234,2018/19,Arsenal,Lucas Pérez,Forward,Spain
+2235,2018/19,Arsenal,Chuba Akpom,Forward,England
+2236,2018/19,Arsenal,Sokratis Papastathopoulos,Defender,Greece
+2237,2018/19,Arsenal,Lucas Torreira,Midfielder,Uruguay
+2238,2018/19,Arsenal,Mattéo Guendouzi,Midfielder,France
+2239,2018/19,Arsenal,Emile Smith Rowe,Midfielder,England
+2240,2018/19,Arsenal,Zech Medley,Defender,England
+2241,2018/19,Arsenal,Julio Pleguezuelo,Defender,Spain
+2242,2018/19,Arsenal,Tyreece John-Jules,Forward,England
+2243,2018/19,Arsenal,Bukayo Saka,Forward,England
+2244,2018/19,Arsenal,Denis Suárez,Midfielder,Spain
+2245,2018/19,Arsenal,Matt Macey,Goalkeeper,England
+2246,2018/19,Arsenal,Reiss Nelson,Forward,England
+2247,2018/19,AFC Bournemouth,Artur Boruc,Goalkeeper,Poland
+2248,2018/19,AFC Bournemouth,Asmir Begovic,Goalkeeper,Bosnia & Herzegovina
+2249,2018/19,AFC Bournemouth,Adam Federici,Goalkeeper,Australia
+2250,2018/19,AFC Bournemouth,Simon Francis,Defender,England
+2251,2018/19,AFC Bournemouth,Steve Cook,Defender,England
+2252,2018/19,AFC Bournemouth,Nathan Aké,Defender,Netherlands
+2253,2018/19,AFC Bournemouth,Charlie Daniels,Defender,England
+2254,2018/19,AFC Bournemouth,Brad Smith,Defender,Australia
+2255,2018/19,AFC Bournemouth,Adam Smith,Defender,England
+2256,2018/19,AFC Bournemouth,Tyrone Mings,Defender,England
+2257,2018/19,AFC Bournemouth,Jack Simpson,Defender,England
+2258,2018/19,AFC Bournemouth,Dan Gosling,Midfielder,England
+2259,2018/19,AFC Bournemouth,Andrew Surman,Midfielder,England
+2260,2018/19,AFC Bournemouth,Marc Pugh,Midfielder,England
+2261,2018/19,AFC Bournemouth,Harry Arter,Midfielder,Ireland
+2262,2018/19,AFC Bournemouth,Lewis Cook,Midfielder,England
+2263,2018/19,AFC Bournemouth,Junior Stanislas,Midfielder,England
+2264,2018/19,AFC Bournemouth,Emerson Hyndman,Midfielder,United States
+2265,2018/19,AFC Bournemouth,Ryan Fraser,Midfielder,Scotland
+2266,2018/19,AFC Bournemouth,Jordon Ibe,Midfielder,England
+2267,2018/19,AFC Bournemouth,Matt Butcher,Midfielder,England
+2268,2018/19,AFC Bournemouth,Kyle Taylor,Midfielder,England
+2269,2018/19,AFC Bournemouth,Callum Wilson,Forward,England
+2270,2018/19,AFC Bournemouth,Joshua King,Forward,Norway
+2271,2018/19,AFC Bournemouth,Jermain Defoe,Forward,England
+2272,2018/19,AFC Bournemouth,Lys Mousset,Forward,France
+2273,2018/19,AFC Bournemouth,Mikael Ndjoli,Forward,England
+2274,2018/19,AFC Bournemouth,Rhoys Wiggins,Defender,Wales
+2275,2018/19,AFC Bournemouth,Aaron Ramsdale,Goalkeeper,England
+2276,2018/19,AFC Bournemouth,Baily Cargill,Defender,England
+2277,2018/19,AFC Bournemouth,Shaun Hobson,Defender,England
+2278,2018/19,AFC Bournemouth,Connor Mahoney,Midfielder,England
+2279,2018/19,AFC Bournemouth,Lewis Grabban,Forward,England
+2280,2018/19,AFC Bournemouth,David Brooks,Midfielder,Wales
+2281,2018/19,AFC Bournemouth,Ben Whitfield,Midfielder,England
+2282,2018/19,AFC Bournemouth,Diego Rico,Defender,Spain
+2283,2018/19,AFC Bournemouth,Jefferson Lerma,Midfielder,Colombia
+2284,2018/19,AFC Bournemouth,Mark Travers,Goalkeeper,Ireland
+2285,2018/19,AFC Bournemouth,Mihai-Alexandru Dobre,Midfielder,Romania
+2286,2018/19,AFC Bournemouth,Nnamdi Ofoborh,Midfielder,Nigeria
+2287,2018/19,AFC Bournemouth,Dominic Solanke,Forward,England
+2288,2018/19,AFC Bournemouth,Nathaniel Clyne,Defender,England
+2289,2018/19,AFC Bournemouth,Chris Mepham,Defender,Wales
+2290,2018/19,AFC Bournemouth,Sam Surridge,Forward,England
+2291,2018/19,AFC Bournemouth,Corey Jordan,Defender,England
+2292,2018/19,Brighton and Hove Albion,Mat Ryan,Goalkeeper,Australia
+2293,2018/19,Brighton and Hove Albion,Niki Mäenpää,Goalkeeper,Finland
+2294,2018/19,Brighton and Hove Albion,Tim Krul,Goalkeeper,Netherlands
+2295,2018/19,Brighton and Hove Albion,Bruno,Defender,Spain
+2296,2018/19,Brighton and Hove Albion,Gaëtan Bong,Defender,Cameroon
+2297,2018/19,Brighton and Hove Albion,Uwe Hünemeier,Defender,Germany
+2298,2018/19,Brighton and Hove Albion,Lewis Dunk,Defender,England
+2299,2018/19,Brighton and Hove Albion,Connor Goldson,Defender,England
+2300,2018/19,Brighton and Hove Albion,Ezequiel Schelotto,Defender,Argentina
+2301,2018/19,Brighton and Hove Albion,Shane Duffy,Defender,Ireland
+2302,2018/19,Brighton and Hove Albion,Liam Rosenior,Defender,England
+2303,2018/19,Brighton and Hove Albion,Markus Suttner,Defender,Austria
+2304,2018/19,Brighton and Hove Albion,Dale Stephens,Midfielder,England
+2305,2018/19,Brighton and Hove Albion,Beram Kayal,Midfielder,Israel
+2306,2018/19,Brighton and Hove Albion,Jiri Skalak,Midfielder,Czech Republic
+2307,2018/19,Brighton and Hove Albion,Anthony Knockaert,Midfielder,France
+2308,2018/19,Brighton and Hove Albion,Pascal Groß,Midfielder,Germany
+2309,2018/19,Brighton and Hove Albion,Steve Sidwell,Midfielder,England
+2310,2018/19,Brighton and Hove Albion,Solly March,Midfielder,England
+2311,2018/19,Brighton and Hove Albion,Davy Pröpper,Midfielder,Netherlands
+2312,2018/19,Brighton and Hove Albion,Des Hutchinson,Midfielder,Ireland
+2313,2018/19,Brighton and Hove Albion,Jayson Molumby,Midfielder,Ireland
+2314,2018/19,Brighton and Hove Albion,Max Sanders,Midfielder,England
+2315,2018/19,Brighton and Hove Albion,Sam Baldock,Forward,England
+2316,2018/19,Brighton and Hove Albion,Tomer Hemed,Forward,Israel
+2317,2018/19,Brighton and Hove Albion,Leonardo Ulloa,Forward,Argentina
+2318,2018/19,Brighton and Hove Albion,Glenn Murray,Forward,England
+2319,2018/19,Brighton and Hove Albion,José Izquierdo,Forward,Colombia
+2320,2018/19,Brighton and Hove Albion,Jürgen Locadia,Forward,Netherlands
+2321,2018/19,Brighton and Hove Albion,Aaron Connolly,Forward,Ireland
+2322,2018/19,Brighton and Hove Albion,Florin Andone,Forward,Romania
+2323,2018/19,Brighton and Hove Albion,Leon Balogun,Defender,Nigeria
+2324,2018/19,Brighton and Hove Albion,Jason Steele,Goalkeeper,England
+2325,2018/19,Brighton and Hove Albion,Mathias Normann,Midfielder,Norway
+2326,2018/19,Brighton and Hove Albion,Oliver Norwood,Midfielder,Northern Ireland
+2327,2018/19,Brighton and Hove Albion,Rohan Ince,Midfielder,England
+2328,2018/19,Brighton and Hove Albion,Soufyan Ahannach,Midfielder,Netherlands
+2329,2018/19,Brighton and Hove Albion,Bernardo,Defender,Brazil
+2330,2018/19,Brighton and Hove Albion,Richard Towell,Forward,Ireland
+2331,2018/19,Brighton and Hove Albion,David Button,Goalkeeper,England
+2332,2018/19,Brighton and Hove Albion,Yves Bissouma,Midfielder,Mali
+2333,2018/19,Brighton and Hove Albion,Percy Tau,Forward,South Africa
+2334,2018/19,Brighton and Hove Albion,Alireza Jahanbakhsh,Forward,Iran
+2335,2018/19,Brighton and Hove Albion,Viktor Gyökeres,Forward,Sweden
+2336,2018/19,Brighton and Hove Albion,Benjamin White,Defender,England
+2337,2018/19,Brighton and Hove Albion,Martín Montoya,Defender,Spain
+2338,2018/19,Brighton and Hove Albion,Dan Burn,Defender,England
+2339,2018/19,Brighton and Hove Albion,Billy Arce,Midfielder,Ecuador
+2340,2018/19,Brighton and Hove Albion,Ben Barclay,Defender,England
+2341,2018/19,Brighton and Hove Albion,Will Collar,Midfielder,England
+2342,2018/19,Brighton and Hove Albion,Alexis Mac Allister,Midfielder,Argentina
+2343,2018/19,Brighton and Hove Albion,Robert Sánchez,Goalkeeper,Spain
+2344,2018/19,Brighton and Hove Albion,Tudor Baluta,Defender,Romania
+2345,2018/19,Brighton and Hove Albion,Jan Mlakar,Forward,Slovenia
+2346,2018/19,Brighton and Hove Albion,Leo Østigard,Defender,Norway
+2347,2018/19,Brighton and Hove Albion,Anthony Knockaert,Midfielder,France
+2348,2018/19,Brighton and Hove Albion,Jürgen Locadia,Forward,Netherlands
+2349,2018/19,Burnley,Tom Heaton,Goalkeeper,England
+2350,2018/19,Burnley,Anders Lindegaard,Goalkeeper,Denmark
+2351,2018/19,Burnley,Nick Pope,Goalkeeper,England
+2352,2018/19,Burnley,Adam Legzdins,Goalkeeper,England
+2353,2018/19,Burnley,Matthew Lowton,Defender,England
+2354,2018/19,Burnley,Charlie Taylor,Defender,England
+2355,2018/19,Burnley,James Tarkowski,Defender,England
+2356,2018/19,Burnley,Ben Mee,Defender,England
+2357,2018/19,Burnley,Stephen Ward,Defender,Ireland
+2358,2018/19,Burnley,Phil Bardsley,Defender,Scotland
+2359,2018/19,Burnley,Kevin Long,Defender,Ireland
+2360,2018/19,Burnley,Jack Cork,Midfielder,England
+2361,2018/19,Burnley,Georges-Kévin Nkoudou,Midfielder,France
+2362,2018/19,Burnley,Dean Marney,Midfielder,England
+2363,2018/19,Burnley,Robbie Brady,Midfielder,Ireland
+2364,2018/19,Burnley,Jeff Hendrick,Midfielder,Ireland
+2365,2018/19,Burnley,Steven Defour,Midfielder,Belgium
+2366,2018/19,Burnley,Jóhann Gudmundsson,Midfielder,Iceland
+2367,2018/19,Burnley,Ashley Westwood,Midfielder,England
+2368,2018/19,Burnley,Aaron Lennon,Midfielder,England
+2369,2018/19,Burnley,Sam Vokes,Forward,Wales
+2370,2018/19,Burnley,Ashley Barnes,Forward,England
+2371,2018/19,Burnley,Chris Wood,Forward,New Zealand
+2372,2018/19,Burnley,Jonathan Walters,Forward,Ireland
+2373,2018/19,Burnley,Nahki Wells,Forward,Bermuda
+2374,2018/19,Burnley,Dwight McNeil,Forward,England
+2375,2018/19,Burnley,Daniel Agyei,Forward,England
+2376,2018/19,Burnley,Ben Gibson,Defender,England
+2377,2018/19,Burnley,Joe Hart,Goalkeeper,England
+2378,2018/19,Burnley,Matej Vydra,Forward,Czech Republic
+2379,2018/19,Burnley,Ntumba Massanka,Midfielder,England
+2380,2018/19,Burnley,Ali Koiki,Defender,England
+2381,2018/19,Burnley,Josh Benson,Midfielder,England
+2382,2018/19,Burnley,Peter Crouch,Forward,England
+2383,2018/19,Burnley,Anthony Driscoll-Glennon,Defender,England
+2384,2018/19,Cardiff City,Neil Etheridge,Goalkeeper,Philippines
+2385,2018/19,Cardiff City,Brian Murphy,Goalkeeper,Ireland
+2386,2018/19,Cardiff City,Lee Peltier,Defender,England
+2387,2018/19,Cardiff City,Joe Bennett,Defender,England
+2388,2018/19,Cardiff City,Sean Morrison,Defender,England
+2389,2018/19,Cardiff City,Bruno Ecuele Manga,Defender,Gabon
+2390,2018/19,Cardiff City,Jazz Richards,Defender,Wales
+2391,2018/19,Cardiff City,Sol Bamba,Defender,Cote D’Ivoire
+2392,2018/19,Cardiff City,Greg Halford,Defender,England
+2393,2018/19,Cardiff City,Matthew Connolly,Defender,England
+2394,2018/19,Cardiff City,Callum Paterson,Forward,Scotland
+2395,2018/19,Cardiff City,Armand Traore,Defender,Senegal
+2396,2018/19,Cardiff City,Cameron Coxe,Defender,Wales
+2397,2018/19,Cardiff City,Joe Ralls,Midfielder,England
+2398,2018/19,Cardiff City,Kadeem Harris,Midfielder,England
+2399,2018/19,Cardiff City,Liam Feeney,Midfielder,England
+2400,2018/19,Cardiff City,Anthony Pilkington,Midfielder,Ireland
+2401,2018/19,Cardiff City,Aron Gunnarsson,Midfielder,Iceland
+2402,2018/19,Cardiff City,Loïc Damour,Midfielder,France
+2403,2018/19,Cardiff City,Craig Bryson,Midfielder,Scotland
+2404,2018/19,Cardiff City,Jamie Ward,Midfielder,Northern Ireland
+2405,2018/19,Cardiff City,Mark Harris,Midfielder,Wales
+2406,2018/19,Cardiff City,Danny Ward,Forward,England
+2407,2018/19,Cardiff City,Kenneth Zohore,Forward,Denmark
+2408,2018/19,Cardiff City,Nathaniel Mendez-Laing,Midfielder,England
+2409,2018/19,Cardiff City,Frédéric Gounongbe,Forward,Benin
+2410,2018/19,Cardiff City,Ibrahim Meite,Forward,England
+2411,2018/19,Cardiff City,David Junior Hoilett,Midfielder,Canada
+2412,2018/19,Cardiff City,Yanic Wildschut,Forward,Netherlands
+2413,2018/19,Cardiff City,Gary Madine,Forward,England
+2414,2018/19,Cardiff City,Allan McGregor,Goalkeeper,Scotland
+2415,2018/19,Cardiff City,Greg Cunningham,Defender,Ireland
+2416,2018/19,Cardiff City,Josh Murphy,Midfielder,England
+2417,2018/19,Cardiff City,Alex Smithies,Goalkeeper,England
+2418,2018/19,Cardiff City,Bobby De Cordova-Reid,Forward,Jamaica
+2419,2018/19,Cardiff City,Lee Camp,Goalkeeper,Northern Ireland
+2420,2018/19,Cardiff City,Declan John,Defender,Wales
+2421,2018/19,Cardiff City,Stuart O'Keefe,Midfielder,England
+2422,2018/19,Cardiff City,Matthew Kennedy,Midfielder,Northern Ireland
+2423,2018/19,Cardiff City,Rhys Healey,Forward,England
+2424,2018/19,Cardiff City,Víctor Camarasa,Midfielder,Spain
+2425,2018/19,Cardiff City,Harry Arter,Midfielder,Ireland
+2426,2018/19,Cardiff City,Ciaron Brown,Defender,Northern Ireland
+2427,2018/19,Cardiff City,Lloyd Humphries,Midfielder,Wales
+2428,2018/19,Cardiff City,Oumar Niasse,Forward,Senegal
+2429,2018/19,Cardiff City,Leandro Bacuna,Midfielder,Curacao
+2430,2018/19,Cardiff City,Emiliano Sala,Forward,Argentina
+2431,2018/19,Cardiff City,Jack Bodenham,Defender,Wales
+2432,2018/19,Cardiff City,Lee Tomlin,Forward,England
+2433,2018/19,Cardiff City,Omar Bogle,Forward,England
+2434,2018/19,Chelsea,Willy Caballero,Goalkeeper,Argentina
+2435,2018/19,Chelsea,Thibaut Courtois,Goalkeeper,Belgium
+2436,2018/19,Chelsea,Eduardo,Goalkeeper,Portugal
+2437,2018/19,Chelsea,Antonio Rüdiger,Defender,Germany
+2438,2018/19,Chelsea,Marcos Alonso,Defender,Spain
+2439,2018/19,Chelsea,Victor Moses,Defender,Nigeria
+2440,2018/19,Chelsea,Davide Zappacosta,Defender,Italy
+2441,2018/19,Chelsea,Gary Cahill,Defender,England
+2442,2018/19,Chelsea,Andreas Christensen,Defender,Denmark
+2443,2018/19,Chelsea,César Azpilicueta,Defender,Spain
+2444,2018/19,Chelsea,David Luiz,Defender,Brazil
+2445,2018/19,Chelsea,Emerson,Defender,Italy
+2446,2018/19,Chelsea,Ethan Ampadu,Defender,Wales
+2447,2018/19,Chelsea,Trevoh Chalobah,Defender,England
+2448,2018/19,Chelsea,Cesc Fàbregas,Midfielder,Spain
+2449,2018/19,Chelsea,Danny Drinkwater,Midfielder,England
+2450,2018/19,Chelsea,N'Golo Kanté,Midfielder,France
+2451,2018/19,Chelsea,Ross Barkley,Midfielder,England
+2452,2018/19,Chelsea,Tiemoué Bakayoko,Midfielder,France
+2453,2018/19,Chelsea,Kyle Scott,Midfielder,United States
+2454,2018/19,Chelsea,Dujon Sterling,Midfielder,England
+2455,2018/19,Chelsea,Álvaro Morata,Forward,Spain
+2456,2018/19,Chelsea,Eden Hazard,Forward,Belgium
+2457,2018/19,Chelsea,Pedro,Forward,Spain
+2458,2018/19,Chelsea,Olivier Giroud,Forward,France
+2459,2018/19,Chelsea,Willian,Forward,Brazil
+2460,2018/19,Chelsea,Callum Hudson-Odoi,Forward,England
+2461,2018/19,Chelsea,Fikayo Tomori,Defender,England
+2462,2018/19,Chelsea,Tomas Kalas,Defender,Czech Republic
+2463,2018/19,Chelsea,Ola Aina,Defender,Nigeria
+2464,2018/19,Chelsea,Cristián Cuevas,Defender,Chile
+2465,2018/19,Chelsea,Ruben Loftus-Cheek,Midfielder,England
+2466,2018/19,Chelsea,Kenedy,Midfielder,Brazil
+2467,2018/19,Chelsea,Jeremie Boga,Midfielder,Cote D’Ivoire
+2468,2018/19,Chelsea,Charly Musonda,Midfielder,Belgium
+2469,2018/19,Chelsea,Jorginho,Midfielder,Italy
+2470,2018/19,Chelsea,Jared Thompson,Goalkeeper,Northern Ireland
+2471,2018/19,Chelsea,Bradley Collins,Goalkeeper,England
+2472,2018/19,Chelsea,Marcin Bulka,Goalkeeper,Poland
+2473,2018/19,Chelsea,Michael Hector,Defender,Jamaica
+2474,2018/19,Chelsea,Lucas Piazon,Midfielder,Brazil
+2475,2018/19,Chelsea,Kasey Palmer,Midfielder,Jamaica
+2476,2018/19,Chelsea,Mario Pasalic,Midfielder,Croatia
+2477,2018/19,Chelsea,Tammy Abraham,Forward,England
+2478,2018/19,Chelsea,Robert Green,Goalkeeper,England
+2479,2018/19,Chelsea,Kepa Arrizabalaga,Goalkeeper,Spain
+2480,2018/19,Chelsea,Mateo Kovacic,Midfielder,Croatia
+2481,2018/19,Chelsea,Isaiah Brown,Forward,England
+2482,2018/19,Chelsea,Jamie Cumming,Goalkeeper,England
+2483,2018/19,Chelsea,George McEachran,Midfielder,England
+2484,2018/19,Chelsea,Lewis Baker,Midfielder,England
+2485,2018/19,Chelsea,Gonzalo Higuaín,Forward,Argentina
+2486,2018/19,Chelsea,Matt Miazga,Defender,United States
+2487,2018/19,Chelsea,Marc Guéhi,Defender,England
+2488,2018/19,Chelsea,Kurt Zouma,Defender,France
+2489,2018/19,Chelsea,Marco van Ginkel,Midfielder,Netherlands
+2490,2018/19,Chelsea,Christian Pulisic,Midfielder,United States
+2491,2018/19,Chelsea,Michy Batshuayi,Forward,Belgium
+2492,2018/19,Crystal Palace,Julian Speroni,Goalkeeper,Argentina
+2493,2018/19,Crystal Palace,Wayne Hennessey,Goalkeeper,Wales
+2494,2018/19,Crystal Palace,Diego Cavalieri,Goalkeeper,Brazil
+2495,2018/19,Crystal Palace,Dion Henry,Goalkeeper,England
+2496,2018/19,Crystal Palace,Joel Ward,Defender,England
+2497,2018/19,Crystal Palace,Patrick van Aanholt,Defender,Netherlands
+2498,2018/19,Crystal Palace,James Tomkins,Defender,England
+2499,2018/19,Crystal Palace,Scott Dann,Defender,England
+2500,2018/19,Crystal Palace,Mamadou Sakho,Defender,France
+2501,2018/19,Crystal Palace,Jeffrey Schlupp,Midfielder,Ghana
+2502,2018/19,Crystal Palace,Pape Souaré,Defender,Senegal
+2503,2018/19,Crystal Palace,Damien Delaney,Defender,Ireland
+2504,2018/19,Crystal Palace,Aaron Wan-Bissaka,Defender,England
+2505,2018/19,Crystal Palace,Jaroslaw Jach,Defender,Poland
+2506,2018/19,Crystal Palace,Martin Kelly,Defender,England
+2507,2018/19,Crystal Palace,Luka Milivojevic,Midfielder,Serbia
+2508,2018/19,Crystal Palace,Yohan Cabaye,Midfielder,France
+2509,2018/19,Crystal Palace,Andros Townsend,Midfielder,England
+2510,2018/19,Crystal Palace,Lee Chung-Yong,Midfielder,South Korea
+2511,2018/19,Crystal Palace,James McArthur,Midfielder,Scotland
+2512,2018/19,Crystal Palace,Jason Lokilo,Midfielder,DR Congo
+2513,2018/19,Crystal Palace,Erdal Rakip,Midfielder,North Macedonia
+2514,2018/19,Crystal Palace,Jason David Ian Puncheon,Midfielder,England
+2515,2018/19,Crystal Palace,Jairo Riedewald,Midfielder,Netherlands
+2516,2018/19,Crystal Palace,Alexander Sørloth,Forward,Norway
+2517,2018/19,Crystal Palace,Wilfried Zaha,Forward,Cote D’Ivoire
+2518,2018/19,Crystal Palace,Christian Benteke,Forward,Belgium
+2519,2018/19,Crystal Palace,Connor Wickham,Forward,England
+2520,2018/19,Crystal Palace,Levi Lumeka,Forward,England
+2521,2018/19,Crystal Palace,Vicente Guaita,Goalkeeper,Spain
+2522,2018/19,Crystal Palace,Sulaiman Kaikai,Midfielder,Sierra Leone
+2523,2018/19,Crystal Palace,Jonathan Williams,Midfielder,Wales
+2524,2018/19,Crystal Palace,Cheikhou Kouyaté,Midfielder,Senegal
+2525,2018/19,Crystal Palace,Max Meyer,Midfielder,Germany
+2526,2018/19,Crystal Palace,Jordan Ayew,Forward,Ghana
+2527,2018/19,Crystal Palace,Sam Woods,Defender,England
+2528,2018/19,Crystal Palace,Ryan Inniss,Defender,England
+2529,2018/19,Crystal Palace,Giovanni McGregor,Midfielder,England
+2530,2018/19,Crystal Palace,Nya Kirby,Midfielder,England
+2531,2018/19,Crystal Palace,Joe Tupper,Goalkeeper,England
+2532,2018/19,Crystal Palace,Lucas Perri,Goalkeeper,Brazil
+2533,2018/19,Crystal Palace,Bakary Sako,Midfielder,Mali
+2534,2018/19,Crystal Palace,Michy Batshuayi,Forward,Belgium
+2535,2018/19,Crystal Palace,Luke Dreher,Midfielder,England
+2536,2018/19,Crystal Palace,Nikola Tavares,Defender,Croatia
+2537,2018/19,Crystal Palace,James Daly,Forward,England
+2538,2018/19,Everton,Jordan Pickford,Goalkeeper,England
+2539,2018/19,Everton,Maarten Stekelenburg,Goalkeeper,Netherlands
+2540,2018/19,Everton,Joel Robles,Goalkeeper,Spain
+2541,2018/19,Everton,Mateusz Hewelt,Goalkeeper,Poland
+2542,2018/19,Everton,Leighton Baines,Defender,England
+2543,2018/19,Everton,Michael Keane,Defender,England
+2544,2018/19,Everton,Ashley Williams,Defender,Wales
+2545,2018/19,Everton,Phil Jagielka,Defender,England
+2546,2018/19,Everton,Eliaquim Mangala,Defender,France
+2547,2018/19,Everton,Cuco Martina,Defender,Curacao
+2548,2018/19,Everton,Séamus Coleman,Defender,Ireland
+2549,2018/19,Everton,Ramiro Funes Mori,Defender,Argentina
+2550,2018/19,Everton,Mason Holgate,Defender,England
+2551,2018/19,Everton,Luke Garbutt,Defender,England
+2552,2018/19,Everton,Jonjoe Kenny,Defender,England
+2553,2018/19,Everton,Morgan Feeney,Defender,England
+2554,2018/19,Everton,Michael Collins,Defender,England
+2555,2018/19,Everton,Morgan Schneiderlin,Midfielder,France
+2556,2018/19,Everton,James McCarthy,Midfielder,Ireland
+2557,2018/19,Everton,Idrissa Gueye,Midfielder,Senegal
+2558,2018/19,Everton,Gylfi Sigurdsson,Midfielder,Iceland
+2559,2018/19,Everton,Davy Klaassen,Midfielder,Netherlands
+2560,2018/19,Everton,Tom Davies,Midfielder,England
+2561,2018/19,Everton,Beni Baningime,Midfielder,DR Congo
+2562,2018/19,Everton,Nathan Broadhead,Midfielder,Wales
+2563,2018/19,Everton,Alex Denny,Midfielder,England
+2564,2018/19,Everton,Fraser Hornby,Midfielder,Scotland
+2565,2018/19,Everton,Anthony Gordon,Midfielder,England
+2566,2018/19,Everton,Yannick Bolasie,Forward,DR Congo
+2567,2018/19,Everton,Theo Walcott,Forward,England
+2568,2018/19,Everton,Cenk Tosun,Forward,Turkey
+2569,2018/19,Everton,Oumar Niasse,Forward,Senegal
+2570,2018/19,Everton,Nikola Vlasic,Forward,Croatia
+2571,2018/19,Everton,Dominic Calvert-Lewin,Forward,England
+2572,2018/19,Everton,Shayne Lavery,Forward,Northern Ireland
+2573,2018/19,Everton,Stephen Duke-McKenna,Midfielder,Guyana
+2574,2018/19,Everton,Muhamed Besic,Midfielder,Bosnia & Herzegovina
+2575,2018/19,Everton,Henry Onyekuru,Forward,Nigeria
+2576,2018/19,Everton,Sandro Ramírez,Forward,Spain
+2577,2018/19,Everton,Jiang Guangtai,Defender,China
+2578,2018/19,Everton,Matthew Pennington,Defender,England
+2579,2018/19,Everton,Kieran Dowell,Midfielder,England
+2580,2018/19,Everton,Ademola Lookman,Forward,England
+2581,2018/19,Everton,Richarlison,Forward,Brazil
+2582,2018/19,Everton,Lucas Digne,Defender,France
+2583,2018/19,Everton,Callum Connolly,Defender,England
+2584,2018/19,Everton,Joe Williams,Midfielder,England
+2585,2018/19,Everton,João Virgínia,Goalkeeper,Portugal
+2586,2018/19,Everton,Yerry Mina,Defender,Colombia
+2587,2018/19,Everton,Bernard,Forward,Brazil
+2588,2018/19,Everton,André Gomes,Midfielder,Portugal
+2589,2018/19,Everton,Kurt Zouma,Defender,France
+2590,2018/19,Everton,João Virgínia,Goalkeeper,Portugal
+2591,2018/19,Fulham,Marcus Bettinelli,Goalkeeper,England
+2592,2018/19,Fulham,David Button,Goalkeeper,England
+2593,2018/19,Fulham,Magnus Norman,Goalkeeper,England
+2594,2018/19,Fulham,Ryan Fredericks,Defender,England
+2595,2018/19,Fulham,Denis Odoi,Defender,Belgium
+2596,2018/19,Fulham,Tim Ream,Defender,United States
+2597,2018/19,Fulham,Matt Targett,Defender,England
+2598,2018/19,Fulham,Cyrus Christie,Defender,Ireland
+2599,2018/19,Fulham,Marcelo Djaló,Defender,Guinea-Bissau
+2600,2018/19,Fulham,Tomas Kalas,Defender,Czech Republic
+2601,2018/19,Fulham,Ryan Sessegnon,Midfielder,England
+2602,2018/19,Fulham,Kevin McDonald,Midfielder,Scotland
+2603,2018/19,Fulham,Neeskens Kebano,Midfielder,DR Congo
+2604,2018/19,Fulham,Stefan Johansen,Midfielder,Norway
+2605,2018/19,Fulham,Tom Cairney,Midfielder,Scotland
+2606,2018/19,Fulham,Oliver Norwood,Midfielder,Northern Ireland
+2607,2018/19,Fulham,Lucas Piazon,Midfielder,Brazil
+2608,2018/19,Fulham,Matt O'Riley,Midfielder,England
+2609,2018/19,Fulham,Luca de la Torre,Midfielder,United States
+2610,2018/19,Fulham,Tayo Edun,Midfielder,England
+2611,2018/19,Fulham,Steven Sessegnon,Midfielder,England
+2612,2018/19,Fulham,Ibrahima Cissé,Midfielder,Guinea
+2613,2018/19,Fulham,Rui Fonte,Forward,Portugal
+2614,2018/19,Fulham,Floyd Ayité,Forward,Togo
+2615,2018/19,Fulham,Sheyi Ojo,Forward,England
+2616,2018/19,Fulham,Aleksandar Mitrovic,Forward,Serbia
+2617,2018/19,Fulham,Aboubakar Kamara,Forward,Mauritania
+2618,2018/19,Fulham,Marek Rodák,Goalkeeper,Slovakia
+2619,2018/19,Fulham,Mattias Kait,Midfielder,Estonia
+2620,2018/19,Fulham,Cauley Woodrow,Forward,England
+2621,2018/19,Fulham,Jean Michaël Seri,Midfielder,Cote D’Ivoire
+2622,2018/19,Fulham,Maxime Le Marchand,Defender,France
+2623,2018/19,Fulham,Marlon Fossey,Defender,United States
+2624,2018/19,Fulham,Moritz Jenz,Defender,Germany
+2625,2018/19,Fulham,Tyrese Francois,Midfielder,Australia
+2626,2018/19,Fulham,Jon Dagur Thorsteinsson,Midfielder,Iceland
+2627,2018/19,Fulham,Taye Ashby-Hammond,Goalkeeper,England
+2628,2018/19,Fulham,Fabri,Goalkeeper,Spain
+2629,2018/19,Fulham,André Schürrle,Midfielder,Germany
+2630,2018/19,Fulham,Aleksandar Mitrovic,Forward,Serbia
+2631,2018/19,Fulham,Alfie Mawson,Defender,England
+2632,2018/19,Fulham,Calum Chambers,Defender,England
+2633,2018/19,Fulham,Sergio Rico,Goalkeeper,Spain
+2634,2018/19,Fulham,Timothy Fosu-Mensah,Defender,Netherlands
+2635,2018/19,Fulham,Joe Bryan,Defender,England
+2636,2018/19,Fulham,Luciano Vietto,Forward,Argentina
+2637,2018/19,Fulham,André-Frank Zambo Anguissa,Midfielder,Cameroon
+2638,2018/19,Fulham,Luca Ashby-Hammond,Goalkeeper,England
+2639,2018/19,Fulham,Harvey Elliott,Midfielder,England
+2640,2018/19,Fulham,Ryan Babel,Midfielder,Netherlands
+2641,2018/19,Fulham,Håvard Nordtveit,Defender,Norway
+2642,2018/19,Fulham,Lazar Markovic,Midfielder,Serbia
+2643,2018/19,Fulham,Luciano Vietto,Forward,Argentina
+2644,2018/19,Huddersfield Town,Jonas Lössl,Goalkeeper,Denmark
+2645,2018/19,Huddersfield Town,Joel Coleman,Goalkeeper,England
+2646,2018/19,Huddersfield Town,Robert Green,Goalkeeper,England
+2647,2018/19,Huddersfield Town,Tommy Smith,Defender,England
+2648,2018/19,Huddersfield Town,Scott Malone,Defender,England
+2649,2018/19,Huddersfield Town,Terence Kongolo,Defender,Netherlands
+2650,2018/19,Huddersfield Town,Chris Löwe,Defender,Germany
+2651,2018/19,Huddersfield Town,Zanka,Defender,Denmark
+2652,2018/19,Huddersfield Town,Christopher Schindler,Defender,Germany
+2653,2018/19,Huddersfield Town,Jon Gorenc Stankovic,Defender,Slovenia
+2654,2018/19,Huddersfield Town,Florent Hadergjonaj,Defender,Kosovo
+2655,2018/19,Huddersfield Town,Jordan Williams,Defender,England
+2656,2018/19,Huddersfield Town,Michael Hefele,Defender,Germany
+2657,2018/19,Huddersfield Town,Dean Whitehead,Midfielder,England
+2658,2018/19,Huddersfield Town,Jonathan Hogg,Midfielder,England
+2659,2018/19,Huddersfield Town,Sean Scannell,Midfielder,Ireland
+2660,2018/19,Huddersfield Town,Aaron Mooy,Midfielder,Australia
+2661,2018/19,Huddersfield Town,Abdelhamid Sabiri,Midfielder,Germany
+2662,2018/19,Huddersfield Town,Rajiv van La Parra,Midfielder,Netherlands
+2663,2018/19,Huddersfield Town,Danny Williams,Midfielder,United States
+2664,2018/19,Huddersfield Town,Alex Pritchard,Midfielder,England
+2665,2018/19,Huddersfield Town,Tom Ince,Midfielder,England
+2666,2018/19,Huddersfield Town,Lewis O'Brien,Midfielder,England
+2667,2018/19,Huddersfield Town,Elias Kachunga,Forward,DR Congo
+2668,2018/19,Huddersfield Town,Laurent Depoitre,Forward,Belgium
+2669,2018/19,Huddersfield Town,Collin Quaner,Forward,Germany
+2670,2018/19,Huddersfield Town,Steve Mounié,Forward,Benin
+2671,2018/19,Huddersfield Town,Ramadan Sobhi,Midfielder,Egypt
+2672,2018/19,Huddersfield Town,Jonas Lössl,Goalkeeper,Denmark
+2673,2018/19,Huddersfield Town,Ben Hamer,Goalkeeper,England
+2674,2018/19,Huddersfield Town,Juninho Bacuna,Midfielder,Curacao
+2675,2018/19,Huddersfield Town,Tareiq Holmes-Dennis,Defender,England
+2676,2018/19,Huddersfield Town,Jack Payne,Midfielder,England
+2677,2018/19,Huddersfield Town,Jordy Hiwula-Mayifuila,Forward,England
+2678,2018/19,Huddersfield Town,Terence Kongolo,Defender,Netherlands
+2679,2018/19,Huddersfield Town,Ryan Schofield,Goalkeeper,England
+2680,2018/19,Huddersfield Town,Florent Hadergjonaj,Defender,Kosovo
+2681,2018/19,Huddersfield Town,Erik Durm,Defender,Germany
+2682,2018/19,Huddersfield Town,Adama Diakhaby,Forward,France
+2683,2018/19,Huddersfield Town,Rarmani Edmonds-Green,Defender,England
+2684,2018/19,Huddersfield Town,Samuel Sharrock-Peplow,Midfielder,England
+2685,2018/19,Huddersfield Town,Isaac Mbenza,Midfielder,Belgium
+2686,2018/19,Huddersfield Town,Jason David Ian Puncheon,Midfielder,England
+2687,2018/19,Huddersfield Town,Karlan Grant,Forward,England
+2688,2018/19,Huddersfield Town,Demeaco Duhaney,Defender,England
+2689,2018/19,Huddersfield Town,Philip Billing,Midfielder,Denmark
+2690,2018/19,Huddersfield Town,Matty Daly,Midfielder,England
+2691,2018/19,Huddersfield Town,Aaron Rowe,Midfielder,England
+2692,2018/19,Huddersfield Town,Ben Jackson,Defender,England
+2693,2018/19,Huddersfield Town,Collin Quaner,Forward,Germany
+2694,2018/19,Leicester City,Kasper Schmeichel,Goalkeeper,Denmark
+2695,2018/19,Leicester City,Ben Hamer,Goalkeeper,England
+2696,2018/19,Leicester City,Eldin Jakupovic,Goalkeeper,Switzerland
+2697,2018/19,Leicester City,Danny Simpson,Defender,England
+2698,2018/19,Leicester City,Ben Chilwell,Defender,England
+2699,2018/19,Leicester City,Wes Morgan,Defender,Jamaica
+2700,2018/19,Leicester City,Robert Huth,Defender,Germany
+2701,2018/19,Leicester City,Harry Maguire,Defender,England
+2702,2018/19,Leicester City,Aleksandar Dragovic,Defender,Austria
+2703,2018/19,Leicester City,Christian Fuchs,Defender,Austria
+2704,2018/19,Leicester City,Yohan Benalouane,Defender,Tunisia
+2705,2018/19,Leicester City,Josh Knight,Defender,England
+2706,2018/19,Leicester City,Sam Hughes,Defender,England
+2707,2018/19,Leicester City,Demarai Gray,Midfielder,England
+2708,2018/19,Leicester City,Marc Albrighton,Midfielder,England
+2709,2018/19,Leicester City,Adrien Silva,Midfielder,Portugal
+2710,2018/19,Leicester City,Daniel Amartey,Defender,Ghana
+2711,2018/19,Leicester City,Vicente Iborra,Midfielder,Spain
+2712,2018/19,Leicester City,Matty James,Midfielder,England
+2713,2018/19,Leicester City,Wilfred Ndidi,Midfielder,Nigeria
+2714,2018/19,Leicester City,Harvey Barnes,Midfielder,England
+2715,2018/19,Leicester City,Hamza Choudhury,Midfielder,England
+2716,2018/19,Leicester City,Kelechi Iheanacho,Forward,Nigeria
+2717,2018/19,Leicester City,Jamie Vardy,Forward,England
+2718,2018/19,Leicester City,Shinji Okazaki,Forward,Japan
+2719,2018/19,Leicester City,George Thomas,Forward,Wales
+2720,2018/19,Leicester City,Fousseni Diabaté,Forward,Mali
+2721,2018/19,Leicester City,Layton Ndukwu,Forward,England
+2722,2018/19,Leicester City,Ricardo Pereira,Defender,Portugal
+2723,2018/19,Leicester City,Jonny Evans,Defender,Northern Ireland
+2724,2018/19,Leicester City,James Maddison,Midfielder,England
+2725,2018/19,Leicester City,Callum Elder,Defender,Australia
+2726,2018/19,Leicester City,Andy King,Midfielder,Wales
+2727,2018/19,Leicester City,Nampalys Mendy,Midfielder,Senegal
+2728,2018/19,Leicester City,Ahmed Musa,Forward,Nigeria
+2729,2018/19,Leicester City,Islam Slimani,Forward,Algeria
+2730,2018/19,Leicester City,Leonardo Ulloa,Forward,Argentina
+2731,2018/19,Leicester City,Danny Ward,Goalkeeper,Wales
+2732,2018/19,Leicester City,Bartosz Kapustka,Midfielder,Poland
+2733,2018/19,Leicester City,Darnell Johnson,Defender,England
+2734,2018/19,Leicester City,Josh Gordon,Forward,England
+2735,2018/19,Leicester City,Rachid Ghezzal,Midfielder,Algeria
+2736,2018/19,Leicester City,Filip Benkovic,Defender,Croatia
+2737,2018/19,Leicester City,Çaglar Söyüncü,Defender,Turkey
+2738,2018/19,Leicester City,Connor Barrett,Midfielder,England
+2739,2018/19,Leicester City,Thakgalo Leshabela,Midfielder,South Africa
+2740,2018/19,Leicester City,Youri Tielemans,Midfielder,Belgium
+2741,2018/19,Leicester City,Elliott Moore,Defender,England
+2742,2018/19,Liverpool,Loris Karius,Goalkeeper,Germany
+2743,2018/19,Liverpool,Simon Mignolet,Goalkeeper,Belgium
+2744,2018/19,Liverpool,Ádám Bogdán,Goalkeeper,Hungary
+2745,2018/19,Liverpool,Danny Ward,Goalkeeper,Wales
+2746,2018/19,Liverpool,Nathaniel Clyne,Defender,England
+2747,2018/19,Liverpool,Virgil van Dijk,Defender,Netherlands
+2748,2018/19,Liverpool,Dejan Lovren,Defender,Croatia
+2749,2018/19,Liverpool,Joseph Gomez,Defender,England
+2750,2018/19,Liverpool,Ragnar Klavan,Defender,Estonia
+2751,2018/19,Liverpool,Alberto Moreno,Defender,Spain
+2752,2018/19,Liverpool,Andrew Robertson,Defender,Scotland
+2753,2018/19,Liverpool,Joel Matip,Defender,Cameroon
+2754,2018/19,Liverpool,Conor Masterson,Defender,Ireland
+2755,2018/19,Liverpool,Trent Alexander-Arnold,Defender,England
+2756,2018/19,Liverpool,Georginio Wijnaldum,Midfielder,Netherlands
+2757,2018/19,Liverpool,James Milner,Midfielder,England
+2758,2018/19,Liverpool,Jordan Henderson,Midfielder,England
+2759,2018/19,Liverpool,Marko Grujic,Midfielder,Serbia
+2760,2018/19,Liverpool,Adam Lallana,Midfielder,England
+2761,2018/19,Liverpool,Alex Oxlade-Chamberlain,Midfielder,England
+2762,2018/19,Liverpool,Emre Can,Midfielder,Germany
+2763,2018/19,Liverpool,Curtis Jones,Midfielder,England
+2764,2018/19,Liverpool,Ben Woodburn,Forward,Wales
+2765,2018/19,Liverpool,Paulo Alves,Midfielder,Portugal
+2766,2018/19,Liverpool,Rafael Camacho,Midfielder,Portugal
+2767,2018/19,Liverpool,Roberto Firmino,Forward,Brazil
+2768,2018/19,Liverpool,Mohamed Salah,Forward,Egypt
+2769,2018/19,Liverpool,Sadio Mané,Forward,Senegal
+2770,2018/19,Liverpool,Danny Ings,Forward,England
+2771,2018/19,Liverpool,Dominic Solanke,Forward,England
+2772,2018/19,Liverpool,Rhian Brewster,Forward,England
+2773,2018/19,Liverpool,Fabinho,Midfielder,Brazil
+2774,2018/19,Liverpool,Naby Keïta,Midfielder,Guinea
+2775,2018/19,Liverpool,Jon Flanagan,Defender,England
+2776,2018/19,Liverpool,Lazar Markovic,Midfielder,Serbia
+2777,2018/19,Liverpool,Ovie Ejaria,Midfielder,England
+2778,2018/19,Liverpool,Sheyi Ojo,Midfielder,England
+2779,2018/19,Liverpool,Harry Wilson,Midfielder,Wales
+2780,2018/19,Liverpool,Daniel Sturridge,Forward,England
+2781,2018/19,Liverpool,Divock Origi,Forward,Belgium
+2782,2018/19,Liverpool,Nathaniel Phillips,Defender,England
+2783,2018/19,Liverpool,Ryan Kent,Midfielder,England
+2784,2018/19,Liverpool,Pedro Chirivella,Midfielder,Spain
+2785,2018/19,Liverpool,Taiwo Awoniyi,Forward,Nigeria
+2786,2018/19,Liverpool,Caoimhin Kelleher,Goalkeeper,Ireland
+2787,2018/19,Liverpool,Xherdan Shaqiri,Midfielder,Switzerland
+2788,2018/19,Liverpool,Kamil Grabara,Goalkeeper,Poland
+2789,2018/19,Liverpool,Alisson,Goalkeeper,Brazil
+2790,2018/19,Liverpool,George Johnston,Defender,Scotland
+2791,2018/19,Liverpool,Curtis Jones,Midfielder,England
+2792,2018/19,Liverpool,Ki-Jana Hoever,Defender,Netherlands
+2793,2018/19,Liverpool,Isaac Christie-Davies,Midfielder,Wales
+2794,2018/19,Liverpool,Herbie Kane,Midfielder,England
+2795,2018/19,Manchester City,Claudio Bravo,Goalkeeper,Chile
+2796,2018/19,Manchester City,Ederson,Goalkeeper,Brazil
+2797,2018/19,Manchester City,Daniel Grimshaw,Goalkeeper,England
+2798,2018/19,Manchester City,Kyle Walker,Defender,England
+2799,2018/19,Manchester City,Danilo,Defender,Brazil
+2800,2018/19,Manchester City,Vincent Kompany,Defender,Belgium
+2801,2018/19,Manchester City,John Stones,Defender,England
+2802,2018/19,Manchester City,Aymeric Laporte,Defender,Spain
+2803,2018/19,Manchester City,Benjamin Mendy,Defender,France
+2804,2018/19,Manchester City,Tosin Adarabioyo,Defender,England
+2805,2018/19,Manchester City,Nicolás Otamendi,Defender,Argentina
+2806,2018/19,Manchester City,Pablo Maffeo,Defender,Spain
+2807,2018/19,Manchester City,Ilkay Gündogan,Midfielder,Germany
+2808,2018/19,Manchester City,Kevin De Bruyne,Midfielder,Belgium
+2809,2018/19,Manchester City,Fabian Delph,Midfielder,England
+2810,2018/19,Manchester City,Bernardo Silva,Midfielder,Portugal
+2811,2018/19,Manchester City,David Silva,Midfielder,Spain
+2812,2018/19,Manchester City,Fernandinho,Midfielder,Brazil
+2813,2018/19,Manchester City,Oleksandr Zinchenko,Defender,Ukraine
+2814,2018/19,Manchester City,Yaya Touré,Midfielder,Cote D’Ivoire
+2815,2018/19,Manchester City,Phil Foden,Midfielder,England
+2816,2018/19,Manchester City,Tom Dele-Bashiru,Midfielder,Nigeria
+2817,2018/19,Manchester City,Raheem Sterling,Forward,England
+2818,2018/19,Manchester City,Sergio Agüero,Forward,Argentina
+2819,2018/19,Manchester City,Leroy Sané,Forward,Germany
+2820,2018/19,Manchester City,Gabriel Jesus,Forward,Brazil
+2821,2018/19,Manchester City,Lukas Nmecha,Forward,Germany
+2822,2018/19,Manchester City,Brahim Díaz,Forward,Spain
+2823,2018/19,Manchester City,Erik Palmer-Brown,Defender,United States
+2824,2018/19,Manchester City,Patrick Roberts,Midfielder,England
+2825,2018/19,Manchester City,Aleix García,Midfielder,Spain
+2826,2018/19,Manchester City,Olarenwaju Kayode,Forward,Nigeria
+2827,2018/19,Manchester City,Arijanet Muric,Goalkeeper,Kosovo
+2828,2018/19,Manchester City,Riyad Mahrez,Forward,Algeria
+2829,2018/19,Manchester City,Cameron Humphreys-Grant,Defender,England
+2830,2018/19,Manchester City,Tyreke Wilson,Defender,Ireland
+2831,2018/19,Manchester City,Nathanael Ogbeta,Defender,England
+2832,2018/19,Manchester City,Douglas Luiz,Midfielder,Brazil
+2833,2018/19,Manchester City,Jack Harrison,Midfielder,England
+2834,2018/19,Manchester City,Iker Pozo,Midfielder,Spain
+2835,2018/19,Manchester City,Benjamín Garré,Midfielder,Argentina
+2836,2018/19,Manchester City,Nabili Zoubdi Touaizi,Forward,Morocco
+2837,2018/19,Manchester City,Rabbi Matondo,Forward,Wales
+2838,2018/19,Manchester City,Eliaquim Mangala,Defender,France
+2839,2018/19,Manchester City,Philippe Sandler,Defender,Netherlands
+2840,2018/19,Manchester City,Daniel Arzani,Midfielder,Australia
+2841,2018/19,Manchester City,Adrián Bernabé,Midfielder,Spain
+2842,2018/19,Manchester City,Claudio Gomes,Midfielder,France
+2843,2018/19,Manchester City,Felix Nmecha,Midfielder,England
+2844,2018/19,Manchester City,Marlos Moreno,Forward,Colombia
+2845,2018/19,Manchester City,Luke Bolton,Midfielder,England
+2846,2018/19,Manchester City,Taylor Richards,Forward,England
+2847,2018/19,Manchester City,Eric García,Defender,Spain
+2848,2018/19,Manchester City,Ian Poveda-Ocampo,Forward,England
+2849,2018/19,Manchester United,David de Gea,Goalkeeper,Spain
+2850,2018/19,Manchester United,Sergio Romero,Goalkeeper,Argentina
+2851,2018/19,Manchester United,Joel Pereira,Goalkeeper,Portugal
+2852,2018/19,Manchester United,Victor Lindelöf,Defender,Sweden
+2853,2018/19,Manchester United,Eric Bailly,Defender,Cote D’Ivoire
+2854,2018/19,Manchester United,Phil Jones,Defender,England
+2855,2018/19,Manchester United,Marcos Rojo,Defender,Argentina
+2856,2018/19,Manchester United,Chris Smalling,Defender,England
+2857,2018/19,Manchester United,Daley Blind,Defender,Netherlands
+2858,2018/19,Manchester United,Ashley Young,Defender,England
+2859,2018/19,Manchester United,Luke Shaw,Defender,England
+2860,2018/19,Manchester United,Antonio Valencia,Defender,Ecuador
+2861,2018/19,Manchester United,Matteo Darmian,Defender,Italy
+2862,2018/19,Manchester United,Paul Pogba,Midfielder,France
+2863,2018/19,Manchester United,Juan Mata,Midfielder,Spain
+2864,2018/19,Manchester United,Jesse Lingard,Midfielder,England
+2865,2018/19,Manchester United,Michael Carrick,Midfielder,England
+2866,2018/19,Manchester United,Ander Herrera,Midfielder,Spain
+2867,2018/19,Manchester United,Marouane Fellaini,Midfielder,Belgium
+2868,2018/19,Manchester United,Nemanja Matic,Midfielder,Serbia
+2869,2018/19,Manchester United,Scott McTominay,Midfielder,Scotland
+2870,2018/19,Manchester United,Angel Gomes,Midfielder,England
+2871,2018/19,Manchester United,Alexis Sánchez,Forward,Chile
+2872,2018/19,Manchester United,Romelu Lukaku,Forward,Belgium
+2873,2018/19,Manchester United,Anthony Martial,Forward,France
+2874,2018/19,Manchester United,Marcus Rashford,Forward,England
+2875,2018/19,Manchester United,Ethan Hamilton,Forward,Scotland
+2876,2018/19,Manchester United,Diogo Dalot,Defender,Portugal
+2877,2018/19,Manchester United,Fred,Midfielder,Brazil
+2878,2018/19,Manchester United,Sam Johnstone,Goalkeeper,England
+2879,2018/19,Manchester United,Timothy Fosu-Mensah,Defender,Netherlands
+2880,2018/19,Manchester United,Andreas Pereira,Midfielder,Brazil
+2881,2018/19,Manchester United,Lee Grant,Goalkeeper,England
+2882,2018/19,Manchester United,Joshua Bohui,Forward,England
+2883,2018/19,Manchester United,Tahith Chong,Midfielder,Netherlands
+2884,2018/19,Manchester United,James Garner,Midfielder,England
+2885,2018/19,Manchester United,Mason Greenwood,Forward,England
+2886,2018/19,Manchester United,Demetri Mitchell,Defender,England
+2887,2018/19,Manchester United,Ro-Shaun Williams,Defender,England
+2888,2018/19,Manchester United,Kieran O'Hara,Goalkeeper,Ireland
+2889,2018/19,Manchester United,Matej Kovar,Goalkeeper,Czech Republic
+2890,2018/19,Manchester United,Axel Tuanzebe,Defender,England
+2891,2018/19,Newcastle United,Robert Elliot,Goalkeeper,Ireland
+2892,2018/19,Newcastle United,Martin Dúbravka,Goalkeeper,Slovakia
+2893,2018/19,Newcastle United,Karl Darlow,Goalkeeper,England
+2894,2018/19,Newcastle United,Ciaran Clark,Defender,Ireland
+2895,2018/19,Newcastle United,Paul Dummett,Defender,Wales
+2896,2018/19,Newcastle United,Jamaal Lascelles,Defender,England
+2897,2018/19,Newcastle United,Chancel Mbemba,Defender,DR Congo
+2898,2018/19,Newcastle United,Javier Manquillo,Defender,Spain
+2899,2018/19,Newcastle United,Florian Lejeune,Defender,France
+2900,2018/19,Newcastle United,DeAndre Yedlin,Defender,United States
+2901,2018/19,Newcastle United,Massadio Haidara,Defender,Mali
+2902,2018/19,Newcastle United,Jesús Gámez,Defender,Spain
+2903,2018/19,Newcastle United,Jacob Murphy,Midfielder,England
+2904,2018/19,Newcastle United,Jonjo Shelvey,Midfielder,England
+2905,2018/19,Newcastle United,Mohamed Diamé,Midfielder,Senegal
+2906,2018/19,Newcastle United,Matt Ritchie,Midfielder,Scotland
+2907,2018/19,Newcastle United,Isaac Hayden,Midfielder,England
+2908,2018/19,Newcastle United,Mikel Merino,Midfielder,Spain
+2909,2018/19,Newcastle United,Christian Atsu,Midfielder,Ghana
+2910,2018/19,Newcastle United,Dwight Gayle,Forward,England
+2911,2018/19,Newcastle United,Islam Slimani,Forward,Algeria
+2912,2018/19,Newcastle United,Ayoze Pérez,Forward,Spain
+2913,2018/19,Newcastle United,Joselu,Forward,Spain
+2914,2018/19,Newcastle United,Freddie Woodman,Goalkeeper,England
+2915,2018/19,Newcastle United,Achraf Lazaar,Defender,Morocco
+2916,2018/19,Newcastle United,Jamie Sterry,Defender,England
+2917,2018/19,Newcastle United,Daniel Barlaser,Midfielder,England
+2918,2018/19,Newcastle United,Ki Sung-Yueng,Midfielder,South Korea
+2919,2018/19,Newcastle United,Matz Sels,Goalkeeper,Belgium
+2920,2018/19,Newcastle United,Kenedy,Midfielder,Brazil
+2921,2018/19,Newcastle United,Fabian Schär,Defender,Switzerland
+2922,2018/19,Newcastle United,Yoshinori Muto,Forward,Japan
+2923,2018/19,Newcastle United,Salomón Rondón,Forward,Venezuela
+2924,2018/19,Newcastle United,Federico Fernández,Defender,Argentina
+2925,2018/19,Newcastle United,Sean Longstaff,Midfielder,England
+2926,2018/19,Newcastle United,Callum Roberts,Midfielder,England
+2927,2018/19,Newcastle United,Nathan Harker,Goalkeeper,England
+2928,2018/19,Newcastle United,Antonio Barreca,Defender,Italy
+2929,2018/19,Newcastle United,Miguel Almirón,Midfielder,Paraguay
+2930,2018/19,Newcastle United,Lewis Cass,Defender,England
+2931,2018/19,Newcastle United,Kelland Watts,Midfielder,England
+2932,2018/19,Southampton,Alex McCarthy,Goalkeeper,England
+2933,2018/19,Southampton,Stuart Taylor,Goalkeeper,England
+2934,2018/19,Southampton,Fraser Forster,Goalkeeper,England
+2935,2018/19,Southampton,Cédric Soares,Defender,Portugal
+2936,2018/19,Southampton,Maya Yoshida,Defender,Japan
+2937,2018/19,Southampton,Jack Stephens,Defender,England
+2938,2018/19,Southampton,Wesley Hoedt,Defender,Netherlands
+2939,2018/19,Southampton,Ryan Bertrand,Defender,England
+2940,2018/19,Southampton,Jérémy Pied,Defender,France
+2941,2018/19,Southampton,Jan Bednarek,Defender,Poland
+2942,2018/19,Southampton,Sam McQueen,Defender,England
+2943,2018/19,Southampton,Steven Davis,Midfielder,Northern Ireland
+2944,2018/19,Southampton,Dusan Tadic,Midfielder,Serbia
+2945,2018/19,Southampton,Oriol Romeu,Midfielder,Spain
+2946,2018/19,Southampton,James Ward-Prowse,Midfielder,England
+2947,2018/19,Southampton,Mario Lemina,Midfielder,Gabon
+2948,2018/19,Southampton,Sofiane Boufal,Midfielder,Morocco
+2949,2018/19,Southampton,Nathan Redmond,Midfielder,England
+2950,2018/19,Southampton,Pierre-Emile Højbjerg,Midfielder,Denmark
+2951,2018/19,Southampton,Josh Sims,Midfielder,England
+2952,2018/19,Southampton,Jake Hesketh,Midfielder,England
+2953,2018/19,Southampton,Shane Long,Forward,Ireland
+2954,2018/19,Southampton,Guido Carrillo,Forward,Argentina
+2955,2018/19,Southampton,Charlie Austin,Forward,England
+2956,2018/19,Southampton,Manolo Gabbiadini,Forward,Italy
+2957,2018/19,Southampton,Michael Obafemi,Forward,Ireland
+2958,2018/19,Southampton,Stuart Armstrong,Midfielder,Scotland
+2959,2018/19,Southampton,Matt Targett,Defender,England
+2960,2018/19,Southampton,Mohamed Elyounoussi,Midfielder,Norway
+2961,2018/19,Southampton,Sam Gallagher,Forward,England
+2962,2018/19,Southampton,Yan Valery,Defender,France
+2963,2018/19,Southampton,Alfie Jones,Defender,England
+2964,2018/19,Southampton,Jake Flannigan,Midfielder,England
+2965,2018/19,Southampton,Angus Gunn,Goalkeeper,England
+2966,2018/19,Southampton,Jannik Vestergaard,Defender,Denmark
+2967,2018/19,Southampton,Harry Lewis,Goalkeeper,England
+2968,2018/19,Southampton,Harrison Reed,Midfielder,England
+2969,2018/19,Southampton,Danny Ings,Forward,England
+2970,2018/19,Southampton,Tyreke Johnson,Midfielder,England
+2971,2018/19,Southampton,Kayne Ramsay,Defender,England
+2972,2018/19,Southampton,Callum Slattery,Midfielder,England
+2973,2018/19,Southampton,Marcus Barnes,Forward,England
+2974,2018/19,Southampton,Danny Ings,Forward,England
+2975,2018/19,Tottenham Hotspur,Hugo Lloris,Goalkeeper,France
+2976,2018/19,Tottenham Hotspur,Michel Vorm,Goalkeeper,Netherlands
+2977,2018/19,Tottenham Hotspur,Paulo Gazzaniga,Goalkeeper,Argentina
+2978,2018/19,Tottenham Hotspur,Alfie Whiteman,Goalkeeper,England
+2979,2018/19,Tottenham Hotspur,Kieran Trippier,Defender,England
+2980,2018/19,Tottenham Hotspur,Danny Rose,Defender,England
+2981,2018/19,Tottenham Hotspur,Toby Alderweireld,Defender,Belgium
+2982,2018/19,Tottenham Hotspur,Jan Vertonghen,Defender,Belgium
+2983,2018/19,Tottenham Hotspur,Davinson Sánchez,Defender,Colombia
+2984,2018/19,Tottenham Hotspur,Juan Foyth,Defender,Argentina
+2985,2018/19,Tottenham Hotspur,Serge Aurier,Defender,Cote D’Ivoire
+2986,2018/19,Tottenham Hotspur,Ben Davies,Defender,Wales
+2987,2018/19,Tottenham Hotspur,Kyle Walker-Peters,Defender,England
+2988,2018/19,Tottenham Hotspur,Erik Lamela,Midfielder,Argentina
+2989,2018/19,Tottenham Hotspur,Victor Wanyama,Midfielder,Kenya
+2990,2018/19,Tottenham Hotspur,Eric Dier,Defender,England
+2991,2018/19,Tottenham Hotspur,Moussa Sissoko,Midfielder,France
+2992,2018/19,Tottenham Hotspur,Mousa Dembélé,Midfielder,Belgium
+2993,2018/19,Tottenham Hotspur,Dele Alli,Midfielder,England
+2994,2018/19,Tottenham Hotspur,Christian Eriksen,Midfielder,Denmark
+2995,2018/19,Tottenham Hotspur,Lucas Moura,Forward,Brazil
+2996,2018/19,Tottenham Hotspur,Harry Winks,Midfielder,England
+2997,2018/19,Tottenham Hotspur,Anthony Georgiou,Midfielder,Cyprus
+2998,2018/19,Tottenham Hotspur,Tashan Oakley-Boothe,Midfielder,England
+2999,2018/19,Tottenham Hotspur,Son Heung-Min,Forward,South Korea
+3000,2018/19,Tottenham Hotspur,Harry Kane,Forward,England
+3001,2018/19,Tottenham Hotspur,Fernando Llorente,Forward,Spain
+3002,2018/19,Tottenham Hotspur,Kazaiah Sterling,Forward,England
+3003,2018/19,Tottenham Hotspur,Anton Walkes,Defender,England
+3004,2018/19,Tottenham Hotspur,Georges-Kévin Nkoudou,Midfielder,France
+3005,2018/19,Tottenham Hotspur,Luke Amos,Midfielder,England
+3006,2018/19,Tottenham Hotspur,Vincent Janssen,Forward,Netherlands
+3007,2018/19,Tottenham Hotspur,Cameron Carter-Vickers,Defender,United States
+3008,2018/19,Tottenham Hotspur,Brandon Austin,Goalkeeper,England
+3009,2018/19,Tottenham Hotspur,Japhet Tanganga,Defender,England
+3010,2018/19,Tottenham Hotspur,Jonathan Dinzeyi,Defender,England
+3011,2018/19,Tottenham Hotspur,Shilow Tracey,Midfielder,England
+3012,2018/19,Tottenham Hotspur,Paris Maghoma,Midfielder,England
+3013,2018/19,Tottenham Hotspur,Jamie Bowden,Midfielder,Ireland
+3014,2018/19,Tottenham Hotspur,Timothy Eyoma,Defender,England
+3015,2018/19,Tottenham Hotspur,George Marsh,Midfielder,England
+3016,2018/19,Tottenham Hotspur,Oliver Skipp,Midfielder,England
+3017,2018/19,Tottenham Hotspur,Michel Vorm,Goalkeeper,Netherlands
+3018,2018/19,Watford,Heurelho Gomes,Goalkeeper,Brazil
+3019,2018/19,Watford,Orestis Karnezis,Goalkeeper,Greece
+3020,2018/19,Watford,Daniel Bachmann,Goalkeeper,Austria
+3021,2018/19,Watford,Ben Wilmot,Defender,England
+3022,2018/19,Watford,Daryl Janmaat,Defender,Netherlands
+3023,2018/19,Watford,Miguel Britos,Defender,Uruguay
+3024,2018/19,Watford,Younes Kaboul,Defender,France
+3025,2018/19,Watford,Sebastian Prödl,Defender,Austria
+3026,2018/19,Watford,Adrian Mariappa,Defender,Jamaica
+3027,2018/19,Watford,Craig Cathcart,Defender,Northern Ireland
+3028,2018/19,Watford,Kiko Femenía,Defender,Spain
+3029,2018/19,Watford,Marvin Zeegelaar,Defender,Netherlands
+3030,2018/19,Watford,José Holebas,Defender,Greece
+3031,2018/19,Watford,Christian Kabasele,Defender,Belgium
+3032,2018/19,Watford,Joy Mukena,Defender,England
+3033,2018/19,Watford,Tom Cleverley,Midfielder,England
+3034,2018/19,Watford,Didier Ndong,Midfielder,Gabon
+3035,2018/19,Watford,Nathaniel Chalobah,Midfielder,England
+3036,2018/19,Watford,Abdoulaye Doucouré,Midfielder,France
+3037,2018/19,Watford,Will Hughes,Midfielder,England
+3038,2018/19,Watford,Dodi Lukébakio,Midfielder,Belgium
+3039,2018/19,Watford,André Carrillo,Midfielder,Peru
+3040,2018/19,Watford,Etienne Capoue,Midfielder,France
+3041,2018/19,Watford,Roberto Pereyra,Midfielder,Argentina
+3042,2018/19,Watford,Gerard Deulofeu,Forward,Spain
+3043,2018/19,Watford,Troy Deeney,Forward,England
+3044,2018/19,Watford,Richarlison,Forward,Brazil
+3045,2018/19,Watford,Jerome Sinclair,Forward,England
+3046,2018/19,Watford,Andre Gray,Forward,Jamaica
+3047,2018/19,Watford,Stefano Okaka,Forward,Italy
+3048,2018/19,Watford,Gerard Deulofeu,Forward,Spain
+3049,2018/19,Watford,Marc Navarro,Defender,Spain
+3050,2018/19,Watford,Pontus Dahlberg,Goalkeeper,Sweden
+3051,2018/19,Watford,Costel Pantilimon,Goalkeeper,Romania
+3052,2018/19,Watford,Dimitri Foulquier,Defender,Guadeloupe
+3053,2018/19,Watford,Brice Dja Djédjé,Defender,Cote D’Ivoire
+3054,2018/19,Watford,Brandon Mason,Defender,England
+3055,2018/19,Watford,Isaac Success,Forward,Nigeria
+3056,2018/19,Watford,Mauro Zárate,Forward,Argentina
+3057,2018/19,Watford,Michael Folivi,Forward,England
+3058,2018/19,Watford,Adam Masina,Defender,Morocco
+3059,2018/19,Watford,Ken Sema,Midfielder,Sweden
+3060,2018/19,Watford,Ben Foster,Goalkeeper,England
+3061,2018/19,Watford,Adalberto Peñaranda,Forward,Venezuela
+3062,2018/19,Watford,Domingos Quina,Midfielder,Portugal
+3063,2018/19,West Ham United,Adrián,Goalkeeper,Spain
+3064,2018/19,West Ham United,Nathan Trott,Goalkeeper,England
+3065,2018/19,West Ham United,Winston Reid,Defender,New Zealand
+3066,2018/19,West Ham United,Aaron Cresswell,Defender,England
+3067,2018/19,West Ham United,Pablo Zabaleta,Defender,Argentina
+3068,2018/19,West Ham United,James Collins,Defender,Wales
+3069,2018/19,West Ham United,Angelo Ogbonna,Defender,Italy
+3070,2018/19,West Ham United,Sam Byram,Defender,England
+3071,2018/19,West Ham United,Arthur Masuaku,Defender,DR Congo
+3072,2018/19,West Ham United,Patrice Evra,Defender,France
+3073,2018/19,West Ham United,Josh Pask,Defender,England
+3074,2018/19,West Ham United,Vashon Neufville,Defender,England
+3075,2018/19,West Ham United,Cheikhou Kouyaté,Midfielder,Senegal
+3076,2018/19,West Ham United,Manuel Lanzini,Midfielder,Argentina
+3077,2018/19,West Ham United,Pedro Obiang,Midfielder,Equatorial Guinea
+3078,2018/19,West Ham United,Mark Noble,Midfielder,England
+3079,2018/19,West Ham United,João Mário,Midfielder,Portugal
+3080,2018/19,West Ham United,Sead Haksabanovic,Midfielder,Montenegro
+3081,2018/19,West Ham United,Michail Antonio,Forward,Jamaica
+3082,2018/19,West Ham United,Edimilson Fernandes,Midfielder,Switzerland
+3083,2018/19,West Ham United,Josh Cullen,Midfielder,Ireland
+3084,2018/19,West Ham United,Domingos Quina,Midfielder,Portugal
+3085,2018/19,West Ham United,Nathan Holland,Midfielder,England
+3086,2018/19,West Ham United,Declan Rice,Midfielder,England
+3087,2018/19,West Ham United,Ben Johnson,Midfielder,England
+3088,2018/19,West Ham United,Marko Arnautovic,Forward,Austria
+3089,2018/19,West Ham United,Andy Carroll,Forward,England
+3090,2018/19,West Ham United,Jordan Hugill,Forward,England
+3091,2018/19,West Ham United,Chicharito,Forward,Mexico
+3092,2018/19,West Ham United,Ryan Fredericks,Defender,England
+3093,2018/19,West Ham United,Issa Diop,Defender,France
+3094,2018/19,West Ham United,Lukasz Fabianski,Goalkeeper,Poland
+3095,2018/19,West Ham United,Reece Burke,Defender,England
+3096,2018/19,West Ham United,Reece Oxford,Defender,England
+3097,2018/19,West Ham United,Robert Snodgrass,Midfielder,Scotland
+3098,2018/19,West Ham United,Martin Samuelsen,Midfielder,Norway
+3099,2018/19,West Ham United,Moses Makasi,Midfielder,England
+3100,2018/19,West Ham United,Jack Wilshere,Midfielder,England
+3101,2018/19,West Ham United,Andriy Yarmolenko,Forward,Ukraine
+3102,2018/19,West Ham United,Fabián Balbuena,Defender,Paraguay
+3103,2018/19,West Ham United,Felipe Anderson,Midfielder,Brazil
+3104,2018/19,West Ham United,Toni Martínez,Forward,Spain
+3105,2018/19,West Ham United,Lucas Pérez,Forward,Spain
+3106,2018/19,West Ham United,Carlos Sánchez,Midfielder,Colombia
+3107,2018/19,West Ham United,Grady Diangana,Midfielder,England
+3108,2018/19,West Ham United,Joe Powell,Midfielder,England
+3109,2018/19,West Ham United,Conor Coventry,Midfielder,Ireland
+3110,2018/19,West Ham United,Xande Silva,Forward,Portugal
+3111,2018/19,West Ham United,Samir Nasri,Midfielder,France
+3112,2018/19,Wolverhampton Wanderers,Carl Ikeme,Goalkeeper,Nigeria
+3113,2018/19,Wolverhampton Wanderers,Harry Burgoyne,Goalkeeper,England
+3114,2018/19,Wolverhampton Wanderers,John Ruddy,Goalkeeper,England
+3115,2018/19,Wolverhampton Wanderers,Will Norris,Goalkeeper,England
+3116,2018/19,Wolverhampton Wanderers,Matt Doherty,Defender,Ireland
+3117,2018/19,Wolverhampton Wanderers,Barry Douglas,Defender,Scotland
+3118,2018/19,Wolverhampton Wanderers,Ryan Bennett,Defender,England
+3119,2018/19,Wolverhampton Wanderers,Danny Batth,Defender,England
+3120,2018/19,Wolverhampton Wanderers,Conor Coady,Defender,England
+3121,2018/19,Wolverhampton Wanderers,Phil Ofosu-Ayeh,Defender,Ghana
+3122,2018/19,Wolverhampton Wanderers,Roderick Miranda,Defender,Portugal
+3123,2018/19,Wolverhampton Wanderers,Rúben Vinagre,Defender,Portugal
+3124,2018/19,Wolverhampton Wanderers,Kortney Hause,Defender,England
+3125,2018/19,Wolverhampton Wanderers,Alfred N'Diaye,Midfielder,Senegal
+3126,2018/19,Wolverhampton Wanderers,Rúben Neves,Midfielder,Portugal
+3127,2018/19,Wolverhampton Wanderers,Jordan Graham,Midfielder,England
+3128,2018/19,Wolverhampton Wanderers,Diogo Jota,Midfielder,Portugal
+3129,2018/19,Wolverhampton Wanderers,Morgan Gibbs-White,Midfielder,England
+3130,2018/19,Wolverhampton Wanderers,Romain Saïss,Midfielder,Morocco
+3131,2018/19,Wolverhampton Wanderers,Pote,Midfielder,Portugal
+3132,2018/19,Wolverhampton Wanderers,Ivan Cavaleiro,Forward,Portugal
+3133,2018/19,Wolverhampton Wanderers,Rafa Mir,Forward,Spain
+3134,2018/19,Wolverhampton Wanderers,Hélder Costa,Forward,Angola
+3135,2018/19,Wolverhampton Wanderers,Bright Enobakhare,Forward,Nigeria
+3136,2018/19,Wolverhampton Wanderers,Léo Bonatini,Forward,Brazil
+3137,2018/19,Wolverhampton Wanderers,Raúl Jiménez,Forward,Mexico
+3138,2018/19,Wolverhampton Wanderers,Benik Afobe,Forward,DR Congo
+3139,2018/19,Wolverhampton Wanderers,Willy Boly,Defender,Cote D’Ivoire
+3140,2018/19,Wolverhampton Wanderers,Sylvain Deslandes,Defender,France
+3141,2018/19,Wolverhampton Wanderers,Connor Johnson,Defender,England
+3142,2018/19,Wolverhampton Wanderers,Ben Stevenson,Midfielder,England
+3143,2018/19,Wolverhampton Wanderers,Ben Marshall,Midfielder,England
+3144,2018/19,Wolverhampton Wanderers,Connor Ronan,Midfielder,Ireland
+3145,2018/19,Wolverhampton Wanderers,Daniel Armstrong,Midfielder,Scotland
+3146,2018/19,Wolverhampton Wanderers,Michal Zyro,Forward,Poland
+3147,2018/19,Wolverhampton Wanderers,Paul Gladon,Forward,Netherlands
+3148,2018/19,Wolverhampton Wanderers,Donovan Wilson,Forward,England
+3149,2018/19,Wolverhampton Wanderers,Rúben Vinagre,Defender,Portugal
+3150,2018/19,Wolverhampton Wanderers,Rui Patrício,Goalkeeper,Portugal
+3151,2018/19,Wolverhampton Wanderers,Prince Oniangué,Midfielder,Congo
+3152,2018/19,Wolverhampton Wanderers,Diogo Jota,Forward,Portugal
+3153,2018/19,Wolverhampton Wanderers,Cameron John,Defender,England
+3154,2018/19,Wolverhampton Wanderers,Ryan Giles,Midfielder,England
+3155,2018/19,Wolverhampton Wanderers,Elliot Watt,Midfielder,Scotland
+3156,2018/19,Wolverhampton Wanderers,Pedro Pereira,Midfielder,Portugal
+3157,2018/19,Wolverhampton Wanderers,João Moutinho,Midfielder,Portugal
+3158,2018/19,Wolverhampton Wanderers,Jonny,Defender,Spain
+3159,2018/19,Wolverhampton Wanderers,Joe Mason,Forward,England
+3160,2018/19,Wolverhampton Wanderers,Adama Traoré,Forward,Spain
+3161,2018/19,Wolverhampton Wanderers,Leander Dendoncker,Midfielder,Belgium
+3162,2018/19,Wolverhampton Wanderers,Benny Ashley-Seal,Forward,England
+3163,2018/19,Wolverhampton Wanderers,Maximilian Kilman,Defender,England
+3164,2018/19,Wolverhampton Wanderers,Jonny,Defender,Spain
+3165,2018/19,Wolverhampton Wanderers,Niall Ennis,Forward,England
+3166,2018/19,Wolverhampton Wanderers,Ethan Ebanks-Landell,Defender,England
+3167,2018/19,Wolverhampton Wanderers,Oskar Buur,Defender,Denmark
