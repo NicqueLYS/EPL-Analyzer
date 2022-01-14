@@ -2,7 +2,7 @@
 
 ## Description
 
-THis is a great tool to analyze Premier League teams for the past three seasons (2018/19 - 2020/2021)
+This is a great tool to analyze Premier League teams for the past three seasons (2018/19 - 2020/2021)
 
 ## Help
 
