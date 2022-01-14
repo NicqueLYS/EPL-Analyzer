@@ -7,9 +7,6 @@ THis is a great tool to analyze Premier League teams for the past three seasons 
 ## Help
 
 Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
