@@ -14,84 +14,45 @@
           <a class="nav-link text-white {% if 'index' in segment %} active bg-gradient-info {% endif %}" 
              href="/">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">dashboard</i>
+              <i class="material-icons opacity-10">emoji_events</i>
             </div>
             <span class="nav-link-text ms-1">Dashboard</span>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white {% if 'tables' in segment %} active bg-gradient-info {% endif %}" 
-             href="/tables.html">
+          <a class="nav-link text-white {% if 'tables' in segment %} active bg-gradient-info {% endif %}">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">assessment</i>
+              <i class="material-icons opacity-10">noise_aware</i>
             </div>
-            <span class="nav-link-text ms-1">Tables</span>
+            <span class="nav-link-text ms-1">Coming soon</span>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white {% if 'template' in segment %} active bg-gradient-info {% endif %}" 
-             href="/template.html">
+          <a class="nav-link text-white {% if 'template' in segment %} active bg-gradient-info {% endif %}" >
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">person</i>
+              <i class="material-icons opacity-10">noise_aware</i>
             </div>
-            <span class="nav-link-text ms-1">Player</span>
+            <span class="nav-link-text ms-1">Coming soon</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white {% if 'billing' in segment %} active bg-gradient-info {% endif %}">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">table_view</i>
+              <i class="material-icons opacity-10">noise_aware</i>
             </div>
-            <span class="nav-link-text ms-1">--Coming soon--</span>
+            <span class="nav-link-text ms-1">Coming soon</span>
           </a>
         </li>
-        <!--
-        <li class="nav-item">
-          <a class="nav-link text-white {% if 'billing' in segment %} active bg-gradient-primary {% endif %}" 
-             href="/billing.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">receipt_long</i>
-            </div>
-            <span class="nav-link-text ms-1">Billing</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white {% if 'virtual' in segment %} active bg-gradient-primary {% endif %}" 
-             href="/virtual-reality.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">view_in_ar</i>
-            </div>
-            <span class="nav-link-text ms-1">Virtual Reality</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white " href="/rtl.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">format_textdirection_r_to_l</i>
-            </div>
-            <span class="nav-link-text ms-1">RTL</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white {% if 'notifications' in segment %} active bg-gradient-primary {% endif %}" 
-             href="/notifications.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-              <i class="material-icons opacity-10">notifications</i>
-            </div>
-            <span class="nav-link-text ms-1">Notifications</span>
-          </a>
-        </li>
-        -->
         <li class="nav-item mt-3">
           <h6 class="ps-4 ms-2 text-uppercase text-xs text-white font-weight-bolder opacity-8">Account pages</h6>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white {% if 'profile' in segment %} active bg-gradient-info {% endif %}" 
-             href="/profile.html">
+          <a class="nav-link text-white {% if 'password-change' in segment %} active bg-gradient-info {% endif %}" 
+             href="{% url 'password-change-view' %}">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
-            <span class="nav-link-text ms-1">Profile</span>
+            <span class="nav-link-text ms-1">Update Password</span>
           </a>
         </li>
         <li class="nav-item">
@@ -104,14 +65,7 @@
         </li>
       </ul>
     </div>
-    <!--
-    <div class="sidenav-footer position-absolute w-100 bottom-0 ">
-      <div class="mx-3">
-        <a class="btn bg-gradient-primary mt-4 w-100" 
-           target="_blank" 
-           href="https://appseed.us/product/django-material-dashboard2-pro" type="button">Upgrade to pro</a>
-      </div>
-    </div>
-    -->
   </aside>
+
+
   

@@ -7,7 +7,8 @@ from django import template
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
-from django.urls import reverse
+from django.urls import reverse, reverse_lazy
+from django.contrib.auth.views import PasswordChangeView,PasswordResetDoneView
 
 from django.shortcuts import render
 from django.http import HttpResponse
@@ -58,19 +59,85 @@ def pages(request):
 
 
 class Api(TemplateView):
+    """
     def getSeabornGraph(request):
         file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
         df = pd.read_csv(file_path)
-        graph = sb.catplot(x='Season', y ="Won", hue='Club', data=df, kind='bar') # col='Season', col_wrap=5
+        graph = sb.catplot(x='Won', y ="Season", hue='Club', data=df, kind='bar') # col='Season', col_wrap=5
         response = HttpResponse(content_type="image/jpeg")
         graph.savefig(response, format="png")
         return response
+    """
 
-    def getData(request):
-        file_path2 = MEDIA_ROOT+"/data/premierleague_player.csv"
-        #samp = np.random.randint(100,600,size=(4,5))
-        df2 = pd.read_csv(file_path2)
-        return HttpResponse(df2.to_html(classes='table table-bordered')) #convert to html table
+    def getSeabornGraphTWon(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Won", y ="Season", hue='Club', data=df, kind='bar')
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+
+    def getSeabornGraphTDraw(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Drawn", y ="Season", hue='Club', data=df, kind='bar')
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+
+    def getSeabornGraphTLost(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Lost", y ="Season", hue='Club', data=df, kind='bar')
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+    
+    def getSeabornGraphTGD(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Goal Difference", y ="Season", hue='Club', data=df, kind='bar')
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+    
+    def getSeabornGraphTPTS(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_tables.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Points", y ="Season", hue='Club', data=df, kind='bar')
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+
+    def getSeabornGraphPPosition(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_player.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Season No.", y ="Club", hue='Position', data=df, kind='bar', order=df.Club.value_counts().iloc[:10].index)
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+
+    def getSeabornGraphPCountry(request):
+        file_path = MEDIA_ROOT+"/data/premierleague_player.csv"
+        df = pd.read_csv(file_path)
+        graph = sb.catplot(x="Season No.", y ="Club", hue='Nationatility', data=df, kind='bar', order=df.Club.value_counts().iloc[:10].index)
+        response = HttpResponse(content_type="image/jpeg")
+        graph.savefig(response, format="png")
+        plt.close()
+        return response
+
+class MyPasswordChangeView(PasswordChangeView):
+    template_name = 'home/password-change.html'
+    success_url = reverse_lazy('password-change-done-view')
+
+class MyPasswordResetDoneView(PasswordResetDoneView):
+    template_name = 'home/password-reset-done.html'
 
 """
 from django.shortcuts import render
